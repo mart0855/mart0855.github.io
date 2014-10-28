@@ -83,6 +83,10 @@ small, .milli {
   line-height: 1.8984;
 }
 
+blockquote {
+  background-color: #F07C2E;
+}
+
 .push {
   margin-bottom: 1.5rem;
 }
@@ -153,7 +157,7 @@ small, .milli {
 h1, h2, h3, h4, h5, h6,
 .brand {
   font-family: 'Raleway', sans-serif;
-  color: red;
+  color: #4A5159;
 }
 
 .brand-family {
