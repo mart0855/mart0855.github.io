@@ -1,0 +1,23 @@
+# TEAM
+
+Designer & Developer: Alexander Martin
+Site: http://alexandermartin.ca
+Github: http://github.com/mart0855
+Twitter: @alexmartin_dsnr
+Email: design@alexandermartin.ca
+Location: Ottawa, Canada
+
+---
+
+# THANKS
+
+Slideshow from Some Person <http://slideshow.com>
+Big Image © Another Person <http://geddyimages.com>
+
+---
+
+# TECHNOLOGY
+
+- Sublime Text
+- GitHub
+- Hover.com
