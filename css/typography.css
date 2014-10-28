@@ -1,5 +1,5 @@
 html {
-  font: normal 100%/1.5 Georgia,serif;
+  font: normal 100%/1.5 'PT Serif', serif;;
 }
 
 @media only screen and (min-width: 60em) {
@@ -152,14 +152,14 @@ small, .milli {
 
 h1, h2, h3, h4, h5, h6,
 .brand {
-  font-family: Helvetica,sans-serif;
+  font-family: 'Raleway', sans-serif;
   color: red;
 }
 
 .brand-family {
-  font-family: Helvetica,sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 .brand-color {
-  color: red;
+  color: #00ADEF;
 }
