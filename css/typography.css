@@ -1,29 +1,20 @@
+/*
+  Colour Palette
+  - Background beige: #f2f1ed - rgb(242, 241, 237)
+  - Heading green: #5d8432 - rgb(93,132,50)
+  - Mark light green: #e3f595 - rgb(227,245,149);
+  - Link purple: #793284 - rgb(121,50,132)
+  - Link desaturated purple: #68446e - rgb(104,68,110)
+  - Link magenta: #b42885 - rgb(180,40,133)
+  - Light brown: #c7c0ae - rgb(199, 192, 174)
+  - Light-light brown: #eae8e1 - rgb(234, 232, 225)
+ */
+
 html {
-  font: normal 100%/1.5 'PT Serif', serif;;
-}
+  background-color: #EEEEEE;
 
-@media only screen and (min-width: 60em) {
-
-  html {
-    font-size: 110%;
-  }
-
-}
-
-@media only screen and (min-width: 90em) {
-
-  html {
-    font-size: 120%;
-  }
-
-}
-
-@media only screen and (min-width: 120em) {
-
-  html {
-    font-size: 130%;
-  }
-
+  color: #000;
+  font: normal 100%/1.5 "PT Serif",serif;
 }
 
 h1, h2, h3, h4, h5, h6,
@@ -81,10 +72,6 @@ small, .milli {
 .micro {
   font-size: 0.7901rem;
   line-height: 1.8984;
-}
-
-blockquote {
-  background-color: #F07C2E;
 }
 
 .push {
@@ -156,14 +143,157 @@ blockquote {
 
 h1, h2, h3, h4, h5, h6,
 .brand {
-  font-family: 'Raleway', sans-serif;
-  color: #4A5159;
+  color: #515151;
+  font-family: "Raleway",sans-serif;
 }
 
 .brand-family {
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway",sans-serif;
 }
 
 .brand-color {
-  color: #00ADEF;
+  color: #00adef;
+}
+
+a,
+a:link {
+  border-bottom: 0.1em solid rgba(0,173,239,0.5);
+  transition: all 150ms linear;
+
+  color: #00adef;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #9d248e;
+  border-bottom-color: rgba(104,68,110,0.5);
+}
+
+a:hover,
+a:focus,
+a:active {
+  color: #0076a3;
+  border-bottom-color: #0076a3;
+}
+
+a:hover,
+a:active {
+  /* It's okay to remove the focus rectangle for mouse states */
+  outline: none;
+}
+
+a:focus,
+input:focus,
+button:focus {
+  /* The focus rectangle MUST ALWAYS be visible for keyboard states */
+  outline: 3px solid #000;
+}
+
+.block-link {
+  display: block;
+}
+
+sup,
+sub {
+  line-height: 1;
+}
+
+q {
+  quotes: none;
+}
+
+q:before,
+q:after {
+  content: "";
+}
+
+abbr {
+  border-bottom: 0.1em dotted rgba(0,0,0,0.5);
+
+  cursor: help;
+}
+
+ins {
+  border-bottom: 0.1em dotted rgba(0,0,0,0.5);
+
+  color: #000;
+  text-decoration: none;
+}
+
+del {
+  color: rgba(0,0,0,0.5);
+}
+
+mark {
+  background-color: #9fa237;
+}
+
+hr {
+  border: 0;
+  border-bottom: 1px solid #c7c0ae;
+}
+
+dt {
+  font-weight: bold;
+}
+
+dd {
+  margin: 0;
+}
+
+ol {
+  padding: 0;
+}
+
+ul {
+  padding: 0;
+
+  list-style-type: none;
+}
+
+ul li {
+  position: relative;
+}
+
+ul li:before {
+  content: "•";
+  position: absolute;
+  left: -0.6em;
+
+  color: #c7c0ae;
+}
+
+blockquote {
+  padding-left: 1.5rem;
+  background-color: #ed6123;
+  border-left: 4px solid #c7c0ae;
+}
+
+blockquote footer {
+  margin-top: -1.5rem;
+
+  text-align: right;
+}
+
+table {
+  width: 100%;
+
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+caption {
+  font-style: italic;
+}
+
+th {
+  background-color: #eae8e1;
+
+  text-align: left;
+}
+
+th, td {
+  padding: 0.25rem;
+
+  border: 1px solid #c7c0ae;
 }
