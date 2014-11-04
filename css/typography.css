@@ -1,10 +1,10 @@
 /*
   Colour Palette
-  - Background beige: #f2f1ed - rgb(242, 241, 237)
-  - Heading green: #5d8432 - rgb(93,132,50)
-  - Mark light green: #e3f595 - rgb(227,245,149);
-  - Link purple: #793284 - rgb(121,50,132)
-  - Link desaturated purple: #68446e - rgb(104,68,110)
+  - Background orange: #C94613 - rgb(201,70,19)
+  - Heading grey: #515151 - rgb(81,81,81)
+  - Mark orange: #F89107 - rgb(248,145,7);
+  - Link green: #1BBCB8 - rgb(27,188,184)
+  - Link desaturated green: #79BCBA - rgb(121,188,186)
   - Link magenta: #b42885 - rgb(180,40,133)
   - Light brown: #c7c0ae - rgb(199, 192, 174)
   - Light-light brown: #eae8e1 - rgb(234, 232, 225)
@@ -152,15 +152,15 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .brand-color {
-  color: #00adef;
+  color: #0544EB;
 }
 
 a,
 a:link {
-  border-bottom: 0.1em solid rgba(0,173,239,0.5);
+  border-bottom: 0.1em solid rgba(27,188,184,0.5);
   transition: all 150ms linear;
 
-  color: #00adef;
+  color: #1BBCB8;
   text-decoration: none;
 }
 
@@ -172,8 +172,8 @@ a:visited {
 a:hover,
 a:focus,
 a:active {
-  color: #0076a3;
-  border-bottom-color: #0076a3;
+  color: #79BCBA;
+  border-bottom-color: #79BCBA;
 }
 
 a:hover,
@@ -225,7 +225,7 @@ del {
 }
 
 mark {
-  background-color: #9fa237;
+  background-color: #F89107;
 }
 
 hr {
@@ -265,7 +265,7 @@ ul li:before {
 
 blockquote {
   padding-left: 1.5rem;
-  background-color: #ed6123;
+  background-color: #C94613;
   border-left: 4px solid #c7c0ae;
 }
 
@@ -273,6 +273,10 @@ blockquote footer {
   margin-top: -1.5rem;
 
   text-align: right;
+}
+
+blockquote p {
+  color: #fff;
 }
 
 table {
