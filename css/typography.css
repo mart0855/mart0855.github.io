@@ -14,7 +14,7 @@ html {
   background-color: #EEEEEE;
 
   color: #000;
-  font: normal 100%/1.5 "ProximaNovaLight",sans-serif;
+  font: normal 100%/1.5 'Merriweather',serif;
   font-weight: lighter;
   font-size: 1.714rem;
   line-height: 1.813rem;
@@ -29,6 +29,7 @@ fieldset, pre, table {
 }
 
 .yotta {
+  font-weight: 600;
   font-size: 2.2807rem;
   line-height: 1.3154;
 }
@@ -148,11 +149,11 @@ small, .milli {
 h1, h2, h3, h4, h5, h6,
 .brand {
   color: #515151;
-  font-family: "Raleway",sans-serif;
+  font-family: 'Raleway',sans-serif;
 }
 
 .brand-family {
-  font-family: "Raleway",sans-serif;
+  font-family: 'Raleway',sans-serif;
 }
 
 .brand-color {
