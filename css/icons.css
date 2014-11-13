@@ -1,0 +1,45 @@
+.icon {
+	display: inline-block;
+
+	background: transparent none no-repeat center center;
+	background-size: contain;
+
+	vertical-align: middle;
+}
+
+.i-16 {
+	height: 16px;
+	width: 16px;
+}
+
+.i-32 {
+	height: 32px;
+	width: 32px;
+}
+
+.icon-link {
+	display: block;
+
+	color: #66f;
+	text-decoration: none;
+}
+
+.icon-label {
+	border-bottom: 1px solid rgba(102, 102, 255, 0.5);
+}
+
+.i-facebook {
+	background-image: url("../images/icons/i-facebook.svg");
+}
+
+.i-twitter {
+	background-image: url("../images/icons/i-twitter.svg");
+}
+
+.i-pinterest {
+	background-image: url("../images/icons/i-pinterest.svg");
+}
+
+.i-googleplus {
+	background-image: url("../images/icons/i-googleplus.svg");
+}
