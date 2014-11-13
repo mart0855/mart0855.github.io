@@ -14,11 +14,10 @@ html {
   background-color: #EEEEEE;
 
   color: #000;
-  font: normal 100%/1.5 'Merriweather',serif;
+  font: normal 100%/1.5 'PT Serif', Georgia, Times, serif;
   font-weight: lighter;
-  font-size: 1.714rem;
-  line-height: 1.813rem;
-  text-align: center;
+  font-size: 1rem;
+  line-height: 1.50rem;
 }
 
 h1, h2, h3, h4, h5, h6,
@@ -272,6 +271,7 @@ blockquote {
   padding-left: 1.5rem;
   background-color: #C94613;
   border-left: 4px solid #c7c0ae;
+  padding: 1.5rem;
 }
 
 blockquote footer {
