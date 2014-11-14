@@ -67,12 +67,19 @@ header {
   background-color: #000;
 }
 header h1 {
-  color: #9aa6af;
   text-align: left;
   font-size: 27px;
   line-height: 60px;
   font-weight: bold;
   padding-left: 20px;
+}
+
+header h1 a:link{
+  color: #fff;
+}
+
+header h1 a:hover{
+  color: #1BBCB8;
 }
 
 .burger {
@@ -105,10 +112,10 @@ nav li {
   display: inline-block;
 }
 nav li a {
-  font-size: 11px;
-  color: #9aa6af;
+  font-size: 13px;
+  color: #fff;
   padding: 60px 15px;
-  font-weight: bold;
+  font-weight: 600;
   display: block;
 }
 nav li a:hover {color: #fff;}
