@@ -45,6 +45,10 @@ a {
 
 .masthead {
   text-align: center;
+  width: 100%;
+  margin: 0 auto;
+  clear: left;
+  overflow: hidden;
 }
 
 .nav {
@@ -71,7 +75,7 @@ a {
 .banner-img {
   padding-top: 56.25%;
 
-  background: #ccc url("http://placehold.it/1920x1080/556B2F") no-repeat center center;
+  background: #ccc url("http://placehold.it/1920x1080/C94613") no-repeat center center;
   background-size: contain;
 }
 
@@ -99,9 +103,28 @@ a {
   text-align: center;
 }
 
-.favs {
+.work {
   text-align: center;
 }
+
+.piece {
+  background-color: red;
+}
+
+.piece__details {
+  display: none;
+}
+
+.piece__details[data-state="active"] {
+  opacity: 1;
+  margin-top: 0px;
+}
+
+.piece__details[data-state="inactive"] {
+  opacity: 0;
+  transition: all 250ms linear;
+}
+
 
 .data {
   overflow: hidden;

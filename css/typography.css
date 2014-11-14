@@ -160,7 +160,7 @@ h1, h2, h3, h4, h5, h6,
 
 a,
 a:link {
-  border-bottom: 0.1em solid rgba(27,188,184,0.5);
+
   transition: all 150ms linear;
 
   color: #1BBCB8;
@@ -169,14 +169,13 @@ a:link {
 
 a:visited {
   color: #9d248e;
-  border-bottom-color: rgba(104,68,110,0.5);
+
 }
 
 a:hover,
 a:focus,
 a:active {
   color: #79BCBA;
-  border-bottom-color: #79BCBA;
 }
 
 a:hover,
@@ -259,7 +258,7 @@ ul li {
 }
 
 ul li:before {
-  content: "•";
+  /*content: "•";*/
   position: absolute;
   left: -0.6em;
 

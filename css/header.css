@@ -1,10 +1,227 @@
 .masthead {
-  background-color: #eae8e1;
+  text-align: center;
+  width: 100%;
+  clear: left;
+  overflow: hidden;
+}
+
+.masthead-top {
+  overflow: hidden;
+  position: relative;
+  width: 90%;
+  margin: 0 auto 0;
+}
+
+.logo-wrapper {
+  margin: 0;
+  padding: 0;
+
+  font-size: 1em;
 }
 
 .logo {
-  margin: 0 auto;
-  max-width: 256px;
+  float: left;
+  height: 80px;
+  margin: 1rem 10px 0;
+  padding: 0;
+  width: 80px;
+  border: none;
+  background: transparent url("../img/logo.svg") no-repeat left top;
+  background-size: 80px auto;  vertical-align: center;
+
+  font-size: 1em;
+  line-height: 1.5;
+  text-indent: 100%;
+  white-space: nowrap;
+}
+
+.nav-btn,
+.nav-btn:link,
+.nav-btn:visited {
+  bottom: 20px;
+  height: 40px;
+  overflow: hidden;
+  position: absolute;
+  right: 10px;
+  width: 46px;
+
+  background: transparent url("../img/icon-nav.svg") no-repeat 0 0;
+
+  text-indent: 100%;
+  white-space: nowrap;
+}
+
+.nav-btn:hover,
+.nav-btn:focus,
+.nav-btn:active {
+  background-color: #000;
+  background-position: 0 -40px;
+}
+
+.nav-btn[data-state="active"] {
+  background-color: #000;
+  background-position: -46px -40px;
+}
+
+.nav {
+  background-color: #000;
+}
+
+.nav > ul {
+  margin: 0;
+  padding: 0.8em 0;
+
+  list-style-type: none;
+  font-size: 1.25em;
+}
+
+.nav a,
+.nav a:link,
+.nav a:visited {
+  display: block;
+  padding: 0.5em 10px;
+
+  color: #e2e2e2;
+  text-decoration: none;
+}
+
+.nav a:hover,
+.nav a:focus,
+.nav a:active {
+  background-color: #222;
+
+  color: #fff;
+}
+
+.nav-bottom {
+  margin-top: 1.5em;
+}
+
+.nav-top {
+  max-height: 0;
+
+  -moz-transition: all 250ms linear;
+  -o-transition: all 250ms linear;
+  -webkit-transition: all 250ms linear;
+  transition: all 250ms linear;
+}
+
+.nav-top[data-state="expanded"] {
+  max-height: 14em;
+}
+
+.container > header {
+    width: 90%;
+    max-width: 69em;
+    margin: 0 auto;
+    padding: 0 1.875em 0;
+}
+
+.container > header h1 {
+    font-size: 2.125em;
+    line-height: 1.3;
+    margin: 0;
+    float: left;
+    font-weight: 400;
+}
+
+.container > header > span {
+    display: block;
+    position: relative;
+    z-index: 200;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    padding: 0 0 0.6em 0.1em;
+}
+
+.container > header > span span:after {
+    width: 30px;
+    height: 30px;
+    left: -12px;
+    font-size: 50%;
+    top: -8px;
+    font-size: 75%;
+    position: relative;
+}
+
+.container > header > span span:hover:before {
+    content: attr(data-content);
+    text-transform: none;
+    text-indent: 0;
+    letter-spacing: 0;
+    font-weight: 300;
+    font-size: 110%;
+    padding: 0.8em 1em;
+    line-height: 1.2;
+    text-align: left;
+    left: auto;
+    margin-left: 4px;
+    position: absolute;
+    color: #fff;
+    background: #47a3da;
+}
+
+.container > header nav {
+    float: right;
+    text-align: center;
+}
+
+.container > header nav a {
+    display: inline-block;
+    position: relative;
+    text-align: left;
+    width: 2.5em;
+    height: 2.5em;
+    background: #fff;
+    border-radius: 50%;
+    margin: 0 0.1em;
+    border: 4px solid #47a3da;
+}
+
+.container > header nav a > span {
+    display: none;
+}
+
+.container > header nav a:hover:before {
+    content: attr(data-info);
+    color: #47a3da;
+    position: absolute;
+    width: 600%;
+    top: 120%;
+    text-align: right;
+    right: 0;
+    pointer-events: none;
+}
+
+.container > header nav a:hover {
+    background: #47a3da;
+}
+
+.bp-icon:after {
+    font-family: 'bpicons';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-align: center;
+    color: #47a3da;
+    -webkit-font-smoothing: antialiased;
+}
+
+.container > header nav .bp-icon:after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    line-height: 2;
+    text-indent: 0;
+}
+
+.container > header nav a:hover:after {
+    color: #fff;
 }
 
 @media only screen and (min-width: 50em) {
@@ -13,6 +230,23 @@
     margin: 0;
   }
 
+}
+.container > header h1,
+.container > header nav {
+  float: none;
+}
+
+.container > header > span,
+.container > header h1 {
+  text-align: center;
+}
+
+.container > header nav {
+  margin: 0 auto;
+}
+
+.container > header > span {
+  text-indent: 30px;
 }
 
 .nav {
@@ -25,26 +259,13 @@
   margin: 0 0.4em;
 }
 
-@media only screen and (min-width: 50em) {
-
-  .nav {
+.nav {
     margin-top: 0;
     text-align: right;
-  }
-
 }
 
 .current {
   background-color: red;
 }
-
-.banner {
-  background: #6e9d1b url("../images/banner.jpg") no-repeat center center;
-  background-size: cover;
-  padding: 5em 1em 1em;
-  text-align: center;
 }
 
-.banner h2 {
-  color: #fff;
-}
