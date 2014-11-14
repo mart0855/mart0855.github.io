@@ -39,9 +39,10 @@ a {text-decoration: none;}
 
 .logo {
   height: 40px;
-  margin: 0 10px 0;
+  margin: 10px 50% 0;
   padding: 0;
   width: 40px;
+  float: left;
 
   background: transparent url("../img/logo.svg") no-repeat left top;
   background-size: 40px auto;
