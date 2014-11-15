@@ -1,23 +1,9 @@
 body {
 	background-image: url(../img/column.svg);
 	background-size: 100%;
-	min-width: 768px;
-	line-height: 1.5rem;
 	opacity: .5;
-	margin: 0;
-	padding: 0;
+
 }
 
 .baseline {
 	background-image: url(../img/baseline.svg);
-}
-
-main{
-	width: 90%;
-	/*margin: 0 auto;*/
-	margin: 0 5%;
-}
-
-img{
-	width: 100%;
-}
