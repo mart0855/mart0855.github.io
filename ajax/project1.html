@@ -1,12 +1,10 @@
 <!DOCTYPE html>
-<html class="no-js" lang="en">
+<html lang="en-ca">
 <head>
 	<link rel="stylesheet" href="../css/flexslider.css" type="text/css" media="screen" />
-	<link rel="stylesheet" href="../css/demo.css" type="text/css" media="screen" />
 
 </head>
-
-<div class="cbp-l-inline">
+<div id="main" role="main" class="cbp-l-inline">
     <div class="cbp-l-inline-left">
       <section class="slider">
         <div class="flexslider">
@@ -37,30 +35,13 @@
         <a href="#" target="_blank" class="cbp-l-inline-view">VIEW PROJECT</a>
     </div>
 </div>
-
-<!-- jQuery -->
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-  <script>window.jQuery || document.write('<script src="../js/jquery-1.7.min.js">\x3C/script>')</script>
-
-  <!-- FlexSlider -->
-  <script defer src="../js/jquery.flexslider.js"></script>
-
-  <script type="text/javascript">
-		$(document).ready() {
-		  $('.flexslider').flexslider({
-		    animation: "slide"
-		  });
-		});
-  </script>
-
-
-  <!-- Syntax Highlighter -->
-  <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
-
-  <script type="text/javascript" src="../js/shCore.js"></script>
-  <script type="text/javascript" src="../js/shBrushXml.js"></script>
-  <script type="text/javascript" src="../js/shBrushJScript.js"></script>
-
+<script>
+$(document).ready()
+  $('.flexslider').flexslider({
+    animation: "slide"
+  });
+});
+</script>
   <!-- Optional FlexSlider Additions -->
   <script src="../js/jquery.easing.js"></script>
   <script src="../js/jquery.mousewheel.js"></script>
