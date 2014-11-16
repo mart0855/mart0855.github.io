@@ -1,3 +1,11 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+	<link rel="stylesheet" href="../css/flexslider.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="../css/demo.css" type="text/css" media="screen" />
+
+</head>
+
 <div class="cbp-l-inline">
     <div class="cbp-l-inline-left">
       <section class="slider">
@@ -38,17 +46,11 @@
   <script defer src="../js/jquery.flexslider.js"></script>
 
   <script type="text/javascript">
-    $(function(){
-      SyntaxHighlighter.all();
-    });
-    $(window).load(function(){
-      $('.flexslider').flexslider({
-        animation: "slide",
-        start: function(slider){
-          $('body').removeClass('loading');
-        }
-      });
-    });
+		$(document).ready() {
+		  $('.flexslider').flexslider({
+		    animation: "slide"
+		  });
+		});
   </script>
 
 
@@ -63,3 +65,5 @@
   <script src="../js/jquery.easing.js"></script>
   <script src="../js/jquery.mousewheel.js"></script>
   <script defer src="../js/demo.js"></script>
+
+</html>
