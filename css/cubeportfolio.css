@@ -177,19 +177,19 @@
 .cbp-l-caption-title {
     /* @editable properties */
     color: #fff;
-    font: 400 16px/20px "Open Sans", sans-serif;
+    font: 400 16px/20px "Raleway", sans-serif;
 }
 
 .cbp-l-caption-desc {
     /* @editable properties */
     color: #aaa;
-    font: 400 12px/18px "Open Sans", sans-serif;
+    font: 400 12px/18px "PT Serif", serif;
     margin-top: 2px;
 }
 
 .cbp-l-caption-text {
     /* @editable properties */
-    font: 400 14px/21px "Open Sans", sans-serif;
+    font: 400 14px/21px "PT Serif", sans-serif;
     color: #fff;
     letter-spacing: 3px;
 }
@@ -200,7 +200,7 @@
     background-color: #3288C4;
     color: #FFFFFF;
     display: inline-block;
-    font: 400 12px/28px "Open Sans", sans-serif;
+    font: 400 12px/28px "Raleway", sans-serif;
     width: 90px;
     text-align: center;
     margin: 4px;
@@ -3327,7 +3327,7 @@
     border-radius: 2px;
     color: #888888;
     cursor: pointer;
-    font: 400 12px/29px "Open Sans", sans-serif;
+    font: 400 12px/29px "Raleway", sans-serif;
     margin: 10px 10px 0 0;
     overflow: visible;
     padding: 0 17px;
@@ -3355,7 +3355,7 @@
     background-color: #4D4C4D;
     border-radius: 3px;
     color: #fff;
-    font: 400 11px/18px "Open Sans", sans-serif;
+    font: 400 11px/18px "Raleway", sans-serif;
     margin: 0 auto;
     padding: 4px 0;
     text-align: center;
@@ -3421,7 +3421,7 @@
 
 .cbp-l-filters-dropdownHeader {
     /* @editable properties */
-    font: 400 12px/38px "Open Sans", sans-serif;
+    font: 400 12px/38px "Raleway", sans-serif;
     margin: 0 17px;
     color: #FFF;
     cursor: default;
@@ -3470,7 +3470,7 @@
     color: #9FBCE7;
     width: 100%;
     text-align: left;
-    font: 400 12px/40px "Open Sans", sans-serif;
+    font: 400 12px/40px "Raleway", sans-serif;
     margin: 0;
     padding: 0 17px;
     cursor: pointer;
@@ -3797,7 +3797,7 @@
     height: 250px;
 }
 
-/* adjust the caption height and add some margin-bottom*/
+ adjust the caption height and add some margin-bottom
 .cbp-l-grid-projects .cbp-caption {
     /* @editable properties */
     height: 68%;
