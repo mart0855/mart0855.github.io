@@ -45,6 +45,8 @@ h1, .exa {
 h2, .peta {
   font-size: 1.8020rem;
   line-height: 1.6648;
+  text-align: center;
+  font-weight: bold;
 }
 
 h3, .tera {
