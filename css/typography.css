@@ -47,6 +47,7 @@ h2, .peta {
   line-height: 1.6648;
   text-align: center;
   font-weight: bold;
+  margin: none;
 }
 
 h3, .tera {
