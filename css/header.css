@@ -206,7 +206,7 @@ header h1 {
 nav {position: relative;}
 
 nav ul {
-  height: 100%;
+/*  height: 100%;*/
   overflow-y: auto;
 }
 nav li {
@@ -384,4 +384,105 @@ header.close,
   100%  {transform: translate3d(0,0,0);}
 }
 
+}
+
+/*Social Icons*/
+
+.hide-text{
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  display: block;
+}
+
+.social{
+  clear: both;
+  padding: 1rem;
+  margin: none;
+}
+
+.social li a,
+.social li a:link,
+.social li a:visited
+.social li:first-child a{
+  font-size: 1.5rem;
+  float: left;
+  display: block;
+  height: 60px;
+  width: 60px;
+  margin-right: .5rem;
+  text-align: center;
+  padding-top: .8531rem;
+  /* background-color: #222;*/
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+  border-radius: 30px;
+  color: #1d2d35;
+  -webkit-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
+  -moz-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
+  -ms-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
+  -o-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
+  box-shadow: inset 0px 0px 0px 30px #1BBCB8;
+}
+
+.social li a:hover,
+.social li a:focus,
+.social li a:active{
+  -webkit-box-shadow: inset 0px 0px 0px 3px #fff;
+  -moz-box-shadow: inset 0px 0px 0px 3px #fff;
+  -ms-box-shadow: inset 0px 0px 0px 3px #fff;
+  -o-box-shadow: inset 0px 0px 0px 3px #fff;
+  box-shadow: inset 0px 0px 0px 3px #fff;
+  color: #fff;
+}
+
+
+.social ul{
+  height: 85%;
+}
+
+
+@media only screen and (min-width: 40em){
+.social{
+  clear: both;
+  padding: 1rem;
+  margin: none;
+}
+
+.social li a,
+.social li a:link,
+.social li a:visited
+.social li:first-child a{
+  font-size: 1.5rem;
+  display: block;
+  height: 60px;
+  width: 60px;
+  margin-right: .5rem;
+  text-align: center;
+  padding-top: .8531rem;
+  /* background-color: #222;*/
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+  border-radius: 30px;
+  color: #1d2d35;
+  -webkit-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
+  -moz-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
+  -ms-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
+  -o-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
+  box-shadow: inset 0px 0px 0px 30px #1BBCB8;
+}
+
+.social li a:hover,
+.social li a:focus,
+.social li a:active{
+  -webkit-box-shadow: inset 0px 0px 0px 3px #fff;
+  -moz-box-shadow: inset 0px 0px 0px 3px #fff;
+  -ms-box-shadow: inset 0px 0px 0px 3px #fff;
+  -o-box-shadow: inset 0px 0px 0px 3px #fff;
+  box-shadow: inset 0px 0px 0px 3px #fff;
+  color: #fff;
 }

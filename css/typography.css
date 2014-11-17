@@ -23,8 +23,8 @@ h1, h2, h3, h4, h5, h6,
 p, ul, ol, dl, dd, figure,
 blockquote, details, hr,
 fieldset, pre, table {
-  margin: 0 0 1.5rem;
-}
+/*  margin: 0 0 1.5rem;
+*/}
 
 .yotta {
   font-weight: 600;
