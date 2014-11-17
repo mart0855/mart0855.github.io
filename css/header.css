@@ -418,7 +418,7 @@ header.close,
   -moz-border-radius: 30px;
   -ms-border-radius: 30px;
   -o-border-radius: 30px;
-  border-radius: 30px;
+  border-radius: 30px !important;
   color: #1d2d35;
   -webkit-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
   -moz-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
