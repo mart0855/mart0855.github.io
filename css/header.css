@@ -397,21 +397,19 @@ header.close,
 
 .social{
   clear: both;
-  padding: 1rem;
+  padding: 0.5rem 1rem;
   margin: none;
 }
 
 .social li a,
 .social li a:link,
-.social li a:visited
-.social li:first-child a{
+.social li a:visited{
   font-size: 1.5rem;
   float: left;
   display: block;
-  height: 60px;
-  width: 60px;
-  margin-right: .5rem;
-  text-align: center;
+  height: 48px;
+  width: 40px;
+  margin-right: 1rem;
   padding-top: .8531rem;
   /* background-color: #222;*/
   -webkit-border-radius: 30px;
@@ -438,51 +436,22 @@ header.close,
   color: #fff;
 }
 
-
-.social ul{
-  height: 85%;
+.fa-behance{
+  margin-left: -11px;
+  margin-bottom: 10px;
 }
 
-
-@media only screen and (min-width: 40em){
-.social{
-  clear: both;
-  padding: 1rem;
-  margin: none;
+.fa-twitter{
+  margin-left: -9px;
+  margin-bottom: 10px;
 }
 
-.social li a,
-.social li a:link,
-.social li a:visited
-.social li:first-child a{
-  font-size: 1.5rem;
-  display: block;
-  height: 60px;
-  width: 60px;
-  margin-right: .5rem;
-  text-align: center;
-  padding-top: .8531rem;
-  /* background-color: #222;*/
-  -webkit-border-radius: 30px;
-  -moz-border-radius: 30px;
-  -ms-border-radius: 30px;
-  -o-border-radius: 30px;
-  border-radius: 30px;
-  color: #1d2d35;
-  -webkit-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
-  -moz-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
-  -ms-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
-  -o-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
-  box-shadow: inset 0px 0px 0px 30px #1BBCB8;
+.fa-vimeo-square{
+  margin-left: -9px;
+  margin-bottom: 10px;
 }
 
-.social li a:hover,
-.social li a:focus,
-.social li a:active{
-  -webkit-box-shadow: inset 0px 0px 0px 3px #fff;
-  -moz-box-shadow: inset 0px 0px 0px 3px #fff;
-  -ms-box-shadow: inset 0px 0px 0px 3px #fff;
-  -o-box-shadow: inset 0px 0px 0px 3px #fff;
-  box-shadow: inset 0px 0px 0px 3px #fff;
-  color: #fff;
+.fa-linkedin{
+  margin-left: -9px;
+  margin-bottom: 10px;
 }
