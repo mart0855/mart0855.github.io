@@ -39,7 +39,7 @@
       <ul id="navToggle" class="burger slide">
         <li></li><li></li><li></li>
       </ul>
-      <h1 class="logo-wrapper"><a href="index.html" class="logo"><span>Alex Martin</span></a></h1>
+      <h1 class="logo-wrapper"><a href="index.html" class="logo"><span id="myName">Alex Martin</span></a></h1>
     </header>
 
     <nav class="slide">
@@ -232,6 +232,33 @@
 
     <!-- load main js -->
     <script src="js/main.js"></script>
+
+<script>
+$(function(){
+    $('header').data('size','big');
+});
+
+$(window).scroll(function(){
+    var $nav = $('header');
+    if ($('body').scrollTop() > 0) {
+        if ($nav.data('size') == 'big') {
+            $nav.data('size','small').stop().animate({
+                height:'60px'
+            }, 600);
+
+        }
+        $('#myName').hide();
+    } else {
+        if ($nav.data('size') == 'small') {
+            $nav.data('size','big').stop().animate({
+                height:'85px'
+            }, 600);
+
+        }
+ $('#myName').show();
+    }
+});
+</script>
 
 </body>
 </html>
