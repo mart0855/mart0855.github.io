@@ -39,7 +39,7 @@ a {text-decoration: none;}
 
 .logo {
   height: 50px;
-  margin: 32px 52.2% 0 47.8%;
+  margin: 6px 52.2% 0 47.8%;
   padding: 0;
   width: 50px;
   float: left;
@@ -439,6 +439,22 @@ header.close,
   color: #fff;
 }
 
+.fa-behance{
+  margin-left: -12px;
+}
+
+.fa-twitter{
+  margin-left: -9px;
+}
+
+.fa-vimeo-square{
+  margin-left: -9px;
+}
+
+.fa-linkedin{
+  margin-left: -9px;
+}
+
 @media only screen and (min-width: 780px) {
 
 .social2{
@@ -483,18 +499,4 @@ header.close,
 }
 }
 
-.fa-behance{
-  margin-left: -12px;
-}
 
-.fa-twitter{
-  margin-left: -9px;
-}
-
-.fa-vimeo-square{
-  margin-left: -9px;
-}
-
-.fa-linkedin{
-  margin-left: -9px;
-}
