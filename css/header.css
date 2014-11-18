@@ -133,6 +133,10 @@ nav li a:hover {color: #fff;}
 .footer-section
 {padding: 0px;}
 
+.footer-section{
+  height: 80px;
+}
+
 .header-section {background-color: #ffffff;}
 .body-section {background-color: #f4f5f6;}
 .footer-section {background-color: #dadee1;}
@@ -433,6 +437,50 @@ header.close,
   -o-box-shadow: inset 0px 0px 0px 3px #fff;
   box-shadow: inset 0px 0px 0px 3px #fff;
   color: #fff;
+}
+
+@media only screen and (min-width: 780px) {
+
+.social2{
+  clear: both;
+  padding: 0.5rem 1rem;
+  margin: none;
+}
+
+.social2 li a,
+.social2 li a:link,
+.social2 li a:visited{
+  font-size: 1.5rem;
+  float: left;
+  display: block;
+  height: 40px;
+  width: 40px;
+  margin-right: 1rem;
+  padding-top: .8531rem;
+  /* background-color: #222;*/
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+  border-radius: 30px !important;
+  color: #1d2d35;
+  -webkit-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
+  -moz-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
+  -ms-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
+  -o-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
+  box-shadow: inset 0px 0px 0px 30px #1BBCB8;
+}
+
+.social2 li a:hover,
+.social2 li a:focus,
+.social2 li a:active{
+  -webkit-box-shadow: inset 0px 0px 0px 3px #fff;
+  -moz-box-shadow: inset 0px 0px 0px 3px #fff;
+  -ms-box-shadow: inset 0px 0px 0px 3px #fff;
+  -o-box-shadow: inset 0px 0px 0px 3px #fff;
+  box-shadow: inset 0px 0px 0px 3px #fff;
+  color: #fff;
+}
 }
 
 .fa-behance{
