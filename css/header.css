@@ -137,7 +137,7 @@ nav li a:hover {color: #fff;}
 .header-section {background-color: #ffffff;}
 .body-section {background-color: #f4f5f6;}
 .footer-section {background-color: #dadee1;}
-.placefiller {
+/*.placefiller {
   text-align: center;
   font-size: 20px;
   border: 1px dashed rgba(190, 196, 202, 0.5);
@@ -147,7 +147,7 @@ nav li a:hover {color: #fff;}
 .footer-section .placefiller {
   line-height: 200px;
   border: 1px dashed rgba(190, 196, 202, 0.9);
-}
+}*/
 
 
 @media only screen and (max-width: 780px) {
