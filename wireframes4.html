@@ -9,16 +9,23 @@
   <meta name="HandheldFriendly" content="True">
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
 
+    <!--Styles-->
   <link href="css/reset.css" rel="stylesheet">
   <link href="css/typography.css" rel="stylesheet">
   <link href="css/header.css" rel="stylesheet">
   <link href="css/main.css" rel="stylesheet">
+  <link href="css/grid.css" rel="stylesheet">
+  <link href="css/embed.css" rel="stylesheet">
+  <link href="css/common.css" rel="stylesheet">
+
   <!--<link href="css/columns.css" rel="stylesheet">-->
   <link href="css/cubeportfolio.css" rel="stylesheet">
 
-<link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  <!-- Fonts -->
+  <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
   <link href='http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic|Raleway:400,900,800,700,600,500,300,200,100' rel='stylesheet' type='text/css'>
 
+  <!--Scripts-->
 <script type="text/javascript">
   if (typeof jQuery == 'undefined')
     document.write(unescape("%3Cscript src='js/jquery-1.9.js'" +
@@ -247,7 +254,21 @@
       </li>
       <li class="body-section" id="about">
         <h2 class="island">About</h2>
-        <p class="placefiller">ABOUT</p>
+        <div class="grid">
+            <div class="unit unit-s-1 unit-m-1-3 unit-l-1-3 gutter-1-2">
+                <figure>
+                    <div class="embed embed--1by1 push-1-2">
+                        <img class="embed__item" src="http://placehold.it/350x150" alt="">
+                    </div>
+                    <figcaption class="micro">Typographic Self-Portrait</figcaption>
+                </figure>
+            </div>
+            <div class="unit unit-s-1 unit-m-2-3 unit-l-2-3 gutter-1-2">
+                <h3 class="pad-b">My name is Alex Martin and I believe that...</h3>
+                <p class="giga pad-b-1-2">Imagination is a defining feature that we as humans possess, allowing us to transcend our own reality and discover that we have no boundaries. Art is one way of harnessing this freedom of thought and presenting it as a tangible form of communication. Design unfurls the abstraction of art into a transparent plane of understanding.</p>
+                <p class="giga pad-b-2">For me, design is a method of widespread dissemination that provides windows into a global network of ideas that I want to be a part of.</p>
+            </div>
+        </div>
       </li>
 
       <li class="footer-section">
