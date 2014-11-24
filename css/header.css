@@ -46,7 +46,25 @@ a {text-decoration: none;}
 
   background: transparent url("../img/logo.svg") no-repeat left top;
   background-size: 50px auto;
+  transition: none;
+  font-size: 1.5em;
+  line-height: 1.3;
+  /*text-indent: 100%;*/
+  white-space: nowrap;
+}
 
+.logo:hover,
+.logo:active,
+.logo:focus{
+  height: 50px;
+  margin: 6px 52.2% 0 47.8%;
+  padding: 0;
+  width: 50px;
+  float: left;
+
+  background: transparent url("../img/logo-hvr.svg") no-repeat left top;
+  background-size: 50px auto;
+  transition: none;
   font-size: 1.5em;
   line-height: 1.3;
   /*text-indent: 100%;*/
@@ -185,10 +203,28 @@ header h1 {
   padding: 0;
   width: 40px;
   float: left;
-
+  transition: none;
   background: transparent url("../img/logo.svg") no-repeat left top;
   background-size: 40px auto;
 
+  font-size: 1.5em;
+  line-height: 1.3;
+  /*text-indent: 100%;*/
+  white-space: nowrap;
+}
+
+.logo:hover,
+.logo:focus,
+.logo:active {
+  height: 40px;
+  margin: 10px 55% 0 45%;
+  padding: 0;
+  width: 40px;
+  float: left;
+
+  background: transparent url("../img/logo-hvr.svg") no-repeat left top;
+  background-size: 40px auto;
+  transition: none;
   font-size: 1.5em;
   line-height: 1.3;
   /*text-indent: 100%;*/
@@ -439,20 +475,28 @@ header.close,
   color: #fff;
 }
 
+.social2{
+  display: none;
+}
+
 .fa-behance{
   margin-left: -12px;
+  position: absolute;
 }
 
 .fa-twitter{
   margin-left: -9px;
+  position: absolute;
 }
 
 .fa-vimeo-square{
   margin-left: -9px;
+  position: absolute;
 }
 
 .fa-linkedin{
   margin-left: -9px;
+  position: absolute;
 }
 
 @media only screen and (min-width: 780px) {
@@ -461,6 +505,7 @@ header.close,
   clear: both;
   padding: 0.5rem 1rem;
   margin: none;
+  display: block;
 }
 
 .social2 li a,
@@ -469,22 +514,22 @@ header.close,
   font-size: 1.5rem;
   float: left;
   display: block;
-  height: 40px;
-  width: 40px;
+  height: 50px;
+  width: 50px;
   margin-right: 1rem;
   padding-top: .8531rem;
   /* background-color: #222;*/
-  -webkit-border-radius: 30px;
-  -moz-border-radius: 30px;
-  -ms-border-radius: 30px;
-  -o-border-radius: 30px;
-  border-radius: 30px !important;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+  border-radius: 25px;
   color: #1d2d35;
-  -webkit-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
-  -moz-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
-  -ms-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
-  -o-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
-  box-shadow: inset 0px 0px 0px 30px #1BBCB8;
+  -webkit-box-shadow: inset 0px 0px 0px 25px #1BBCB8;
+  -moz-box-shadow: inset 0px 0px 0px 25px #1BBCB8;
+  -ms-box-shadow: inset 0px 0px 0px 25px #1BBCB8;
+  -o-box-shadow: inset 0px 0px 0px 25px #1BBCB8;
+  box-shadow: inset 0px 0px 0px 25px #1BBCB8;
 }
 
 .social2 li a:hover,
@@ -496,6 +541,15 @@ header.close,
   -o-box-shadow: inset 0px 0px 0px 3px #fff;
   box-shadow: inset 0px 0px 0px 3px #fff;
   color: #fff;
+}
+
+.fa2{
+margin-left: 15px;
+position: absolute;
+}
+
+.behance2{
+  margin-left: 12px;
 }
 }
 
