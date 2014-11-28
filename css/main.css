@@ -31,6 +31,10 @@ body {
   width: 100%;
 }
 
+focus{
+
+}
+
 a {
   color: #707000;
 }
@@ -97,7 +101,6 @@ a {
 
 .banner-simple {
   background: #cd853f url("http://placehold.it/1920x400/cd853f") no-repeat center center;
-  background-position: cover;
 }
 
 .banner-simple p {

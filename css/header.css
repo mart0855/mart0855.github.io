@@ -437,7 +437,7 @@ header.close,
 .social{
   clear: both;
   padding: 0.5rem 1rem;
-  margin: none;
+  margin: 0;
 }
 
 .social li a,
@@ -504,7 +504,7 @@ header.close,
 .social2{
   clear: both;
   padding: 0.5rem 1rem;
-  margin: none;
+  margin: 0;
   display: block;
 }
 
