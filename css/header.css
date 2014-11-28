@@ -206,6 +206,10 @@ header h1 {
 }
 .burger {display: block;}
 
+.footer__copyright{
+  color: #fff;
+  text-align: center;
+}
 
 .logo {
   height: 40px;
