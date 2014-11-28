@@ -127,6 +127,10 @@ nav {
   top: 0;
   right: 5px;
 }
+
+nav a:visited {
+  color: #1BBCB8;
+}
 nav li {
   float: left;
 
@@ -157,7 +161,7 @@ nav li a:hover {color: #fff;}
 
 .header-section {background-color: #ffffff;}
 .body-section {background-color: #f4f5f6;}
-.footer-section {background-color: #dadee1;}
+.footer-section {background-color: #333333;}
 /*.placefiller {
   text-align: center;
   font-size: 20px;
@@ -170,6 +174,11 @@ nav li a:hover {color: #fff;}
   border: 1px dashed rgba(190, 196, 202, 0.9);
 }*/
 
+.footer__copyright{
+  color: #fff;
+  float: right;
+  margin-right: 5rem;
+}
 
 @media only screen and (max-width: 780px) {
 
@@ -196,6 +205,7 @@ header h1 {
   display: block;
 }
 .burger {display: block;}
+
 
 .logo {
   height: 40px;

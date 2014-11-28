@@ -161,9 +161,6 @@ p{
     -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
     -moz-column-gap: 40px; /* Firefox */
     column-gap: 40px;
-    -webkit-column-rule: 3px outset #515151; /* Chrome, Safari, Opera */
-    -moz-column-rule: 3px outset #515151; /* Firefox */
-    column-rule: 3px outset #515151;
 }
 }
 
