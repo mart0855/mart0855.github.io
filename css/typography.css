@@ -211,7 +211,7 @@ a:focus,
 input:focus,
 button:focus {
   /* The focus rectangle MUST ALWAYS be visible for keyboard states */
-  outline: 3px solid #000;
+  outline: 3px solid #1BBCB8;
 }
 
 .block-link {

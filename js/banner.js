@@ -1,5 +1,5 @@
 var $win = $(window);
-var $banner = $('.banner-img');
+var $banner = $('.banner');
 
 $win.on('scroll', function () {
 	var scrollPos = $win.scrollTop();
