@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en-ca">
+<head>
+  <title>Wireframes 4</title>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="initial-scale=1.0,user-scalable=no,maximum-scale=1" media="(device-height: 568px)">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+    <!--*´¨`*.¸¸.*´¨`*.¸Styles*´¨`*.¸¸.*´¨`*.¸-->
+  <link href="css/reset.css" rel="stylesheet">
+  <link href="css/typography.css" rel="stylesheet">
+  <link href="css/header.css" rel="stylesheet">
+  <link href="css/main.css" rel="stylesheet">
+  <link href="css/grid.css" rel="stylesheet">
+  <link href="css/embed.css" rel="stylesheet">
+  <link href="css/common.css" rel="stylesheet">
+
+  <!--*´¨`*.¸¸.*´¨`*.¸<link href="css/columns.css" rel="stylesheet">*´¨`*.¸¸.*´¨`*.¸-->
+  <link href="css/cubeportfolio.css" rel="stylesheet">
+
+  <!--*´¨`*.¸¸.*´¨`*.¸ Fonts *´¨`*.¸¸.*´¨`*.¸-->
+  <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  <link href='http://fonts.googleapis.com/css?family=PT+Serif:400,700,400italic,700italic|Raleway:400,900,800,700,600,500,300,200,100' rel='stylesheet' type='text/css'>
+
+  <!--*´¨`*.¸¸.*´¨`*.¸Scripts*´¨`*.¸¸.*´¨`*.¸-->
+<script type="text/javascript">
+  if (typeof jQuery == 'undefined')
+    document.write(unescape("%3Cscript src='js/jquery-1.9.js'" +
+                              "type='text/javascript'%3E%3C/script%3E"))
+</script>
+<script type="text/javascript" language="javascript" src="js/trunk.js"></script>
+<!--[if lt IE 9]>
+<script src="js/html5shiv.js"></script>
+<![endif]-->
+
+</head>
+
+<body>
+
+  <div class="container">
+
+    <header class="slide">
+      <ul id="navToggle" class="burger slide">
+        <li></li><li></li><li></li>
+      </ul>
+      <h1 class="logo-wrapper"><a href="index.html" class="logo"><span id="myName">Alex Martin</span></a></h1>
+    </header>
+
+    <nav class="slide" role="navigation">
+      <ul>
+        <li><a href="#work" class="active">WORK</a></li>
+        <li><a href="#about">ABOUT</a></li>
+        <li><a href="mailto:design@alexandermartin.ca">CONTACT</a></li>
+      </ul>
+        <ul class="social">
+        <li>
+            <a class="ease-all" href="https://behance.net/" target="new">
+                <i class="fa fa-behance"></i>
+                <span class="hide-text">Facebook</span>
+            </a>
+        </li>
+
+        <li>
+            <a class="ease-all" href="https://twitter.com/" target="new">
+                <i class="fa fa-twitter"></i>
+                <span class="hide-text">Twitter</span>
+            </a>
+        </li>
+        </ul>
+        <ul class="social">
+        <li>
+            <a class="ease-all" href="https://vimeo.com/" target="new">
+                <i class="fa fa-vimeo-square"></i>
+                <span class="hide-text">Youtube</span>
+            </a>
+        </li>
+        <li>
+            <a class="ease-all" href="https://linkedin.com/" target="new">
+                <i class="fa fa-linkedin"></i>
+                <span class="hide-text">Youtube</span>
+            </a>
+        </li>
+        </ul>
+    </nav>
+
+    <div class="content slide">     <!--  Add "slideRight" class to items that move right when viewing Nav Drawer  -->
+    <ul class="responsive">
+      <li class="header-section">
+        <div class="banner" role="banner">
+          <div class="banner-img"></div>
+          <div class="intro-wrap island-1-2">
+            <p class="intro giga push-0">Each new horizon brings new beginnings and a chance to redefine one's practice.</p>
+          </div>
+        </div>
+      </li>
+
+      <li class="body-section demo-lightbox-gallery" id="work">
+        <h2 class="island">Work</h2>
+        <!--<div id="filters-container" class="cbp-l-filters-dropdown">
+            <div class="cbp-l-filters-dropdownWrap">
+                <div class="cbp-l-filters-dropdownHeader">Sort Gallery</div>
+                <div class="cbp-l-filters-dropdownList">
+                    <div data-filter="*" class="cbp-filter-item-active cbp-filter-item">
+                        All (<div class="cbp-filter-counter"></div> items)
+                    </div>
+                    <div data-filter=".print" class="cbp-filter-item">
+                        Print (<div class="cbp-filter-counter"></div> items)
+                    </div>
+                    <div data-filter=".web-design" class="cbp-filter-item">
+                        Web Design (<div class="cbp-filter-counter"></div> items)
+                    </div>
+                    <div data-filter=".motion" class="cbp-filter-item">
+                        Motion (<div class="cbp-filter-counter"></div> items)
+                    </div>
+                </div>
+            </div>
+        </div>-->
+
+        <div id="grid-container" class="cbp-l-grid-gallery">
+            <ul>
+                <li class="cbp-item print">
+                    <a href="ajax/project1.html" class="cbp-caption cbp-singlePageInline"
+                       data-title="Hand-Made Type Book">
+                        <div class="cbp-caption-defaultWrap">
+                            <img src="img/1.jpg" alt="">
+                        </div>
+                        <div class="cbp-caption-activeWrap">
+                            <div class="cbp-l-caption-alignLeft">
+                                <div class="cbp-l-caption-body">
+                                    <div class="cbp-l-caption-title">Liquido Animi</div>
+                                    <div class="cbp-l-caption-desc">Hand-Made Typography</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li class="cbp-item web-design">
+                    <a href="ajax/project2.html" class="cbp-caption cbp-singlePageInline"
+                       data-title="Mountain Grown Folgers<br>Package Design">
+                        <div class="cbp-caption-defaultWrap">
+                            <img src="img/2.jpg" alt="">
+                        </div>
+                        <div class="cbp-caption-activeWrap">
+                            <div class="cbp-l-caption-alignLeft">
+                                <div class="cbp-l-caption-body">
+                                    <div class="cbp-l-caption-title">Mountain Grown Folgers</div>
+                                    <div class="cbp-l-caption-desc">Package Design</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li class="cbp-item print motion">
+                    <a href="ajax/project3.html" class="cbp-caption cbp-singlePageInline"
+                       data-title="HandPick Recruitment<br>Logo Design">
+                        <div class="cbp-caption-defaultWrap">
+                            <img src="img/3.jpg" alt="">
+                        </div>
+                        <div class="cbp-caption-activeWrap">
+                            <div class="cbp-l-caption-alignLeft">
+                                <div class="cbp-l-caption-body">
+                                    <div class="cbp-l-caption-title">HandPick Recruitment</div>
+                                    <div class="cbp-l-caption-desc">Logo Design</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li class="cbp-item web-design print">
+                    <a href="ajax/project4.html" class="cbp-caption cbp-singlePageInline"
+                       data-title="Mars Venture<br>E-Publication">
+                        <div class="cbp-caption-defaultWrap">
+                            <img src="img/4.jpg" alt="">
+                        </div>
+                        <div class="cbp-caption-activeWrap">
+                            <div class="cbp-l-caption-alignLeft">
+                                <div class="cbp-l-caption-body">
+                                    <div class="cbp-l-caption-title">Mars Venture</div>
+                                    <div class="cbp-l-caption-desc">E-Publication</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li class="cbp-item motion">
+                    <a href="ajax/project5.html" class="cbp-caption cbp-singlePageInline"
+                       data-title="The Laramie Project<br>Theatre Poster">
+                        <div class="cbp-caption-defaultWrap">
+                            <img src="img/5.jpg" alt="">
+                        </div>
+                        <div class="cbp-caption-activeWrap">
+                            <div class="cbp-l-caption-alignLeft">
+                                <div class="cbp-l-caption-body">
+                                    <div class="cbp-l-caption-title">The Laramie Project</div>
+                                    <div class="cbp-l-caption-desc">Theatre Poster</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li class="cbp-item print motion">
+                    <a href="ajax/project6.html" class="cbp-caption cbp-singlePageInline"
+                       data-title="FX Fearless<br>Broadcast Package">
+                        <div class="cbp-caption-defaultWrap">
+                            <img src="img/6.jpg" alt="">
+                        </div>
+                        <div class="cbp-caption-activeWrap">
+                            <div class="cbp-l-caption-alignLeft">
+                                <div class="cbp-l-caption-body">
+                                    <div class="cbp-l-caption-title">FX Fearless</div>
+                                    <div class="cbp-l-caption-desc">Broadcast Package</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li class="cbp-item web-design print">
+                    <a href="ajax/project7.html" class="cbp-caption cbp-singlePageInline"
+                       data-title="Workout Buddy<br>by Tiberiu Neamu">
+                        <div class="cbp-caption-defaultWrap">
+                            <img src="img/7.jpg" alt="">
+                        </div>
+                        <div class="cbp-caption-activeWrap">
+                            <div class="cbp-l-caption-alignLeft">
+                                <div class="cbp-l-caption-body">
+                                    <div class="cbp-l-caption-title">Workout Buddy</div>
+                                    <div class="cbp-l-caption-desc">by Tiberiu Neamu</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+                <li class="cbp-item print">
+                    <a href="ajax/project8.html" class="cbp-caption cbp-singlePageInline"
+                       data-title="Digital Menu<br>by Cosmin Capitanu">
+                        <div class="cbp-caption-defaultWrap">
+                            <img src="img/8.jpg" alt="">
+                        </div>
+                        <div class="cbp-caption-activeWrap">
+                            <div class="cbp-l-caption-alignLeft">
+                                <div class="cbp-l-caption-body">
+                                    <div class="cbp-l-caption-title">Digital Menu</div>
+                                    <div class="cbp-l-caption-desc">by Cosmin Capitanu</div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </li>
+            </ul>
+        </div>
+      </li>
+      <li class="body-section" id="about">
+        <h2 class="island">About</h2>
+        <div class="grid">
+            <div class="unit unit-s-1 unit-m-1-3 unit-l-1-3 gutter-1-2">
+                <figure>
+                    <div class="embed embed--1by1 push-1-2">
+                        <img class="embed__item" src="http://placehold.it/350x150" alt="">
+                    </div>
+                    <figcaption class="micro">Typographic Self-Portrait</figcaption>
+                </figure>
+            </div>
+            <div class="unit unit-s-1 unit-m-2-3 unit-l-2-3 gutter-1-2">
+                <h3 class="island pad-b">My name is Alex Martin and I believe that...</h3>
+                <p class=" island mega pad-b-2 column2">Imagination is a defining feature that we as humans possess, allowing us to transcend our own reality and discover that we have no boundaries. Art is one way to harness this freedom of thought and present it in a tangible form of communication. Design unfurls the abstraction of art into a transparent plane of understanding. For me, design is a method of widespread dissemination that provides windows into a global network of ideas that I want to be a part of.</p>
+            </div>
+        </div>
+      </li>
+        <footer id="contact" role="contentinfo">
+          <li class="footer-section">
+            <ul class="social social2">
+            <li>
+                <a class="ease-all" href="https://behance.net/" target="_blank">
+                    <i class="fa fa2 fa-behance behance2"></i>
+                    <span class="hide-text">Facebook</span>
+                </a>
+            </li>
+
+            <li>
+                <a class="ease-all" href="https://twitter.com/" target="_blank">
+                    <i class="fa fa2 fa-twitter"></i>
+                    <span class="hide-text">Twitter</span>
+                </a>
+            </li>
+            <li>
+                <a class="ease-all" href="https://vimeo.com/" target="_blank">
+                    <i class="fa fa2 fa-vimeo-square"></i>
+                    <span class="hide-text">Youtube</span>
+                </a>
+            </li>
+            <li>
+                <a class="ease-all" href="https://linkedin.com/" target="_blank">
+                    <i class="fa fa2 fa-linkedin"></i>
+                    <span class="hide-text">Youtube</span>
+                </a>
+            </li>
+            </ul>
+
+          <div>
+            <p class="push-0 footer__copyright"><small>© Alex Martin, 2014</small></p>
+          </div>
+          </li>
+        </footer>
+        </ul>
+
+      </div>
+
+</div>
+
+    <!-- load jquery -->
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+
+    <!-- load cubeportfolio plugin -->
+        <script src="js/jquery.cubeportfolio.js"></script>
+
+    <!-- load main js -->
+    <script src="js/main.js"></script>
+
+<script>
+$(function(){
+    $('header').data('size','big');
+});
+
+$(window).scroll(function(){
+    var $nav = $('header');
+    if ($('body').scrollTop() > 0) {
+        if ($nav.data('size') == 'big') {
+            $nav.data('size','small').stop().animate({
+                height:'60px'
+            }, 600);
+
+        }
+        $('#myName').hide();
+    } else {
+        if ($nav.data('size') == 'small') {
+            $nav.data('size','big').stop().animate({
+                height:'80px'
+            }, 600);
+
+        }
+ $('#myName').show();
+    }
+});
+</script>
+
+<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script src="js/waypoints.min.js"></script>
+<script src="js/banner.js"></script>
+
+</body>
+</html>

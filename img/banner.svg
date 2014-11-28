@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 650 479.6" enable-background="new 0 0 650 479.6" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="650" height="479.6"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	
+		<radialGradient id="SVGID_3_" cx="142.0092" cy="309.4926" r="829.4028" gradientTransform="matrix(1 0 0 0.7147 0 88.3027)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFFFB9"/>
+		<stop  offset="0.4957" style="stop-color:#359495"/>
+		<stop  offset="0.7599" style="stop-color:#045679"/>
+	</radialGradient>
+	<rect clip-path="url(#SVGID_2_)" fill="url(#SVGID_3_)" width="650" height="325"/>
+	<g clip-path="url(#SVGID_2_)">
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="315.5" y="128.3" width="74.5" height="37.2">
+				<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+				<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="315.5" y="128.3" width="74.5" height="37.2" id="SVGID_4_">
+			<g filter="url(#Adobe_OpacityMaskFilter)">
+				<image overflow="visible" width="79" height="43" xlink:href="626FEFF24CE9FB1A.jpg"  transform="matrix(1 0 0 1 313 125.5)">
+				</image>
+			</g>
+		</mask>
+		<g mask="url(#SVGID_4_)">
+			<path fill="#FFC195" d="M315.5,128.3c0,20.6,16.7,37.2,37.2,37.2c20.6,0,37.2-16.7,37.2-37.2"/>
+		</g>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="281.7" y="94.1" width="232.6" height="42.1">
+				<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+				<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="281.7" y="94.1" width="232.6" height="42.1" id="SVGID_5_">
+			<g filter="url(#Adobe_OpacityMaskFilter_1_)">
+				<image overflow="visible" width="238" height="47" xlink:href="626FEFF24CE9FB1E.jpg"  transform="matrix(1 0 0 1 279 91.5)">
+				</image>
+			</g>
+		</mask>
+		<g mask="url(#SVGID_5_)">
+			<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="281.6667" y1="115.1731" x2="514.2675" y2="115.1731">
+				<stop  offset="0" style="stop-color:#A7A994"/>
+				<stop  offset="1" style="stop-color:#749994"/>
+			</linearGradient>
+			<path fill="url(#SVGID_6_)" d="M377.4,131.9c0,0,8.9-4.4,11.1-3c2.2,1.4,9.6,3.2,21.5-0.6s4.6,0.5,13.2-6
+				c8.6-6.5,22.2-10.4,28.9-9.2c6.7,1.2,38.1-2.8,49.9-9.8c11.9-7,12.3-9.1,12.3-9.1s-28.5,8.5-39.2,9.1c-10.7,0.6-20.5,5.7-26.5,7
+				c-6,1.3-43.8-0.1-69.6,7.7c-25.7,7.7-22.6,6.8-24.5,4s-29.2-10.5-43.3-5.5s-29.6-1.7-29.6-1.7s3.2,8.5,11.2,9.7
+				c8.1,1.2,0,10.9,31.9,11.8s26.3-6.7,35.4-7.3C369.2,128.3,368,132.8,377.4,131.9z"/>
+		</g>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_2_" filterUnits="userSpaceOnUse" x="480.2" y="152.2" width="48.3" height="46">
+				<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+				<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="480.2" y="152.2" width="48.3" height="46" id="SVGID_7_">
+			<g filter="url(#Adobe_OpacityMaskFilter_2_)">
+				<image overflow="visible" width="53" height="51" xlink:href="626FEFF24CE9FB19.jpg"  transform="matrix(1 0 0 1 478 149.5)">
+				</image>
+			</g>
+		</mask>
+		<g mask="url(#SVGID_7_)">
+			<linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="504.4117" y1="198.1892" x2="504.4117" y2="152.1586">
+				<stop  offset="0" style="stop-color:#FCBA8F"/>
+				<stop  offset="1" style="stop-color:#DEB090"/>
+			</linearGradient>
+			<path fill="url(#SVGID_8_)" d="M518.5,187.7c0,0-5.6,12.3-13,10.3c-7.4-2.1-32.6-13-23.2-26.2c9.4-13.2,14.2-10.3,17.1-14.9
+				c2.8-4.7,25.8-6,28.7-3.4c2.9,2.6-8.5,12.2-11.1,11.9s14.6-8.8,1.5-7c-13.1,1.7-15.5,6.3-17.4,12.5c-1.9,6.2-13.5,9.5-2.4,12.8
+				C509.8,186.9,510.9,195.5,518.5,187.7z"/>
+		</g>
+	</g>
+	<path clip-path="url(#SVGID_2_)" fill="#030B2C" d="M395.5,245.4l-5.6-0.8l4.9,2.3l-2.3,1.2l-3.5-0.9v2.2l-2-2.2l-2.3-0.3l0.7,1.7
+		l-1.3-0.5l0.5,2l-1.7-0.5l1.3-3.1l-2.3-2.9v2l-0.9-1.5l-0.4,1l-0.6-1v1.5l-1.4,0.9l-1.1,0.4l-0.7,0.8l-1.1-1.2l-0.7,0.4v-1.3
+		l-1,0.5v0.5l-1.6-0.4l-1.4,1.2l-0.7-0.5l-0.4,0.5l-1-1.4l-1.5,1.4l-1.3,0.8v1.4l-2.6-1.4l1,2l-1.3-0.9v1.3h-1v0.9v-1.9l-2,0.7
+		l0.4,1.1l-1.2,0.3l-0.5,0.1l1.8,0.4l-0.7,0.9l-1.2,0.3l-1.7-1v-0.8l2.1-0.3l-0.2-1.8l-1,1l-0.5-0.9l-0.9-0.5l1.1-0.8l0.3-2.8
+		l-1.9-0.5c0,0-0.9-0.6-2.6,0.3l-0.5-0.6h1.2l-0.7-1H351l-1-1.4v1.4l-1,0c0,0-2.2-0.8-3.1-0.1l2.5-1.8l-2.5,0.5l-2.4-2.7H342l-0.4-1
+		H340v1l-1-0.2v1.2l0.9-0.1l-0.9,1v1.1l1.3-0.4l-1.3,1.1l-0.8-1.3l-1-0.8l-0.6,0.3l1,0.7l-0.4,0.4H336l-0.3,1.5l0.9,0.6l-1.7,0.7
+		v0.2v1l-1,0.3l-1.1-0.4l-1.1,0.9l1,1.5l1.5-0.3l-1.1,1.2L332,249v1.5l-1.1,0.3l1.1,1.3l1.9,0.6l-1.6,0.7l2,0.7l-2.7,0.5l-0.7,1h2.1
+		l-2.1,0.9l-0.4,1.4l-1-1.2l-1.5-0.3l-2.9,3.2l0.8,22.2l34.2,1.4l37.8,3.2L395.5,245.4z"/>
+	<g clip-path="url(#SVGID_2_)">
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_3_" filterUnits="userSpaceOnUse" x="541.5" y="160.1" width="116" height="40.6">
+				<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+				<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="541.5" y="160.1" width="116" height="40.6" id="SVGID_9_">
+			<g filter="url(#Adobe_OpacityMaskFilter_3_)">
+				<image overflow="visible" width="121" height="46" xlink:href="626FEFF24CE9FB1B.jpg"  transform="matrix(1 0 0 1 539 157.5)">
+				</image>
+			</g>
+		</mask>
+		<g mask="url(#SVGID_9_)">
+			<linearGradient id="SVGID_10_" gradientUnits="userSpaceOnUse" x1="570.0767" y1="155.6047" x2="624.996" y2="210.524">
+				<stop  offset="0" style="stop-color:#FCBA8F"/>
+				<stop  offset="1" style="stop-color:#5C8381"/>
+			</linearGradient>
+			<path fill="url(#SVGID_10_)" d="M541.5,200.8c0,0,8.8-5.5,6.7-9.4c-2.1-3.8-4.9-9-4.9-9l19.4-3.1l7.3-8.5c0,0,4.7-6,9,0
+				c4.3,6,24.7-8.3,24.7-8.3s-9.6,21.3,0,16.9c9.6-4.5,14.5-7.3,18.5-7.5c4-0.2,2.6-9.4,2.6-9.4s9.8-5.9,25.2,0.9
+				s4.8,24.1-10.7,25.2c-15.5,1.1-34.2-0.9-36.8,1.5s-13.1,6.4-16.1,4.9c-2.9-1.4-20.5,0-27.1,1.9
+				C552.9,198.8,541.5,200.8,541.5,200.8z"/>
+		</g>
+	</g>
+	<polygon clip-path="url(#SVGID_2_)" fill="#03223C" points="341.6,282.6 345.5,174.5 347,174.5 345.8,284.4 	"/>
+	<rect x="130.1" y="250.5" clip-path="url(#SVGID_2_)" fill="#002640" width="19.1" height="29.6"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#031533" points="151.1,250.5 156,253.2 156,280.5 148.1,278.5 149.1,260.7 145.7,254.3 
+			"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#014456" points="105.2,237.4 131.5,247.4 130.4,280.1 104.7,275.5 	"/>
+	<circle clip-path="url(#SVGID_2_)" fill="#030B2C" cx="376" cy="273.5" r="25.3"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#030B2C" points="452.9,259.2 447,241.5 425,241.5 421.6,237.6 419.1,238.3 417.1,233.2 
+		415,234.4 415,232.5 412,233.9 412,235.5 410.7,235.3 409.1,233.5 401,236.9 401,287.5 460.7,294.1 	"/>
+	<rect x="223.2" y="246.4" clip-path="url(#SVGID_2_)" fill="#021C39" width="54" height="75.9"/>
+	<path clip-path="url(#SVGID_2_)" fill="#030B2C" d="M650.3,225.5l-6.9,4.2l-10.4-5.1l-3.4,4.7l-5.6-3.3l-5.5,5.1l10.5,6l-1.7,4.3
+		l-3.1-1.7l-3.6,1.7l-5-4.8l-7.2,4.8l-2.9-5.3l-14.9-3.2l-8.4,13l-6.4-6.2l2.6-1.5l-10.3-6.5c0,0-3.8-1.5-7.9,6.2l-3.1,0.7v-4.8
+		l-6-4.1v3.1l3.2,7.4l-2.1,2.6l-3.7-0.5l-0.7,3.8l2.7,1.6l-0.6,1.5l-1.9-0.7v1.4l-0.3,1.2l-1.2,1.7l-2.1-1.2l1-2.1l-2.1-1.9l1.1-1.7
+		L541,244v-2.5l5.5,1.3l1.9-1.9l-2.9-0.2l-2.7-2.4l1.2-2.4l2.2,1.7l5.2-1.5l-3.8-2.9l-1-2.6l2.4,1.5l6.7-7.9l1.4-2.8l-3.1,0.9
+		l1.7-3.1l-3.6-0.9v5.1l-2-1l0.2-2.1l-2.7,1.9l0.9-2.6l-0.2-2.4l2.7,1.9l2.8-3.8l-1.4-2.4l-2.1,3.1L547,210l-1.5,8l-1.9-8.7l-1,2.4
+		l-1.1-3.2l-1.3,2.4l1.3-4.4l-2.5,2l-1.1-5.2l-1.4,1.7l-0.9-2.6l-1.2,0.9l-1.2-2L531,205v2.4v9l-3.1-4.3l2.3-1.3l-1.4-3.4l0.7-3.4
+		l-2.2,1l0.7-3.7l-3.2,0.8l-2.6-1.3v2.7l-3.1-5.4l-3.2,1.5l-2,2.7l-1.7-2.7v4.8l1,2l-3.8-2.1l2.7,5.3l1.9,2.6l-2.6,0.3l2.4,4.8
+		l-2.4-2.1l-2.1,1.2l1-2.2l-0.2-1.4l-2.4-2l0.7-1.6l-0.7-2.8l-1.2-2.1l-0.9,3.1l-1.7-2.4l1.7,5.9l-1.7,0.8l-0.9-4.2l-1.5,1.8
+		l-2.2-2.8l1,3.5l-1.9,0.9l6,2.5l-1.5,1.4l3.2,0.3l-3.2,1.2l-3.5-1.9l3.5,4l2-0.3l3.8,3.3l-4.1-0.3l2.7,3.4l-4.4,0.9l4.9,2.7
+		l5.2-1.5l2.7,5.5l-3.5-3.3l-2.4,1.8l0.8,5.4l2.5,0.9v2.7l-4.3-4.1l-2.6-6.4l-0.9,4l-2.3-4.6v3.1l-3.4-1l4.5,4.8c0,0-4,0-5.7-2.7
+		s-1.2,1.5-1.2,1.5l-4-3.5l1.7,3.9h-4l1.4,4.4l7.7,2.1l-2.4,3l2.4,1.2l2.8,2.1v-2.8l2.5-2.1l-0.7,2.1h5.2l-1.3,2.8l3.3-1.4v2.6
+		l-2.1,1.5l1.9,2.5H508l-2,1.6l-3-2.7l-1.9,2.7l-6.5-4.3l-0.9,2.6l-4.6-5.2l-3,1.2l-1.6-2.6l-3.6,1.4L478,244l-2.1,7l-4.9,1.4v2
+		l-4,1v-2l-1.4-1l-3.1-1.4l-6.1,3.1l-1.4,7v30.3l197,19L650.3,225.5z"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#032B48" points="492,273.5 482,273.5 482,278.5 469,278.5 469,291.5 503,294.1 
+		503,273.5 	"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#031432" points="336.3,280.6 650,305.8 650,489.5 0,489.5 0,417.5 	"/>
+	<g clip-path="url(#SVGID_2_)">
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_4_" filterUnits="userSpaceOnUse" x="287.5" y="103.3" width="74.5" height="37.2">
+				<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+				<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="287.5" y="103.3" width="74.5" height="37.2" id="SVGID_11_">
+			<g filter="url(#Adobe_OpacityMaskFilter_4_)">
+				<image overflow="visible" width="79" height="43" xlink:href="626FEFF24CE9FB18.jpg"  transform="matrix(1 0 0 1 285 100.5)">
+				</image>
+			</g>
+		</mask>
+		<g mask="url(#SVGID_11_)">
+			<path fill="#9DA291" d="M287.5,140.5c0-20.6,16.7-37.2,37.2-37.2c20.6,0,37.2,16.7,37.2,37.2"/>
+		</g>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_5_" filterUnits="userSpaceOnUse" x="417.5" y="110.3" width="74.5" height="37.2">
+				<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+				<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="417.5" y="110.3" width="74.5" height="37.2" id="SVGID_12_">
+			<g filter="url(#Adobe_OpacityMaskFilter_5_)">
+				<image overflow="visible" width="79" height="43" xlink:href="626FEFF24CE9FB26.jpg"  transform="matrix(1 0 0 1 415 107.5)">
+				</image>
+			</g>
+		</mask>
+		<g mask="url(#SVGID_12_)">
+			<path fill="#FFC195" d="M417.5,110.3c0,20.6,16.7,37.2,37.2,37.2c20.6,0,37.2-16.7,37.2-37.2"/>
+		</g>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_6_" filterUnits="userSpaceOnUse" x="45.5" y="65.3" width="62" height="31">
+				<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+				<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="45.5" y="65.3" width="62" height="31" id="SVGID_13_">
+			<g filter="url(#Adobe_OpacityMaskFilter_6_)">
+				<image overflow="visible" width="67" height="36" xlink:href="626FEFF24CE9FB29.jpg"  transform="matrix(1 0 0 1 43 62.5)">
+				</image>
+			</g>
+		</mask>
+		<g mask="url(#SVGID_13_)">
+			<path fill="#FFC195" d="M45.5,96.3c0-17.1,13.9-31,31-31s31,13.9,31,31"/>
+		</g>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_7_" filterUnits="userSpaceOnUse" x="11.5" y="89.3" width="74.5" height="37.2">
+				<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+				<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="11.5" y="89.3" width="74.5" height="37.2" id="SVGID_14_">
+			<g filter="url(#Adobe_OpacityMaskFilter_7_)">
+				<image overflow="visible" width="79" height="43" xlink:href="626FEFF24CE9FB2A.jpg"  transform="matrix(1 0 0 1 9 86.5)">
+				</image>
+			</g>
+		</mask>
+		<g mask="url(#SVGID_14_)">
+			<path fill="#FFC195" d="M11.5,126.5c0-20.6,16.7-37.2,37.2-37.2S86,105.9,86,126.5"/>
+		</g>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_8_" filterUnits="userSpaceOnUse" x="-51.5" y="99.5" width="74.5" height="74">
+				<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+				<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="-51.5" y="99.5" width="74.5" height="74" id="SVGID_15_">
+			<g filter="url(#Adobe_OpacityMaskFilter_8_)">
+				<image overflow="visible" width="79" height="79" xlink:href="626FEFF24CE9FB28.jpg"  transform="matrix(1 0 0 1 -54 96.5)">
+				</image>
+			</g>
+		</mask>
+		<g mask="url(#SVGID_15_)">
+			<path fill="#FFC195" d="M23,136.5C23,136.5,23,136.5,23,136.5L23,136.5c-0.1-21-16.8-37-37.2-37c-20.5,0-37.1,16-37.2,37h0
+				c0,0,0,0,0,0c0,0,0,0,0,0h0c0.1,20.5,16.7,37,37.2,37C6.2,173.5,22.9,157,23,136.5L23,136.5C23,136.5,23,136.5,23,136.5z"/>
+		</g>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_9_" filterUnits="userSpaceOnUse" x="211.5" y="136.3" width="74.5" height="37.2">
+				<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+				<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="211.5" y="136.3" width="74.5" height="37.2" id="SVGID_16_">
+			<g filter="url(#Adobe_OpacityMaskFilter_9_)">
+				<image overflow="visible" width="79" height="43" xlink:href="3A2DAE051DD14B1D.jpg"  transform="matrix(1 0 0 1 209 133.5)">
+				</image>
+			</g>
+		</mask>
+		<g mask="url(#SVGID_16_)">
+			<linearGradient id="SVGID_17_" gradientUnits="userSpaceOnUse" x1="248.7601" y1="136.2601" x2="248.7601" y2="173.5">
+				<stop  offset="0" style="stop-color:#DEB090"/>
+				<stop  offset="1" style="stop-color:#DEA889"/>
+			</linearGradient>
+			<path fill="url(#SVGID_17_)" d="M211.5,136.3c0,20.6,16.7,37.2,37.2,37.2s37.2-16.7,37.2-37.2"/>
+		</g>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_10_" filterUnits="userSpaceOnUse" x="267.5" y="145.3" width="74.5" height="37.2">
+				<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+				<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="267.5" y="145.3" width="74.5" height="37.2" id="SVGID_18_">
+			<g filter="url(#Adobe_OpacityMaskFilter_10_)">
+				<image overflow="visible" width="79" height="43" xlink:href="3A2DAE051DD14B13.jpg"  transform="matrix(1 0 0 1 265 142.5)">
+				</image>
+			</g>
+		</mask>
+		<g mask="url(#SVGID_18_)">
+			<path fill="#FFC195" d="M267.5,145.3c0,20.6,16.7,37.2,37.2,37.2c20.6,0,37.2-16.7,37.2-37.2"/>
+		</g>
+	</g>
+	<path clip-path="url(#SVGID_2_)" fill="#051F3C" d="M-0.5,417.6c0,0,478.1-38.1,515.2-59.6s-185.8-64-185.8-64L0,382.5L-0.5,417.6z
+		"/>
+	<g clip-path="url(#SVGID_2_)">
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_11_" filterUnits="userSpaceOnUse" x="258.5" y="122.3" width="74.5" height="37.2">
+				<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+				<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="258.5" y="122.3" width="74.5" height="37.2" id="SVGID_19_">
+			<g filter="url(#Adobe_OpacityMaskFilter_11_)">
+				<image overflow="visible" width="79" height="43" xlink:href="3A2DAE051DD14B15.jpg"  transform="matrix(1 0 0 1 256 119.5)">
+				</image>
+			</g>
+		</mask>
+		<g mask="url(#SVGID_19_)">
+			<path fill="#9DA291" d="M258.5,159.5c0-20.6,16.7-37.2,37.2-37.2c20.6,0,37.2,16.7,37.2,37.2"/>
+		</g>
+	</g>
+	<rect x="394.1" y="28.5" clip-path="url(#SVGID_2_)" fill="#021C39" width="8.9" height="320.2"/>
+	<rect x="423.1" y="124.4" clip-path="url(#SVGID_2_)" fill="#021C39" width="6.2" height="212.3"/>
+	<rect x="450.6" y="155.4" clip-path="url(#SVGID_2_)" fill="#021C39" width="4.9" height="183.9"/>
+	<ellipse clip-path="url(#SVGID_2_)" fill="#021C39" cx="213.5" cy="165.5" rx="49.5" ry="19"/>
+	<rect x="172" y="188.6" clip-path="url(#SVGID_2_)" fill="#021C39" width="79" height="20.9"/>
+	<rect x="211.5" y="178.7" clip-path="url(#SVGID_2_)" fill="#021C39" width="3.4" height="17.3"/>
+	<rect x="200.1" y="204" clip-path="url(#SVGID_2_)" fill="#021C39" width="24.1" height="121.5"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#021C39" points="108.5,343.7 0,343.7 0,209.5 112,215.5 	"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#021C39" points="650,129.9 616.4,139.9 616.4,80.7 650,70.7 	"/>
+	<circle clip-path="url(#SVGID_2_)" fill="#021C39" cx="636.9" cy="67.3" r="4.5"/>
+	<rect x="633.7" y="70.5" clip-path="url(#SVGID_2_)" fill="#021C39" width="6.2" height="7.6"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#021C39" points="586.5,88.2 427.1,167.4 424.6,160.2 584.5,84.1 	"/>
+	
+		<rect x="582.7" y="75.2" transform="matrix(0.9335 -0.3587 0.3587 0.9335 12.9646 223.7195)" clip-path="url(#SVGID_2_)" fill="#021C39" width="53.5" height="3.4"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#021C39" points="624.8,82.6 560.4,103.6 560.4,88.3 624.8,67.3 	"/>
+	<rect x="555.2" y="88.1" clip-path="url(#SVGID_2_)" fill="#021C39" width="4.2" height="18.1"/>
+	<line clip-path="url(#SVGID_2_)" fill="none" stroke="#021C39" stroke-miterlimit="10" x1="283.2" y1="49.7" x2="650" y2="165.4"/>
+	<line clip-path="url(#SVGID_2_)" fill="none" stroke="#021C39" stroke-miterlimit="10" x1="283.2" y1="0.7" x2="650" y2="116.4"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#021C39" points="462.5,334.5 292.2,288.8 0,332.2 0,382.5 457.7,352.1 	"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#021C39" stroke-miterlimit="10" x1="248.3" y1="190.5" x2="394.1" y2="116.4"/>
+	<rect x="265.2" y="0.7" clip-path="url(#SVGID_2_)" fill="#021C39" width="18" height="363.9"/>
+	<circle clip-path="url(#SVGID_2_)" fill="#021C39" cx="457.7" cy="342.7" r="9.3"/>
+	<rect x="305" y="162.7" clip-path="url(#SVGID_2_)" fill="#021C39" width="2" height="97.8"/>
+	<ellipse clip-path="url(#SVGID_2_)" fill="#021C39" cx="307.3" cy="279.5" rx="27.7" ry="25.3"/>
+	<rect x="381.2" y="49.7" clip-path="url(#SVGID_2_)" fill="#021C39" width="37.7" height="2.8"/>
+	<rect x="384.5" y="39" clip-path="url(#SVGID_2_)" fill="#021C39" width="1.5" height="11.2"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#063555" points="133,230.4 150.5,239.4 153.4,256.4 133,250.7 	"/>
+	<rect x="412.8" y="39" clip-path="url(#SVGID_2_)" fill="#021C39" width="1.5" height="11.2"/>
+	<rect x="408.4" y="62.9" clip-path="url(#SVGID_2_)" fill="#021C39" width="1.5" height="9.4"/>
+	
+		<rect x="415.8" y="64.4" transform="matrix(0.996 8.890744e-02 -8.890744e-02 0.996 7.9875 -36.7755)" clip-path="url(#SVGID_2_)" fill="#021C39" width="2" height="13.7"/>
+	
+		<rect x="393.7" y="17.9" transform="matrix(0.9964 -8.460806e-02 8.460806e-02 0.9964 -0.5764 33.4578)" clip-path="url(#SVGID_2_)" fill="#021C39" width="1.5" height="11.2"/>
+	<rect x="401.8" y="71" clip-path="url(#SVGID_2_)" fill="#021C39" width="14.9" height="1.3"/>
+	<g clip-path="url(#SVGID_2_)">
+		<g>
+			<g>
+				<polygon fill="#021C39" points="382.4,47.5 385.2,46.9 388,47.5 				"/>
+				<polygon fill="#021C39" points="382.4,47.5 385.2,48.1 388,47.5 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon fill="#021C39" points="382.4,46.5 385.2,45.9 388,46.5 				"/>
+				<polygon fill="#021C39" points="382.4,46.5 385.2,47.1 388,46.5 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon fill="#021C39" points="382.4,45.5 385.2,44.9 388,45.5 				"/>
+				<polygon fill="#021C39" points="382.4,45.5 385.2,46.1 388,45.5 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon fill="#021C39" points="382.4,44.5 385.2,43.9 388,44.5 				"/>
+				<polygon fill="#021C39" points="382.4,44.5 385.2,45.1 388,44.5 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon fill="#021C39" points="382.4,43.5 385.2,42.9 388,43.5 				"/>
+				<polygon fill="#021C39" points="382.4,43.5 385.2,44.1 388,43.5 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon fill="#021C39" points="382.4,42.5 385.2,41.9 388,42.5 				"/>
+				<polygon fill="#021C39" points="382.4,42.5 385.2,43.1 388,42.5 				"/>
+			</g>
+		</g>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<g>
+			<g>
+				<polygon fill="#021C39" points="410.7,46.4 413.5,45.8 416.3,46.2 				"/>
+				<polygon fill="#021C39" points="410.7,46.4 413.5,46.9 416.3,46.2 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon fill="#021C39" points="410.7,45.4 413.5,44.8 416.3,45.2 				"/>
+				<polygon fill="#021C39" points="410.7,45.4 413.5,45.9 416.3,45.2 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon fill="#021C39" points="410.7,44.4 413.5,43.8 416.3,44.2 				"/>
+				<polygon fill="#021C39" points="410.7,44.4 413.5,44.9 416.3,44.2 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon fill="#021C39" points="410.7,43.4 413.5,42.8 416.3,43.2 				"/>
+				<polygon fill="#021C39" points="410.7,43.4 413.5,43.9 416.3,43.2 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon fill="#021C39" points="410.7,42.4 413.5,41.8 416.3,42.2 				"/>
+				<polygon fill="#021C39" points="410.7,42.4 413.5,42.9 416.3,42.2 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon fill="#021C39" points="410.7,41.4 413.5,40.8 416.3,41.2 				"/>
+				<polygon fill="#021C39" points="410.7,41.4 413.5,41.9 416.3,41.2 				"/>
+			</g>
+		</g>
+	</g>
+	<g clip-path="url(#SVGID_2_)">
+		<g>
+			<g>
+				<polygon fill="#021C39" points="391.5,25.8 394.3,25 397.1,25.2 				"/>
+				<polygon fill="#021C39" points="391.5,25.8 394.4,26.1 397.1,25.2 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon fill="#021C39" points="391.5,24.8 394.3,24 397.1,24.2 				"/>
+				<polygon fill="#021C39" points="391.5,24.8 394.4,25.1 397.1,24.2 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon fill="#021C39" points="391.5,23.8 394.3,23 397.1,23.2 				"/>
+				<polygon fill="#021C39" points="391.5,23.8 394.4,24.1 397.1,23.2 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon fill="#021C39" points="391.5,22.8 394.3,22 397.1,22.2 				"/>
+				<polygon fill="#021C39" points="391.5,22.8 394.4,23.1 397.1,22.2 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon fill="#021C39" points="391.5,21.8 394.3,21 397.1,21.2 				"/>
+				<polygon fill="#021C39" points="391.5,21.8 394.4,22.1 397.1,21.2 				"/>
+			</g>
+		</g>
+		<g>
+			<g>
+				<polygon fill="#021C39" points="391.5,20.8 394.3,20 397.1,20.2 				"/>
+				<polygon fill="#021C39" points="391.5,20.8 394.4,21.1 397.1,20.2 				"/>
+			</g>
+		</g>
+	</g>
+	<polygon clip-path="url(#SVGID_2_)" fill="#021C39" points="402.8,126 456.6,96.5 465,96.5 466.6,94.5 455.5,95.7 401.8,122.2 	"/>
+	<circle clip-path="url(#SVGID_2_)" fill="#021C39" cx="478.7" cy="95.3" r="3.6"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#021C39" points="476.1,97 466,96.7 466,94.5 472.7,93 472.6,91.6 474,91.3 474,92.5 
+		477.9,91.7 	"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#021C39" points="459.7,209.3 429.3,207.3 429.3,200.8 459.7,202.8 	"/>
+	<circle clip-path="url(#SVGID_2_)" fill="#021C39" cx="445.4" cy="201.2" r="3.2"/>
+	<rect x="439" y="207.5" clip-path="url(#SVGID_2_)" fill="#021C39" width="12.2" height="3.4"/>
+	<rect x="154" y="248.5" clip-path="url(#SVGID_2_)" fill="#021C39" width="29.9" height="75.9"/>
+	<rect x="172" y="232.4" clip-path="url(#SVGID_2_)" fill="#021C39" width="29.9" height="75.9"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#021E3A" points="499,293.5 499,284.5 500,284.5 500,276.5 492.4,273.5 539,273.5 
+		539,285.5 537,283.1 537,297.5 	"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#020F2E" points="463.3,278.2 512.6,260.4 539,273.5 482,273.5 482,278.5 	"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#020F2E" points="552.7,298 552.1,207.6 552.5,206.5 553,206.5 553.4,207.6 555.7,298.4 
+			"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#021C39" points="455,198.8 559.5,180.5 577.7,181.9 579,181.1 579,180.5 577.5,179.5 
+		575,179.5 560.7,178.3 455,192.4 	"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#021C39" points="590.2,198.4 579,197.4 579,166.4 590.2,167.4 	"/>
+	<circle clip-path="url(#SVGID_2_)" fill="#021C39" cx="590" cy="173.6" r="2.8"/>
+	<circle clip-path="url(#SVGID_2_)" fill="#021C39" cx="589" cy="183.6" r="1.8"/>
+	<circle clip-path="url(#SVGID_2_)" fill="#021C39" cx="589.5" cy="190.1" r="1.3"/>
+	<line clip-path="url(#SVGID_2_)" fill="none" stroke="#021C39" stroke-miterlimit="10" x1="281.7" y1="39" x2="650" y2="153.4"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#021C39" points="429,226.5 449,226.5 443.4,239.5 449,239.5 440,255.5 429,255.5 	"/>
+	<ellipse clip-path="url(#SVGID_2_)" fill="#020F2E" cx="527.9" cy="199.7" rx="2.3" ry="1.6"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#020F2E" points="528.1,198.1 536.3,199.1 552.2,207.6 552.2,208.5 536.2,199.9 
+		529.4,200.9 	"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#021C39" points="108,215.5 112,215.5 115.9,239.4 135.1,246.4 131,255.1 131,276.5 
+		129,276.5 129,248.5 121.5,245.1 120.3,276.5 111,276.5 111.8,240.5 108,240.5 	"/>
+	<path clip-path="url(#SVGID_2_)" fill="#021734" d="M108.4,275.5c0,0,34.6,0.7,41.6,2.7v3.3l-15-1.9v10.9L108.4,275.5z"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#C5B990" points="142.3,237.4 144.1,252 147.5,252.8 145.4,238.8 	"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#022643" points="133.1,230.4 142,236.3 142,237.5 137.5,234.8 137.1,247.4 	"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#021C3A" points="121.5,276.6 122.9,250.3 128.2,252 127.6,277.1 	"/>
+	<line clip-path="url(#SVGID_2_)" fill="none" stroke="#021C39" stroke-miterlimit="10" x1="212" y1="149.5" x2="270" y2="28.5"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#021C39" stroke-miterlimit="10" d="M-5.5,17.9c0,0,212.5,32.6,273.5,32.4"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#021C39" stroke-miterlimit="10" d="M324.5-7c0,0,35,56.7,56.7,56.7"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#021C39" stroke-miterlimit="10" d="M376.8-5l17.3,34.2
+		C382.3,25.9,359.5-7,359.5-7"/>
+	<line clip-path="url(#SVGID_2_)" fill="none" stroke="#021C39" stroke-miterlimit="10" x1="305" y1="-2" x2="659.5" y2="117.9"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#03223C" points="347,176.5 368.5,165.6 374.4,165.4 374.1,166.1 368.4,166 347,178.2 	
+		"/>
+	<ellipse clip-path="url(#SVGID_2_)" fill="#03223C" cx="381.3" cy="167" rx="2.7" ry="1.6"/>
+	<ellipse clip-path="url(#SVGID_2_)" fill="#03223C" cx="380.8" cy="166" rx="3.4" ry="1.6"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#03223C" points="373.7,165.4 379,164.6 378.6,167.2 373.5,166.1 	"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#0D172E" points="265.4,239.4 252,239 252,242.5 266,242.5 	"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#021C39" stroke-miterlimit="10" d="M396.5,174.5c0,0-53,52.2-90.5,46.8"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#021C39" stroke-miterlimit="10" d="M396.5,166.4c0,0-67.7,44.9-90.5,52.9"/>
+	<path clip-path="url(#SVGID_2_)" fill="none" stroke="#021C39" stroke-width="0.5" stroke-miterlimit="10" d="M283.2,0.7
+		c0,0,73.2,133.1,112.4,109.6"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#041533" points="90.4,217.9 110.7,202.7 106.3,199.9 101.2,201.3 95,205.8 88.4,206.7 
+		93.7,204 103.5,200.1 95,196.5 98,195 101,196.5 109,196.5 108.4,192.5 103,192.5 108,190.5 111,190.5 108.4,187.5 103,187.5 
+		98.8,186.5 104.4,181.4 103.5,177.9 101.8,180.3 99.7,176.9 98.6,181.6 97.3,179.7 96.3,184.5 88.4,185.8 95.9,180.3 101.6,176.5 
+		98,176.5 98.4,174.5 96.1,176 95.9,173.5 94.2,178.7 93.3,174.5 88.4,180.5 93.3,171.5 90,171.5 88.4,170.7 86.3,173.5 88.4,168.8 
+		86.3,167.5 88,165.5 85,165.5 86.7,162 85,159.5 83.5,161.8 82.4,159.5 81.2,162.7 80.5,159.5 79,162.7 79,166.5 76,169.5 
+		77.1,165.5 75,165.5 72,162.7 72,166.5 69,165.4 69,167.5 70.1,170.3 67.9,170.9 72.2,174.5 70.7,176.1 72.4,177.5 68,177.5 
+		63.7,177.9 66.5,180.5 65.6,182.6 67.7,184.5 64,184.5 63.7,182.5 62,182.5 62,179.5 60.1,177.9 63.3,173.5 61.8,168.6 60.1,170.7 
+		56.7,166.4 54.2,176 56,178.7 54.2,181.8 51.1,180.7 49.2,184.5 50.9,185.3 48.1,187.4 51.8,188.6 48.8,190.5 45.1,187.4 
+		41.7,186.5 40,188.6 42.4,190.5 47.5,192.8 46.6,196.5 43,196 43,192.5 40,192.8 38.8,190.5 37.3,188.4 35.3,192.5 33,192.5 
+		33,196.5 34.5,198.5 33,198.5 33.8,201.8 31,201.2 26.4,216.6 	"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#447D7B" points="112,215.5 133.1,227.2 137.5,247.4 115.9,239.4 	"/>
+	<polygon clip-path="url(#SVGID_2_)" fill="#C5B990" points="118.9,220 129.2,225.5 132.1,243.2 121.5,239.2 	"/>
+	<rect x="105.5" y="275.5" clip-path="url(#SVGID_2_)" fill="#021C39" width="54.5" height="44.1"/>
+	<path clip-path="url(#SVGID_2_)" fill="#66847A" d="M132.9,197.9c0,0,3.1,4.1,4.2,4.6s4.8,4.7,4.9,6.1c0,0-2.7,3.9,0,6l-2.2,2.1
+		c0,0-2.5-1.7-3.9-4.7c-1.3-3-4.2-2.4-4.2-2.4L132.9,197.9z"/>
+	
+		<line clip-path="url(#SVGID_2_)" fill="none" stroke="#002640" stroke-width="0.5" stroke-miterlimit="10" x1="133.1" y1="195.9" x2="130.5" y2="226.9"/>
+	<g clip-path="url(#SVGID_2_)">
+		<defs>
+			<filter id="Adobe_OpacityMaskFilter_12_" filterUnits="userSpaceOnUse" x="47.1" y="51.8" width="98.6" height="47.4">
+				<feFlood  style="flood-color:white;flood-opacity:1" result="back"/>
+				<feBlend  in="SourceGraphic" in2="back" mode="normal"/>
+			</filter>
+		</defs>
+		<mask maskUnits="userSpaceOnUse" x="47.1" y="51.8" width="98.6" height="47.4" id="SVGID_20_">
+			<g filter="url(#Adobe_OpacityMaskFilter_12_)">
+				<image overflow="visible" width="103" height="52" xlink:href="3A2DAE051DD14B17.jpg"  transform="matrix(1 0 0 1 45 49.5)">
+				</image>
+			</g>
+		</mask>
+		<g mask="url(#SVGID_20_)">
+			<linearGradient id="SVGID_21_" gradientUnits="userSpaceOnUse" x1="47.053" y1="75.5156" x2="145.6394" y2="75.5156">
+				<stop  offset="0" style="stop-color:#FFFFB9"/>
+				<stop  offset="1" style="stop-color:#DEA889"/>
+			</linearGradient>
+			<path fill="url(#SVGID_21_)" d="M82.6,61.1c0,0,5.1,2.9,5.2-1.6c0.1-4.4-3.1-8.3-1.1-7.6c2,0.6,7.9,1.7,8.7,4
+				c0.7,2.3,4.3,2.8,5.5,1.7c1.2-1.1,2.3-3.9,4.4-2.9s13.9,1.8,15.5,3.2c1.6,1.4-1.8,8.6,2.6,6.4c4.4-2.2,12,5.5,11.4,7
+				s-0.1,0.8,2,0.8s6.9,2.1,0.6,4.7s-7.5,3.1-5.5,6.1c2,3.1,4,0.2,5.2,4.8c1.2,4.6,8.1,0.8,8.3,0s1.8,15.3-6.6,10.8
+				c-8.4-4.6-12.6-12.9-19.4-13.5c-6.8-0.6-15.1,1.9-19.5-3.4c-4.3-5.3-10-9.4-16-7.4c-6,2-13.5-2.1-19,0.3s-1,3.7-7.2,6.2
+				c-6.2,2.5-16,1.1-7.3-5.8s14.4-10.1,15.9-9.4c1.5,0.6,10.7-2.1,11.5-3.7C78.8,60.1,82.6,61.1,82.6,61.1z"/>
+		</g>
+	</g>
+</g>
+</svg>
