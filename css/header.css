@@ -177,7 +177,9 @@ nav li a:hover {color: #fff;}
 .footer__copyright{
   color: #fff;
   float: right;
-  margin-right: 5rem;
+  position: absolute;
+  bottom: 1rem;
+  right: 1rem;
 }
 
 @media only screen and (max-width: 780px) {
