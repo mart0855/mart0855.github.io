@@ -84,7 +84,7 @@ a {
   padding-top: 56.25%;
 
   background: #ccc url("http://placehold.it/1920x1080/C94613") no-repeat center center;
-  background-size: contain;
+  background-size: cover;
 }
 
 .intro-wrap {
