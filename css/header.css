@@ -37,14 +37,14 @@ a {text-decoration: none;}
   font-size: 1em;
 }
 
-.logo {
+.logo-wrapper .logo {
   height: 50px;
   margin: 6px 52.2% 0 47.8%;
   padding: 0;
   width: 50px;
   float: left;
 
-  background: transparent url("../img/logo.svg") no-repeat left top;
+  background: transparent url("../img/logo.svg") center center;
   background-size: 50px auto;
   transition: none;
   font-size: 1.5em;
@@ -53,25 +53,13 @@ a {text-decoration: none;}
   white-space: nowrap;
 }
 
-.logo:hover,
-.logo:active,
-.logo:focus{
-  height: 50px;
-  margin: 6px 52.2% 0 47.8%;
-  padding: 0;
-  width: 50px;
-  float: left;
-
-  background: transparent url("../img/logo-hvr.svg") no-repeat left top;
-  background-size: 50px auto;
-  transition: none;
-  font-size: 1.5em;
-  line-height: 1.3;
-  /*text-indent: 100%;*/
-  white-space: nowrap;
+.logo-wrapper .logo:hover,
+.logo-wrapper .logo:active,
+.logo-wrapper .logo:focus{
+  background: transparent url("../img/logo-hvr.svg") center center;
 }
 
-.logo span{
+.logo-wrapper .logo span{
   position: relative;
   top: 49px;
   left: -34px;
@@ -79,6 +67,10 @@ a {text-decoration: none;}
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 800;
+}
+
+.logo-wrapper .logo:visited{
+  color: #fff;
 }
 
 nav a:visited {
