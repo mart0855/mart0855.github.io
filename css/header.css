@@ -219,14 +219,14 @@ header h1 {
   text-align: center;
 }
 
-.logo {
+.logo-wrapper a{
   height: 40px;
   margin: 10px 55% 0 45%;
   padding: 0;
   width: 40px;
   float: left;
   transition: none;
-  background: transparent url("../img/logo.svg") no-repeat left top;
+  background: transparent url("../img/logo.svg") no-repeat center center;
   background-size: 40px auto;
 
   font-size: 1.5em;
@@ -235,16 +235,16 @@ header h1 {
   white-space: nowrap;
 }
 
-.logo:hover,
-.logo:focus,
-.logo:active {
+.logo-wrapper a:hover,
+.logo-wrapper a:focus,
+.logo-wrapper a:active {
   height: 40px;
   margin: 10px 55% 0 45%;
   padding: 0;
   width: 40px;
   float: left;
 
-  background: transparent url("../img/logo-hvr.svg") no-repeat left top;
+  background: transparent url("../img/logo-hvr.svg") no-repeat center center;
   background-size: 40px auto;
   transition: none;
   font-size: 1.5em;
@@ -253,7 +253,7 @@ header h1 {
   white-space: nowrap;
 }
 
-.logo span{
+.logo-wrapper a span{
   position: relative;
   top: 38px;
   left: -28px;
