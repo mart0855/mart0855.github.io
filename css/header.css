@@ -1,5 +1,5 @@
 body {
-  background-color: #000;
+  background-color: #f4f5f6;
 
   font: 12px "Raleway", Arial, Helvetica, Geneva, sans-serif;
   color: #9aa6af;
@@ -21,7 +21,7 @@ a {text-decoration: none;}
 
 .container {
   overflow: hidden;
-  background-color: #000;
+  background-color: #f4f5f6;
 
 /*  Prevents Flickering  */
   -webkit-backface-visibility: hidden;
@@ -79,6 +79,10 @@ a {text-decoration: none;}
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 800;
+}
+
+nav a:visited {
+  color: #1BBCB8;
 }
 
 /* Header */
@@ -157,6 +161,10 @@ nav li a:hover {color: #fff;}
 
 .footer-section{
   height: 80px;
+}
+
+footer{
+  clear: both;
 }
 
 .header-section {background-color: #ffffff;}
@@ -540,7 +548,7 @@ header.close,
   -ms-border-radius: 25px;
   -o-border-radius: 25px;
   border-radius: 25px;
-  color: #1d2d35;
+  color: #333333;
   -webkit-box-shadow: inset 0px 0px 0px 25px #1BBCB8;
   -moz-box-shadow: inset 0px 0px 0px 25px #1BBCB8;
   -ms-box-shadow: inset 0px 0px 0px 25px #1BBCB8;

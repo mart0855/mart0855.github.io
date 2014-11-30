@@ -70,6 +70,7 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
+    width: 80%;
 }
 
 .cbp .cbp-item {
@@ -3904,6 +3905,7 @@
 .cbp-l-grid-gallery {
     visibility: hidden;
     overflow: hidden;
+    width: 80%;
 }
 
 /* set width and height for items */
