@@ -37,7 +37,7 @@ a {text-decoration: none;}
   font-size: 1em;
 }
 
-.logo-wrapper .logo {
+.logo-wrapper a {
   height: 50px;
   margin: 6px 52.2% 0 47.8%;
   padding: 0;
@@ -53,13 +53,13 @@ a {text-decoration: none;}
   white-space: nowrap;
 }
 
-.logo-wrapper .logo:hover,
-.logo-wrapper .logo:active,
-.logo-wrapper .logo:focus{
+.logo-wrapper a:active,
+.logo-wrapper a:hover,
+.logo-wrapper a:focus{
   background: transparent url("../img/logo-hvr.svg") center center;
 }
 
-.logo-wrapper .logo span{
+.logo-wrapper a span{
   position: relative;
   top: 49px;
   left: -34px;
@@ -69,7 +69,13 @@ a {text-decoration: none;}
   font-weight: 800;
 }
 
-.logo-wrapper .logo:visited{
+.logo-wrapper a span:active,
+.logo-wrapper a span:hover,
+.logo-wrapper a span:focus{
+  color: #1BBCB8;
+}
+
+.logo-wrapper a:visited{
   color: #fff;
 }
 
