@@ -3906,8 +3906,17 @@
 .cbp-l-grid-gallery {
     visibility: hidden;
     overflow: hidden;
+    width: 100%;
+}
+
+@media only screen and (min-width: 90em) {
+.cbp-l-grid-gallery {
+    visibility: hidden;
+    overflow: hidden;
     width: 80%;
 }
+}
+
 
 @media only screen and (max-width: 780px) {
 .cbp-l-grid-gallery {

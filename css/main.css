@@ -138,10 +138,16 @@ a {
 }
 
 #talk{
-  width: 80%;
+  width: 100%;
   margin:0 auto;
 }
 
+@media only screen and (min-width: 90em) {
+#talk{
+  width: 80%;
+  margin:0 auto;
+}
+}
 
 @media only screen and (min-width: 25em) {
 
