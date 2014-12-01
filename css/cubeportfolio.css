@@ -3249,12 +3249,12 @@
     overflow: hidden;
     margin-top: 10px;
     background: #FAFAFA;
-    padding: 20px;
+    padding: 30px;
 }
 
 .cbp-l-inline-left {
     float: left;
-    width: 50%;
+    width: 44%;
 }
 
 .cbp-l-project-img {
@@ -3263,7 +3263,7 @@
 
 .cbp-l-inline-right {
     float: right;
-    width: 50%;
+    width: 56%;
     padding-left: inherit;
 }
 
@@ -3906,7 +3906,6 @@
     visibility: hidden;
     overflow: hidden;
     width: 80%;
-    float: right;
 }
 
 @media only screen and (max-width: 780px) {
