@@ -146,7 +146,7 @@ p{
   padding-left: 3.0000rem;
   padding-right: 3.0000rem;
 }
-@media only screen and (min-width: 50em) {
+@media only screen and (min-width: 90em) {
 .column2 {
     -webkit-column-count: 2; /* Chrome, Safari, Opera */
     -moz-column-count: 2; /* Firefox */
