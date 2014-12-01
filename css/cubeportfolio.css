@@ -3254,7 +3254,7 @@
 
 .cbp-l-inline-left {
     float: left;
-    width: 49%;
+    width: 50%;
 }
 
 .cbp-l-project-img {
@@ -3263,7 +3263,7 @@
 
 .cbp-l-inline-right {
     float: right;
-    width: 49%;
+    width: 50%;
     padding-left: inherit;
 }
 
