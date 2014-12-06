@@ -2726,9 +2726,10 @@
 .cbp-popup-lightbox-iframe {
     position: relative;
     height: 0;
-
+    overflow: hidden;
     /* @editable properties */
-    /*padding-bottom: 56.25%; /* 16/9 ratio */
+        padding-top: 30px;
+    padding-bottom: 56.25%; /* 16/9 ratio */
     /*background: #000;*/
 }
 
