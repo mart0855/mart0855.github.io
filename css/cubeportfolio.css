@@ -2728,8 +2728,8 @@
     height: 0;
 
     /* @editable properties */
-    padding-bottom: 56.25%; /* 16/9 ratio */
-    background: #000;
+    /*padding-bottom: 56.25%; /* 16/9 ratio */
+    /*background: #000;*/
 }
 
 .cbp-popup-lightbox-iframe iframe {
