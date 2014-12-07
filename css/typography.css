@@ -76,8 +76,8 @@ small, .milli {
 p{
   color: #000;
   font: normal 100%/1.5 'PT Serif', Georgia, Times, serif;
-  font-size: 1rem;
-  line-height: 1.50rem;
+  font-size: 18px;
+  line-height: 32px;
 }
 
 .push {
@@ -146,16 +146,7 @@ p{
   padding-left: 3.0000rem;
   padding-right: 3.0000rem;
 }
-@media only screen and (min-width: 90em) {
-.column2 {
-    -webkit-column-count: 2; /* Chrome, Safari, Opera */
-    -moz-column-count: 2; /* Firefox */
-    column-count: 2;
-    -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
-    -moz-column-gap: 40px; /* Firefox */
-    column-gap: 40px;
-}
-}
+
 
 h1, h2, h3, h4, h5, h6,
 .brand {
