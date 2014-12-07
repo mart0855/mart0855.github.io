@@ -3299,6 +3299,26 @@
     margin-top: 25px;
 }
 
+@media only screen and (min-width: 780px) {
+
+   .cbp-l-inline-title {
+    font: 400 32px/39px "Raleway", sans-serif;
+    color: #474747;
+}
+
+.cbp-l-inline-subtitle {
+    font: 400 18px/32px "Raleway", sans-serif;
+    color: #888;
+    margin-top: 7px;
+}
+
+.cbp-l-inline-desc {
+    font: 400 18px/32px "PT Serif", serif;
+    color: #474747;
+    margin-top: 25px;
+}
+}
+
 .cbp-l-inline-view {
     font: 400 13px/35px "Raleway", sans-serif;
     color: #9C9C9C;
