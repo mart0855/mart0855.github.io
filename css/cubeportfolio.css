@@ -3299,7 +3299,7 @@
     margin-top: 25px;
 }
 
-@media only screen and (min-width: 780px) {
+@media only screen and (min-width: 1160px) {
 
    .cbp-l-inline-title {
     font: 400 32px/39px "Raleway", sans-serif;
