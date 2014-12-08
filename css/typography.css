@@ -80,6 +80,10 @@ p{
   line-height: 32px;
 }
 
+em{
+  font-style: italic;
+}
+
 .push {
   margin-bottom: 1.5rem;
 }
