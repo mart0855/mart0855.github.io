@@ -3299,6 +3299,10 @@
     margin-top: 25px;
 }
 
+.cbp-l-inline-desc em{
+    font-style: italic;
+}
+
 @media only screen and (min-width: 1160px) {
 
    .cbp-l-inline-title {
