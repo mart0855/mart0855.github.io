@@ -84,6 +84,13 @@ a {
   background-size: cover;
 }
 
+.banner-img2 {
+  padding-top: 56.25%;
+
+  background: url("../img/404.svg") no-repeat center center;
+  background-size: cover;
+}
+
 .intro-wrap {
   background-color: #333;
   width: 100%;
@@ -94,6 +101,14 @@ a {
   max-width: 25em;
 
   color: #fff;
+}
+
+@media only screen and (min-width: 90em) {
+.intro{
+  max-width: 25em;
+  margin:0 auto;
+  font-size: 2em;
+}
 }
 
 .banner-simple {
