@@ -1,0 +1,5 @@
+# robotstxt.org
+
+Sitemap: http://alexandermartin.ca/sitemap.xml
+
+User-Agent: *
