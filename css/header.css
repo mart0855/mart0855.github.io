@@ -522,6 +522,11 @@ header.close,
   position: absolute;
 }
 
+.fa-envelope{
+  margin-left: 13px;
+  position: absolute;
+}
+
 @media only screen and (min-width: 780px) {
 
 .social2{
