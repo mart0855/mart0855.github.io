@@ -53,11 +53,11 @@ a {text-decoration: none;}
   white-space: nowrap;
 }
 
-.logo-wrapper a:active,
+/*.logo-wrapper a:active,
 .logo-wrapper a:hover,
 .logo-wrapper a:focus{
   background: transparent url("../img/logo-hvr.svg") center center;
-}
+}*/
 
 .logo-wrapper a span{
   position: relative;
