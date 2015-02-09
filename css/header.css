@@ -44,7 +44,7 @@ a {text-decoration: none;}
   width: 50px;
   float: left;
 
-  background: transparent url("../img/logo.png") center center;
+  background: transparent url("../img/logo.svg") center center;
   background-size: 50px auto;
   transition: none;
   font-size: 1.5em;
