@@ -147,17 +147,17 @@
 .cbp-l-caption-title {
   /* @editable properties */
   color: #fff;
-  font: 400 18px/20px "Open Sans", sans-serif; }
+  font: 400 18px/20px 'Raleway',sans-serif; }
 
 .cbp-l-caption-desc {
   /* @editable properties */
   color: #aaa;
-  font: 400 12px/18px "Open Sans", sans-serif;
+  font: 400 13px/19px 'PT Serif', Georgia, Times, serif;
   margin-top: 2px; }
 
 .cbp-l-caption-text {
   /* @editable properties */
-  font: 400 14px/21px "Open Sans", sans-serif;
+  font: 400 14px/21px 'PT Serif', Georgia, Times, serif;
   color: #fff;
   letter-spacing: 3px; }
 
@@ -166,7 +166,7 @@
   background-color: #3288C4;
   color: #FFFFFF;
   display: inline-block;
-  font: 400 12px/30px "Open Sans", sans-serif;
+  font: 400 12px/30px 'PT Serif', Georgia, Times, serif;
   width: 90px;
   text-align: center;
   margin: 4px; }
@@ -3086,7 +3086,7 @@
  }
 
 .cbp-l-inline-title {
-  font: 400 28px/30px "Open Sans", sans-serif;
+  font: 400 28px/30px "Raleway",sans-serif;
   color: #474747; }
 
 .cbp-l-inline-subtitle {
