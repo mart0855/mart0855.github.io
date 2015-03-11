@@ -1,19 +1,19 @@
 /*´¨`*.¸¸.*´¨`*.¸ TYPOGRAPHY ¸.*´¨`*.¸¸.*´¨`*.¸¸.*
   Colour Palette
-  - Background orange: #C94613 - rgb(201,70,19)
-  - Heading grey: #515151 - rgb(81,81,81)
-  - Mark orange: #F89107 - rgb(248,145,7);
-  - Link green: #1BBCB8 - rgb(27,188,184)
-  - Link desaturated green: #79BCBA - rgb(121,188,186)
-  - Link magenta: #b42885 - rgb(180,40,133)
-  - Light brown: #c7c0ae - rgb(199, 192, 174)
-  - Light-light brown: #eae8e1 - rgb(234, 232, 225)
+.dark-primary-color    { background: #303F9F; }
+.default-primary-color { background: #3F51B5; }
+.light-primary-color   { background: #C5CAE9; }
+.text-primary-color    { color: #FFFFFF; }
+.accent-color          { background: #607D8B; }
+.primary-text-color    { color: #212121; }
+.secondary-text-color  { color: #727272; }
+.divider-color         { border-color: #B6B6B6; }
  */
 
 html {
   /*background-color: #EEEEEE;*/
 
-  color: #000;
+  color: #212121;
   font: normal 100%/1.5 'PT Serif', Georgia, Times, serif;
   font-size: 1rem;
   line-height: 1.50rem;
@@ -74,7 +74,7 @@ small, .milli {
 }
 
 p{
-  color: #000;
+  color: #212121;
   font: normal 100%/1.5 'PT Serif', Georgia, Times, serif;
   font-size: 18px;
   line-height: 32px;
@@ -158,7 +158,7 @@ strong{
 
 h1, h2, h3, h4, h5, h6,
 .brand {
-  color: #515151;
+  color: #727272;
   font-family: 'Raleway',sans-serif;
 }
 
