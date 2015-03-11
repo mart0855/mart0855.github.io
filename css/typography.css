@@ -317,14 +317,14 @@ th, td {
   border: 1px solid #c7c0ae;
 }
 
-span {
+.intro {
   font-size: 1.4238rem;
   line-height: 1.0535;
 }
 
 @media only screen and (max-width: 780px) {
 
-span{
+.intro{
   padding-left: 1.5rem;
   padding-right: 1.5rem;
   font-size: 20px;
