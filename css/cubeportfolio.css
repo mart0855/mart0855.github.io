@@ -147,7 +147,7 @@
 .cbp-l-caption-title {
   /* @editable properties */
   color: #fff;
-  font: 400 16px/20px "Open Sans", sans-serif; }
+  font: 400 18px/20px "Open Sans", sans-serif; }
 
 .cbp-l-caption-desc {
   /* @editable properties */
@@ -3090,12 +3090,12 @@
   color: #474747; }
 
 .cbp-l-inline-subtitle {
-  font: 400 13px/21px "Open Sans", sans-serif;
+  font: 400 13px/20px "Open Sans", sans-serif;
   color: #888;
   margin-top: 7px; }
 
 .cbp-l-inline-desc {
-  font: 400 13px/20px "Open Sans", sans-serif;
+  font: 400 14px/20px "Open Sans", sans-serif;
   color: #474747;
   margin-top: 25px; }
 
