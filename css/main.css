@@ -171,12 +171,6 @@ a {
   height: 100%;
 }
 
-@media only screen and (min-width: 90em) {
-#talk{
-  width: 100%;
-  margin:0 auto;
-}
-}
 
 @media only screen and (min-width: 25em) {
 
@@ -234,6 +228,11 @@ a {
 }
 
 @media only screen and (min-width: 90em) {
+
+#talk{
+  width: 100%;
+  padding:0 20em 0 0;
+}
 
 .responsive{
   font-size: 150%;
