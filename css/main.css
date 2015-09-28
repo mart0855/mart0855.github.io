@@ -84,20 +84,6 @@ a {
   background-size: cover;
 }
 
-.background-wrap {
-  position: fixed;
-  z-index: -1000;
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-  top: 0;
-  left: 0;
-}
-
-#video-bg-elem {
-  display: none;
-}
-
 .banner-img2 {
   padding-top: 56.25%;
 
@@ -116,23 +102,6 @@ a {
 
   color: #fff;
 }
-
-@media only screen and (min-width: 32em) {
-
-#video-bg-elem {
-  display: block;
-  position: absolute;
-  top: 0;
-  left: 0;
-  min-height: 100%;
-  min-width: 100%;
-  }
-
-  .banner{
-  display: none;
-}
-}
-
 
 @media only screen and (min-width: 62em) {
 
