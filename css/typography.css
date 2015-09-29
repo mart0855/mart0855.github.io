@@ -167,7 +167,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .brand-color {
-  color: #0544EB;
+  color: #448AFF;
 }
 
 a,
@@ -200,7 +200,7 @@ a:focus,
 input:focus,
 button:focus {
   /* The focus rectangle MUST ALWAYS be visible for keyboard states */
-  outline: 3px solid #1BBCB8;
+  outline: 3px solid #448AFF;
 }
 
 .block-link {
