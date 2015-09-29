@@ -180,14 +180,14 @@ a:link {
 }
 
 a:visited {
-  color: #9d248e;
+  color: #455A64;
 
 }
 
 a:hover,
 a:focus,
 a:active {
-  color: #79BCBA;
+  color: #448AFF;
 }
 
 a:hover,
