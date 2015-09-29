@@ -227,7 +227,7 @@ header h1 {
 .burger {display: block;}
 
 .footer__copyright{
-  color: #fff;
+  color: rgba(0,0,0,0.7);
   text-align: center;
 }
 
