@@ -490,12 +490,12 @@ header.close,
   -ms-border-radius: 30px;
   -o-border-radius: 30px;
   border-radius: 30px !important;
-  color: #448AFF;
-  -webkit-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
-  -moz-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
-  -ms-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
-  -o-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
-  box-shadow: inset 0px 0px 0px 30px #1BBCB8;
+  color: #fff;
+  -webkit-box-shadow: inset 0px 0px 0px 30px #448AFF;
+  -moz-box-shadow: inset 0px 0px 0px 30px #448AFF;
+  -ms-box-shadow: inset 0px 0px 0px 30px #448AFF;
+  -o-box-shadow: inset 0px 0px 0px 30px #448AFF;
+  box-shadow: inset 0px 0px 0px 30px #448AFF;
 }
 
 .social li a:hover,
