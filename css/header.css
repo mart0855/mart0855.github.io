@@ -127,7 +127,7 @@ header h1 a:hover{
   border-radius: 3px;
   margin: 5px 0;
 }
-.burger.open li {background-color: #fff;}
+.burger.open li {background-color: rgba(0,0,0,0.7);}
 
 nav {
   position: absolute;
