@@ -211,30 +211,16 @@ footer{
 
 @media only screen and (max-width: 780px) {
 
-<<<<<<< HEAD
+
 #header_nav, header {
   height: 75px;
   z-index: 3;
   background-color: rgba(255,255,255,1);
   width: 100%;
-=======
-#background {
-  height: 79px;
-  z-index: 2;
-  background-color: #fff;
-  width: 100%;
-  position: absolute;
-  top: 0;
-  right: 0;
-  left: 0;
-}
-
-#header_nav, header {
   height: 75px;
   z-index: 3;
   background-color: rgba(255,255,255,0.5);
   width: 100%;
->>>>>>> origin/master
   position: fixed;
   top: 0;
   right: 0;
@@ -273,23 +259,6 @@ header h1 {
   /*text-indent: 100%;*/
   white-space: nowrap;
 }
-
-/*.logo-wrapper a:hover,
-.logo-wrapper a:focus,
-.logo-wrapper a:active {
-  height: 40px;
-  margin: 10px 55% 0 45%;
-  padding: 0;
-  width: 40px;
-  float: left;
-  background: transparent url("../img/logo-hvr.svg") no-repeat center center;
-  background-size: 40px auto;
-  transition: none;
-  font-size: 1.5em;
-  line-height: 1.3;
-  text-indent: 100%;
-  white-space: nowrap;
-}*/
 
 .logo-wrapper a span{
   position: relative;
