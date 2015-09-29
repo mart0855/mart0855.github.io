@@ -155,7 +155,7 @@ nav li a:hover {color: #fff;}
 .nav-items {
     height: 44px;
     list-style: none;
-    margin: 20px 0 0;
+    margin: 10px 0 10px 0;
     padding: 0;
     white-space: nowrap;
     display: inline-block;
