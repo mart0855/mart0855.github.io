@@ -72,7 +72,7 @@ a {text-decoration: none;}
 .logo-wrapper a span:active,
 .logo-wrapper a span:hover,
 .logo-wrapper a span:focus{
-  color: #1BBCB8;
+  color: #448AFF;
 }
 
 .logo-wrapper a:visited{
@@ -553,7 +553,6 @@ header.close,
   width: 50px;
   margin-right: 1rem;
   padding-top: .8531rem;
-  /* background-color: #222;*/
   -webkit-border-radius: 25px;
   -moz-border-radius: 25px;
   -ms-border-radius: 25px;
