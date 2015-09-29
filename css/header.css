@@ -481,7 +481,6 @@ header.close,
   width: 40px;
   margin-right: 1rem;
   padding-top: .8531rem;
-  /* background-color: #222;*/
   -webkit-border-radius: 30px;
   -moz-border-radius: 30px;
   -ms-border-radius: 30px;
@@ -503,7 +502,7 @@ header.close,
   -ms-box-shadow: inset 0px 0px 0px 3px #fff;
   -o-box-shadow: inset 0px 0px 0px 3px #fff;
   box-shadow: inset 0px 0px 0px 3px #fff;
-  color: #fff;
+  color: #101010;
 }
 
 .social2{
