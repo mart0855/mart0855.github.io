@@ -175,7 +175,7 @@ a:link {
 
   transition: all 150ms linear;
 
-  color: #1BBCB8;
+  color: rgba(0,0,0,0.7);
   text-decoration: none;
 }
 
