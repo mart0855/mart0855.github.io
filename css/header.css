@@ -180,7 +180,7 @@ footer{
 
 .header-section {background-color: #ffffff;}
 .body-section {background-color: #f4f5f6;}
-.footer-section {background-color: #333333;}
+.footer-section {background-color: #fff; border-top: 2px solid rgba(0,0,0,0.7);}
 /*.placefiller {
   text-align: center;
   font-size: 20px;
@@ -563,7 +563,7 @@ header.close,
   -ms-border-radius: 25px;
   -o-border-radius: 25px;
   border-radius: 25px;
-  color: #333333;
+  color: #448AFF;
   -webkit-box-shadow: inset 0px 0px 0px 25px #1BBCB8;
   -moz-box-shadow: inset 0px 0px 0px 25px #1BBCB8;
   -ms-box-shadow: inset 0px 0px 0px 25px #1BBCB8;
