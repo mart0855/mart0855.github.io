@@ -295,9 +295,9 @@ nav li a.logo {
   display: none;
 }
 nav li a.active {
-  color: #fff;
-  background-color: #141e23;
+    color: rgba(0,0,0,0.7);
 }
+
 nav li a:hover {
   color: #fff;
   background-color: #19252c;
