@@ -123,11 +123,11 @@ header h1 a:hover{
 .burger li {
   width: 30px;
   height: 4px;
-  background-color: #fff;
+  background-color: rgba(0,0,0,0.7);
   border-radius: 3px;
   margin: 5px 0;
 }
-.burger.open li {background-color: #d9dde1;}
+.burger.open li {background-color: #fff;}
 
 nav {
   position: absolute;
@@ -205,7 +205,7 @@ footer{
 #header_nav, header {
   height: 75px;
   z-index: 2;
-  background-color: #333;
+  background-color: #fff;
   width: 100%;
 
   position: fixed;
