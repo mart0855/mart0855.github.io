@@ -194,10 +194,10 @@ footer{
 }*/
 
 .footer__copyright{
-  color: #fff;
+  color: rgba(0,0,0,0.7);
   float: right;
   position: relative;
-  margin-right: 1rem;
+  margin-right: 2rem;
 }
 
 @media only screen and (max-width: 780px) {
@@ -563,12 +563,12 @@ header.close,
   -ms-border-radius: 25px;
   -o-border-radius: 25px;
   border-radius: 25px;
-  color: #448AFF;
-  -webkit-box-shadow: inset 0px 0px 0px 25px #1BBCB8;
-  -moz-box-shadow: inset 0px 0px 0px 25px #1BBCB8;
-  -ms-box-shadow: inset 0px 0px 0px 25px #1BBCB8;
-  -o-box-shadow: inset 0px 0px 0px 25px #1BBCB8;
-  box-shadow: inset 0px 0px 0px 25px #1BBCB8;
+  color: #fff;
+  -webkit-box-shadow: inset 0px 0px 0px 25px #448AFF;
+  -moz-box-shadow: inset 0px 0px 0px 25px #448AFF;
+  -ms-box-shadow: inset 0px 0px 0px 25px #448AFF;
+  -o-box-shadow: inset 0px 0px 0px 25px #448AFF;
+  box-shadow: inset 0px 0px 0px 25px #448AFF;
 }
 
 .social2 li a:hover,
