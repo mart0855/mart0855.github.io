@@ -317,7 +317,7 @@ nav {
   left: 0;
   top: 0;
   margin: 0;
-  background-color: #1d2d35;
+  background-color: #fff;
   border-radius: 8px;
 
   /* starting point */
@@ -490,7 +490,7 @@ header.close,
   -ms-border-radius: 30px;
   -o-border-radius: 30px;
   border-radius: 30px !important;
-  color: #1d2d35;
+  color: #448AFF;
   -webkit-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
   -moz-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
   -ms-box-shadow: inset 0px 0px 0px 30px #1BBCB8;
