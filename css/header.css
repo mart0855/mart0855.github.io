@@ -211,7 +211,7 @@ footer{
   transform: translate3d(0,0,0);
 }
 header h1 {
-  color: #ffffff;
+  color: rgba(0,0,0,0.7);
   text-align: center;
   padding-left: 0;
   display: block;
