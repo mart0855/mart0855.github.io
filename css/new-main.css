@@ -1013,7 +1013,7 @@ textarea {
         transform: translateY(-15px)
     }
 }
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 500px) {
     h2 {
         font-size: 3.5em;
         line-height: 60px
