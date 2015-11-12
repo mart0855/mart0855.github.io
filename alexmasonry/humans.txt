@@ -1,0 +1,29 @@
+# TEAM
+
+Designer & Developer: Alexander Martin
+Site: http://alexandermartin.ca
+Github: http://github.com/mart0855
+Twitter: @polypilos
+Email: design@alexandermartin.ca
+Location: Ottawa, Canada
+
+---
+
+# THANKS
+
+Toggle navigation © Rob Luke <http://www.roblukedesign.com/trunk/trunk.html>
+Gallery © Mihai Buricea  <http://codecanyon.net/item/cube-portfolio-responsive-jquery-grid-plugin/full_screen_preview/6372959>
+
+Professors: Thomas Bradley, Tiffany Tse, Jed Looker
+
+AND
+
+Special Thanks to Vanessa Burguete for assistance with troubleshooting
+
+---
+
+# TECHNOLOGY
+
+- Sublime Text
+- GitHub
+- Hover.com

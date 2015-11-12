@@ -1,0 +1,297 @@
+@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1; }
+@-o-viewport { width: device-width; scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
+@viewport { width: device-width; scale: 1; }
+
+html{
+  height: 100%;
+}
+
+html {
+  box-sizing: border-box;
+
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.flex-img {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+a {
+  color: #707000;
+}
+
+.section-dark {
+  background-color: #ccc;
+}
+
+.section-medium {
+  background-color: #e2e2e2;
+}
+
+.section-light {
+  background-color: #efefef;
+}
+
+.masthead {
+  text-align: center;
+  width: 100%;
+  margin: 0 auto;
+  clear: left;
+  overflow: hidden;
+}
+
+.nav {
+  padding: 0;
+  list-style-type: none;
+}
+
+.nav a {
+  display: block;
+
+  text-decoration: none;
+}
+
+.footer {
+  text-align: center;
+}
+
+.banner {
+  position: relative;
+
+  text-align: center;
+}
+
+.fullscreen-bg {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+}
+
+.fullscreen-bg__video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+@media (min-aspect-ratio: 16/9) {
+  .fullscreen-bg__video {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media (max-aspect-ratio: 16/9) {
+  .fullscreen-bg__video {
+    width: auto;
+    height: 100%;
+  }
+}
+
+#home-screen {
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    text-align: center
+}
+
+.banner-img {
+  padding-top: 56.25%;
+
+  background: url("../img/banner.svg") no-repeat center center;
+  background-size: cover;
+}
+
+.banner-img2 {
+  padding-top: 56.25%;
+
+  background: url("../img/404.svg") no-repeat center center;
+  background-size: cover;
+}
+
+.intro-wrap {
+  background-color: #333;
+  width: 100%;
+}
+
+.intro {
+  margin: 0 auto;
+  max-width: 18em;
+
+  color: #fff;
+}
+
+@media only screen and (min-width: 62em) {
+
+.intro{
+  max-width: 18em;
+  margin:0 auto;
+  font-size: 3em;
+}
+}
+
+.banner-simple {
+  background: #cd853f url("http://placehold.it/1920x400/cd853f") no-repeat center center;
+}
+
+.banner-simple p {
+  margin: 0 auto;
+  max-width: 25em;
+
+  text-align: center;
+}
+
+.work {
+  text-align: center;
+}
+
+.piece {
+  background-color: red;
+}
+
+.piece__details {
+  display: none;
+}
+
+.piece__details[data-state="active"] {
+  opacity: 1;
+  margin-top: 0px;
+}
+
+.piece__details[data-state="inactive"] {
+  opacity: 0;
+  transition: all 250ms linear;
+}
+
+.data {
+  overflow: hidden;
+}
+
+.data dt {
+  font-weight: bold;
+}
+
+#talk{
+  width: 100%;
+  margin:0 auto;
+}
+
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  padding-top: 25px;
+  height: 0;
+}
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+
+@media only screen and (min-width: 25em) {
+
+.flex-img {
+  display: block;
+  width: 40%;
+  height: 100%;
+ /* margin-right: 1.5rem;*/
+}
+  .nav li {
+    display: inline-block;
+  }
+
+  .intro-wrap {
+    bottom: 1.5rem;
+    position: absolute;
+
+    background-color: transparent;
+  }
+/*
+  .fullscreen-bg {
+    background: url('../img/videoframe.jpg') center center / cover no-repeat;
+  }
+
+  .fullscreen-bg__video {
+    display: none;
+  }*/
+
+}
+
+@media only screen and (min-width: 38em) {
+
+  .masthead {
+    text-align: left;
+  }
+
+  .footer {
+    text-align: left;
+  }
+
+  .nav-footer {
+    text-align: right;
+  }
+
+  .intro-wrap {
+    bottom: 3rem;
+  }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  .data dt {
+    clear: both;
+    float: left;
+    width: 10em;
+  }
+
+  .data dd {
+    float:  left;
+  }
+
+}
+
+@media only screen and (min-width: 90em) {
+
+#talk{
+  width: 100%;
+  padding:0 10em 0;
+}
+
+.responsive{
+  font-size: 150%;
+  }
+}
