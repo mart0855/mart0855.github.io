@@ -185,16 +185,16 @@
 .cbp-l-caption-title {
   /* @editable properties */
   color: #fff;
-  font: 400 16px/21px "Open Sans", sans-serif; }
+  font: 400 16px/21px "Roboto", sans-serif; }
 
 .cbp-l-caption-desc {
   /* @editable properties */
   color: #aaa;
-  font: 400 12px/16px "Open Sans", sans-serif; }
+  font: 400 12px/16px "Roboto", sans-serif; }
 
 .cbp-l-caption-text {
   /* @editable properties */
-  font: 400 14px/21px "Open Sans", sans-serif;
+  font: 400 14px/21px "Roboto", sans-serif;
   color: #fff;
   letter-spacing: 3px;
   padding: 0 6px; }
@@ -204,7 +204,7 @@
   background-color: #3288C4;
   color: #FFFFFF;
   display: inline-block;
-  font: 400 12px/30px "Open Sans", sans-serif;
+  font: 400 12px/30px "Roboto", sans-serif;
   min-width: 90px;
   text-align: center;
   margin: 4px;
@@ -575,7 +575,7 @@
   /* @editable properties */
   color: #949494;
   cursor: pointer;
-  font: 400 13px/21px "Open Sans", sans-serif;
+  font: 400 13px/21px "Roboto", sans-serif;
   padding: 0 12px;
   transition: all .3s ease-in-out;
   position: relative;
@@ -597,7 +597,7 @@
   background: none repeat scroll 0 0 #626161;
   border-radius: 3px;
   color: #FFFFFF;
-  font: 400 11px/18px "Open Sans", sans-serif;
+  font: 400 11px/18px "Roboto", sans-serif;
   margin: 0 auto;
   padding: 4px 0;
   text-align: center;
@@ -641,7 +641,7 @@
     background-color: #fff;
     border: 1px solid #cdcdcd;
     cursor: pointer;
-    font: 400 12px/30px "Open Sans", sans-serif;
+    font: 400 12px/30px "Roboto", sans-serif;
     padding: 0 13px;
     position: relative;
     overflow: visible;
@@ -668,7 +668,7 @@
     background-color: transparent;
     color: #8B8B8B;
     cursor: pointer;
-    font: 400 11px/29px "Open Sans", sans-serif;
+    font: 400 11px/29px "Roboto", sans-serif;
     padding: 0 12px;
     position: relative;
     overflow: visible;
@@ -699,7 +699,7 @@
     background: none repeat scroll 0 0 #049372;
     border-radius: 3px;
     color: #fff;
-    font: 400 11px/18px "Open Sans", sans-serif;
+    font: 400 11px/18px "Roboto", sans-serif;
     margin: 0 auto;
     padding: 4px 0;
     text-align: center;
@@ -737,7 +737,7 @@
   border: 1px solid #ECECEC;
   color: #888888;
   cursor: pointer;
-  font: 400 12px/32px "Open Sans", sans-serif;
+  font: 400 12px/32px "Roboto", sans-serif;
   margin: 0 10px 10px 0;
   overflow: visible;
   padding: 0 17px;
@@ -763,7 +763,7 @@
   background-color: #545454;
   border-radius: 3px;
   color: #fff;
-  font: 400 11px/18px "Open Sans", sans-serif;
+  font: 400 11px/18px "Roboto", sans-serif;
   margin: 0 auto;
   padding: 4px 0;
   text-align: center;
@@ -890,7 +890,7 @@
 
 .cbp-l-filters-dropdownHeader {
   /* @editable properties */
-  font: 400 12px/38px "Open Sans", sans-serif;
+  font: 400 12px/38px "Roboto", sans-serif;
   margin: 0 17px;
   color: #FFF;
   cursor: default;
@@ -933,7 +933,7 @@
   color: #b3b3b3;
   width: 100%;
   text-align: left;
-  font: 400 12px/40px "Open Sans", sans-serif;
+  font: 400 12px/40px "Roboto", sans-serif;
   margin: 0;
   padding: 0 17px;
   cursor: pointer;
@@ -971,7 +971,7 @@
   background-color: transparent;
   color: #585252;
   cursor: pointer;
-  font: 400 12px/35px "Open Sans", sans-serif;
+  font: 400 12px/35px "Roboto", sans-serif;
   padding: 0 18px;
   position: relative;
   overflow: visible;
@@ -1020,7 +1020,7 @@
   background-color: #FFFFFF;
   color: #888;
   cursor: pointer;
-  font: 600 11px/37px "Open Sans", sans-serif;
+  font: 600 11px/37px "Roboto", sans-serif;
   margin: 0 5px 10px 0;
   overflow: visible;
   padding: 0 16px;
@@ -1043,7 +1043,7 @@
 
 .cbp-l-filters-work .cbp-filter-counter {
   /* @editable properties */
-  font: 600 11px/37px "Open Sans", sans-serif;
+  font: 600 11px/37px "Roboto", sans-serif;
   text-align: center;
   display: inline-block;
   margin-left: 8px; }
@@ -2435,7 +2435,7 @@
 .cbp-popup-lightbox-title {
   /* @editable properties */
   padding-right: 70px;
-  font: 400 12px/18px "Open Sans", sans-serif;
+  font: 400 12px/18px "Roboto", sans-serif;
   color: #eee; }
 
 .cbp-popup-lightbox-counter {
@@ -2443,7 +2443,7 @@
   top: 0;
   right: 0;
   /* @editable properties */
-  font: 400 12px/18px "Open Sans", sans-serif;
+  font: 400 12px/18px "Roboto", sans-serif;
   color: #eee; }
 
 .cbp-popup-lightbox-img {
@@ -2716,7 +2716,7 @@
 .cbp-l-project-title {
   /* @editable properties */
   color: #454444;
-  font: 600 42px/46px "Open Sans", sans-serif;
+  font: 600 42px/46px "Roboto", sans-serif;
   letter-spacing: 2px;
   margin-bottom: 15px;
   text-align: center;
@@ -2725,7 +2725,7 @@
 .cbp-l-project-subtitle {
   /* @editable properties */
   color: #787878;
-  font: 400 14px/21px "Open Sans", sans-serif;
+  font: 400 14px/21px "Roboto", sans-serif;
   margin: 0 auto 50px;
   max-width: 500px;
   text-align: center; }
@@ -2785,12 +2785,12 @@
   border-bottom: 1px solid #747474;
   display: inline-block;
   margin: 0 0 -1px 0;
-  font: 400 16px/36px "Open Sans", sans-serif;
+  font: 400 16px/36px "Roboto", sans-serif;
   padding: 0 5px 0 0; }
 
 .cbp-l-project-desc-text {
   /* @editable properties */
-  font: 400 13px/20px "Open Sans", sans-serif;
+  font: 400 13px/20px "Roboto", sans-serif;
   color: #555;
   margin-bottom: 20px; }
 
@@ -2811,7 +2811,7 @@
   border-bottom: 1px dotted #DFDFDF;
   padding: inherit;
   color: #666;
-  font: 400 12px/30px "Open Sans", sans-serif; }
+  font: 400 12px/30px "Roboto", sans-serif; }
 
 .cbp-l-project-details-list strong {
   /* @editable properties */
@@ -2826,7 +2826,7 @@
   float: right;
   clear: both;
   text-decoration: none;
-  font: 400 11px/18px "Open Sans", sans-serif;
+  font: 400 11px/18px "Roboto", sans-serif;
   margin-top: 10px;
   background-color: #53668A;
   padding: 8px 19px; }
@@ -2857,7 +2857,7 @@
 
 .cbp-l-project-related-title {
   /* @editable properties */
-  font: 700 14px/18px "Open Sans", sans-serif;
+  font: 700 14px/18px "Roboto", sans-serif;
   color: #474747;
   margin-top: 20px; }
 
@@ -2901,18 +2901,18 @@
 
 .cbp-l-member-name {
   /* @editable properties */
-  font: 400 28px/28px "Open Sans", sans-serif;
+  font: 400 28px/28px "Roboto", sans-serif;
   color: #474747; }
 
 .cbp-l-member-position {
   /* @editable properties */
-  font: 400 13px/21px "Open Sans", sans-serif;
+  font: 400 13px/21px "Roboto", sans-serif;
   color: #888;
   margin-top: 6px; }
 
 .cbp-l-member-desc {
   /* @editable properties */
-  font: 400 12px/18px "Open Sans", sans-serif;
+  font: 400 12px/18px "Roboto", sans-serif;
   margin-top: 25px;
   color: #474747; }
 
@@ -3039,16 +3039,16 @@
     margin-top: 20px; } }
 
 .cbp-l-inline-title {
-  font: 400 28px/30px "Open Sans", sans-serif;
+  font: 400 28px/30px "Roboto", sans-serif;
   color: #474747; }
 
 .cbp-l-inline-subtitle {
-  font: 400 13px/21px "Open Sans", sans-serif;
+  font: 400 13px/21px "Roboto", sans-serif;
   color: #888;
   margin-top: 7px; }
 
 .cbp-l-inline-desc {
-  font: 400 13px/20px "Open Sans", sans-serif;
+  font: 400 13px/20px "Roboto", sans-serif;
   color: #474747;
   margin-top: 25px; }
 
@@ -3056,7 +3056,7 @@
   text-align: right; }
 
 .cbp-l-inline-view {
-  font: 400 13px/35px "Open Sans", sans-serif;
+  font: 400 13px/35px "Roboto", sans-serif;
   color: #9C9C9C;
   margin-top: 40px;
   display: inline-block;
@@ -3069,7 +3069,7 @@
 
 .cbp-l-inline-details {
   margin-top: 15px;
-  font: 13px/22px "Open Sans", sans-serif; }
+  font: 13px/22px "Roboto", sans-serif; }
 
 /* default state */
 .cbp-l-loadMore-defaultText, .cbp-l-loadMore-button-defaultText {
@@ -3101,7 +3101,7 @@
   border: 1px solid #DEDEDE;
   color: #7E7B7B;
   display: inline-block;
-  font: 400 13px/40px "Lato", sans-serif;
+  font: 400 13px/40px "Roboto", sans-serif;
   min-width: 80px;
   text-decoration: none;
   padding: 0 50px;
@@ -3130,7 +3130,7 @@
   border: 1px solid #DEDEDE;
   color: #7E7B7B;
   display: inline-block;
-  font: 400 12px/36px "Open Sans", sans-serif;
+  font: 400 12px/36px "Roboto", sans-serif;
   min-width: 80px;
   text-decoration: none;
   padding: 0 30px;
@@ -3413,7 +3413,7 @@
 .cbp-l-grid-agency-title {
   /* @editable properties */
   margin-top: 18px;
-  font: 700 17px/24px Lato, sans-serif;
+  font: 700 17px/24px "Roboto", sans-serif;
   color: #666;
   text-align: center; }
 
@@ -3423,7 +3423,7 @@
 
 .cbp-l-grid-agency-desc {
   /* @editable properties */
-  font: 400 12px/21px "Open Sans", sans-serif;
+  font: 400 12px/21px "Roboto", sans-serif;
   color: #aaa;
   text-align: center; }
 
@@ -3442,7 +3442,7 @@
 .cbp-l-grid-work-title {
   /* @editable properties */
   margin-top: 17px;
-  font: 400 17px/25px "Roboto Condensed", sans-serif;
+  font: 400 17px/25px "Roboto", sans-serif;
   color: #607D8B;
   text-align: center;
   text-transform: uppercase;
@@ -3454,14 +3454,14 @@
 
 .cbp-l-grid-work-desc {
   /* @editable properties */
-  font: 400 11px/16px "Open Sans", sans-serif;
+  font: 400 11px/16px "Roboto", sans-serif;
   color: #888888;
   text-align: center;
   text-transform: uppercase; }
 
 .cbp-l-grid-blog-title {
   /* @editable properties */
-  font: 400 18px/30px "Open Sans", sans-serif;
+  font: 400 18px/30px "Roboto", sans-serif;
   color: #444;
   display: block;
   margin-top: 17px; }
@@ -3472,13 +3472,13 @@
 
 .cbp-l-grid-blog-date {
   /* @editable properties */
-  font: 400 12px/18px "Open Sans", sans-serif;
+  font: 400 12px/18px "Roboto", sans-serif;
   color: #787878;
   display: inline-block; }
 
 .cbp-l-grid-blog-comments {
   /* @editable properties */
-  font: 400 12px/18px "Open Sans", sans-serif;
+  font: 400 12px/18px "Roboto", sans-serif;
   color: #3C6FBB;
   display: inline-block; }
 
@@ -3488,14 +3488,14 @@
 
 .cbp-l-grid-blog-desc {
   /* @editable properties */
-  font: 400 13px/18px "Open Sans", sans-serif;
+  font: 400 13px/18px "Roboto", sans-serif;
   color: #9B9B9B;
   margin-top: 9px; }
 
 .cbp-l-grid-blog-split {
   /* @editable properties */
   margin: 0 4px;
-  font: 400 13px/16px "Open Sans", sans-serif;
+  font: 400 13px/16px "Roboto", sans-serif;
   color: #787878;
   display: inline-block; }
 
@@ -3503,7 +3503,7 @@
   height: 180px; }
 
 .cbp-l-clients-title-block {
-  font: 400 32px/53px Roboto, sans-serif;
+  font: 400 32px/53px "Roboto", sans-serif;
   color: #666464;
   text-align: center;
   margin-bottom: 40px; }
@@ -3513,13 +3513,13 @@
 
 .cbp-l-grid-projects-title {
   /* @editable properties */
-  font: 700 14px/21px "Open Sans", sans-serif;
+  font: 700 14px/21px "Roboto", sans-serif;
   color: #474747;
   margin-top: 15px; }
 
 .cbp-l-grid-projects-desc {
   /* @editable properties */
-  font: 400 12px/18px "Open Sans", sans-serif;
+  font: 400 12px/18px "Roboto", sans-serif;
   color: #888888;
   margin-top: 5px; }
 
@@ -3534,7 +3534,7 @@
 
 .cbp-l-grid-masonry-projects-title {
   /* @editable properties */
-  font: 500 15px/22px Roboto, sans-serif;
+  font: 500 15px/22px "Roboto", sans-serif;
   color: #59a3b6;
   text-align: center;
   display: block;
@@ -3546,13 +3546,13 @@
 
 .cbp-l-grid-masonry-projects-desc {
   /* @editable properties */
-  font: 400 12px/18px Roboto, sans-serif;
+  font: 400 12px/18px "Roboto", sans-serif;
   color: #b2b2b2;
   text-align: center; }
 
 .cbp-l-grid-team-name {
   /* @editable properties */
-  font: 400 17px/24px "Open Sans", sans-serif;
+  font: 400 17px/24px "Roboto", sans-serif;
   color: #456297;
   display: block;
   text-align: center;
@@ -3564,7 +3564,7 @@
 
 .cbp-l-grid-team-position {
   /* @editable properties */
-  font: italic 400 13px/21px "Open Sans", sans-serif;
+  font: italic 400 13px/21px "Roboto", sans-serif;
   color: #999;
   text-align: center; }
 
@@ -3575,7 +3575,7 @@
 
 .cbp-l-grid-mosaic-flat .cbp-l-caption-title {
   color: #FFFFFF;
-  font: 400 14px/21px "Lato", sans-serif;
+  font: 400 14px/21px "Roboto", sans-serif;
   text-transform: uppercase;
   letter-spacing: 2px;
   display: inline-block; }
@@ -3618,21 +3618,21 @@
   border-bottom: 1px solid #a9a5a5;
   color: #5e5e5e;
   margin-bottom: -1px;
-  font: 15px/21px Roboto, sans-serif; }
+  font: 15px/21px "Roboto", sans-serif; }
 
 .cbp-l-grid-slider-team-name {
   float: left;
-  font: 20px/30px Roboto, sans-serif;
+  font: 20px/30px "Roboto", sans-serif;
   color: #494949;
   margin-top: 16px; }
 
 .cbp-l-grid-slider-team-position {
   clear: both;
-  font: 14px/21px Roboto, sans-serif;
+  font: 14px/21px "Roboto", sans-serif;
   color: #A6A6A6; }
 
 .cbp-l-grid-slider-team-desc {
-  font: 13px/20px Roboto, sans-serif;
+  font: 13px/20px "Roboto", sans-serif;
   color: #969696;
   margin-top: 15px; }
 
@@ -3662,7 +3662,7 @@
   padding: 0 20px; }
 
 .cbp-l-grid-slider-testimonials-footer {
-  font: 12px/19px Roboto, sans-serif;
+  font: 12px/19px "Roboto", sans-serif;
   color: #777;
   text-align: center;
   margin-bottom: 10px;
@@ -3672,7 +3672,7 @@
   height: 100px; }
 
 .cbp-l-grid-tabs .cbp-item {
-  font: 14px/24px Lato, sans-serif;
+  font: 14px/24px "Roboto", sans-serif;
   max-width: 700px;
   width: 100%;
   margin: 0 auto;
@@ -3683,7 +3683,7 @@
 .cbp-l-testimonials-title-block {
   position: relative;
   text-align: center;
-  font: 26px/36px Roboto, sans-serif;
+  font: 26px/36px "Roboto", sans-serif;
   color: #E7E7E7;
   margin-bottom: 60px; }
   .cbp-l-testimonials-title-block :after {
@@ -3710,7 +3710,7 @@
   padding: 0 20px; }
 
 .cbp-l-grid-testimonials-footer {
-  font: 12px/19px Roboto, sans-serif;
+  font: 12px/19px "Roboto", sans-serif;
   color: #C2C2C2;
   text-align: center;
   margin-bottom: 40px;
@@ -3747,7 +3747,7 @@
   margin: 0;
   border-radius: 1px;
   border: 1px solid #c6c3c4;
-  font: 400 12px "Open Sans", sans-serif;
+  font: 400 12px "Roboto", sans-serif;
   width: 100%; }
 
 .cbp-search-input[value] + .cbp-search-icon {
@@ -3762,4 +3762,4 @@
   padding: 0 0 30px;
   text-align: center;
   width: 100%;
-  font: 13px "Open Sans", sans-serif; }
+  font: 13px "Roboto", sans-serif; }
