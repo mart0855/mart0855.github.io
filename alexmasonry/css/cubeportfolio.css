@@ -26,7 +26,8 @@
     --------------------------------------------------------------- */
 .cbp-item {
   display: inline-block;
-  margin: 0 10px 20px 0; }
+  margin: 0 10px 20px 0;
+ }
 
 .cbp {
   position: relative;
@@ -56,7 +57,10 @@
     display: block;
     width: 100%;
     height: auto;
-    border: 0; }
+    border: 0;
+   -webkit-filter: saturate(0.05) brightness(0.25);
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s; }
   .cbp a, .cbp a:hover, .cbp a:active {
     text-decoration: none;
     outline: 0; }
@@ -3525,12 +3529,17 @@
 
 .cbp-l-grid-masonry-projects .cbp-caption-activeWrap {
   /* @editable properties */
-  background-color: #59a3b6;
-  background-color: rgba(89, 163, 182, 0.95); }
+  background-color: #FF5252;
+  background-color: rgba(33, 33, 33, 0); }
 
 .cbp-l-grid-masonry-projects .cbp-l-caption-buttonLeft, .cbp-l-grid-masonry-projects .cbp-l-caption-buttonRight {
   /* @editable properties */
-  background-color: #545454; }
+  background-color: #FF5252;
+  transition: 0.5s; }
+
+.cbp-l-grid-masonry-projects .cbp-l-caption-buttonLeft, .cbp-l-grid-masonry-projects .cbp-l-caption-buttonRight:hover {
+  /* @editable properties */
+  background-color: #D32F2F; }
 
 .cbp-l-grid-masonry-projects-title {
   /* @editable properties */

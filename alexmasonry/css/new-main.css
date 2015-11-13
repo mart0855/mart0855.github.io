@@ -336,7 +336,8 @@ box-shadow: 0px -1px 15px 2px rgba(33,33,33,0.81);
     margin: 0 !important;
     padding: 0 !important;
     position: relative;
-    top: 24px
+    top: 24px;
+    left: -15px;
 }
 .menu .menu-toggled ul li {
     display: block;
@@ -967,6 +968,10 @@ textarea {
 .project-title h3 {
     text-align: center;
     color: #fff;
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 400;
+    line-height: 1em;
+    text-transform: uppercase;
 }
 
 @media screen and (max-width: 750px) {
