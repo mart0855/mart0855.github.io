@@ -2499,14 +2499,23 @@
 
 /* NAVIGATION BUTTONS */
 .cbp-popup-singlePage .cbp-popup-navigation-wrap {
+  background-color: #303F9F;
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
   z-index: 9990;
-  /* @editable properties */
-  height: 104px;
-  background-color: #34425C; }
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  -webkit-transition: all 0.5s ease 0s;
+  -moz-transition: all 0.5s ease 0s;
+  -ms-transition: all 0.5s ease 0s;
+  -o-transition: all 0.5s ease 0s;
+  transition: all 0.5s ease 0s;
+-webkit-box-shadow: 0px -1px 15px 2px rgba(33,33,33,0.81);
+-moz-box-shadow: 0px -1px 15px 2px rgba(33,33,33,0.81);
+box-shadow: 0px -1px 15px 2px rgba(33,33,33,0.81);
+}
 
 .cbp-popup-singlePage .cbp-popup-navigation {
   position: relative;
