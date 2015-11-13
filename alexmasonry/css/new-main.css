@@ -473,9 +473,9 @@ header p {
     filter: saturate(0.35) brightness(35%);
     -webkit-filter: saturate(0.35) brightness(35%);
     -moz-filter: saturate(0.35) brightness(35%);
-    transition: all 0.5s;
-    -webkit-transition: all 0.5s;
-    -moz-transition: all 0.5s;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
 }
 
 
@@ -483,9 +483,9 @@ header p {
     filter: saturate(80%) brightness(80%);
     -webkit-filter: saturate(0.8) brightness(80%);
     -moz-filter: saturate(80%) brightness(80%);
-    transition: all 0.5s;
-    -webkit-transition: all 0.5s;
-    -moz-transition: all 0.5s;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
 }
 
 #main {
