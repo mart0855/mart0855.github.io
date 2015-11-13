@@ -179,9 +179,9 @@ small, .font-small {
     content: "";
     display: block;
     color: #ffffff;
-    min-height: 120px;
+    min-height: 95px;
     position: relative;
-    margin: 10px 10% 0 10%;
+    margin: 5px 10% 0 10%;
     vertical-align: bottom;
 }
 
@@ -956,7 +956,7 @@ textarea {
     position: absolute;
     bottom: 30px;
     left: 48%;
-    margin: 0 auto;
+    margin: 0 42%;
     z-index: 299;
     cursor: pointer
 }
@@ -1265,51 +1265,5 @@ textarea {
     #navLogo {
         margin-left: 42px;
         width: 50px;
-    }
-}
-
-@media screen and (min-width: 750px) and (max-width: 860px) {
-
-.round-button-circle {
-    width: 100%;
-    height:0;
-    padding-bottom: 100%;
-    border-radius: 15%;
-    overflow:hidden;
-    background: #FF5252;
-    -webkit-box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
-    -moz-box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
-    box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
-    -webkit-transition: all 0.5s ease 0s;
-    -moz-transition: all 0.5s ease 0s;
-    -ms-transition: all 0.5s ease 0s;
-    -o-transition: all 0.5s ease 0s;
-    transition: all 0.5s ease 0s;
-    }
-.round-button-circle:hover {
-    background:#D32F2F;
-    }
-.round-button a {
-    display:block;
-    float:left;
-    width:100%;
-    padding: 2px 10px 2px 10px;
-    line-height:1em;
-    text-align:center;
-    color:#e2eaf3;
-    font-size:1.2em;
-    font-weight:700;
-    text-decoration:none;
-    }
-
-.view {
-    background: url("../img/icon-view.svg") no-repeat scroll center center;
-    content: "";
-    display: block;
-    color: #ffffff;
-    height: 90px;
-    position: relative;
-    margin: 7% 10% 5% 10%;
-    vertical-align: bottom;
     }
 }
