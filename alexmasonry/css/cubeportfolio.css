@@ -58,9 +58,7 @@
     width: 100%;
     height: auto;
     border: 0;
-   -webkit-filter: saturate(0.05) brightness(0.25);
-    transition: all 0.5s;
-    -webkit-transition: all 0.5s; }
+ }
   .cbp a, .cbp a:hover, .cbp a:active {
     text-decoration: none;
     outline: 0; }
