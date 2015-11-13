@@ -421,17 +421,19 @@ box-shadow: 0px -1px 15px 2px rgba(33,33,33,0.81);
   background: rgba(32, 30, 80, 0.7);
 
 }
-.cbp-item img{
+.cbp-item .cbp-caption-defaultWrap img{
    -webkit-filter: saturate(0.05) brightness(0.45);
-    -moz-filter: saturate(0.05) brightness(0.45);
+    filter: url('#brightness');
+    filter: url('#saturate');
     transition: all 0.5s;
     -webkit-transition: all 0.5s;
     -moz-transition: all 0.5s;
 }
 
-.cbp-item img:hover{
-    -moz-filter: saturate(0.8) brightness(0.8);
+.cbp-item .cbp-caption-defaultWrap img:hover{
    -webkit-filter: saturate(0.8) brightness(0.8);
+    filter: url('#brightness');
+    filter: url('#saturate');
     transition: all 0.5s;
     -webkit-transition: all 0.5s;
     -moz-transition: all 0.5s;
