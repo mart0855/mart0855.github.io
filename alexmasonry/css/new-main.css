@@ -136,6 +136,60 @@ small, .font-small {
     font-size: 0.75em;
 }
 
+.hide-text {
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.round-button {
+    width:25%;
+}
+
+.round-button-circle {
+    width: 100%;
+    height:0;
+    padding-bottom: 100%;
+    border-radius: 15%;
+    overflow:hidden;
+    background: #FF5252;
+    -webkit-box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
+    -webkit-transition: all 0.5s ease 0s;
+    -moz-transition: all 0.5s ease 0s;
+    -ms-transition: all 0.5s ease 0s;
+    -o-transition: all 0.5s ease 0s;
+    transition: all 0.5s ease 0s;
+}
+.round-button-circle:hover {
+    background:#D32F2F;
+}
+.round-button a {
+    display:block;
+    float:left;
+    width:100%;
+    padding: 2px 10px 2px 10px;
+    line-height:1em;
+    text-align:center;
+    color:#e2eaf3;
+    font-size:1.2em;
+    font-weight:700;
+    text-decoration:none;
+}
+
+.view {
+    background: url("../img/icon-view.svg") no-repeat scroll center center;
+    content: "";
+    display: block;
+    color: #ffffff;
+    height: 90px;
+    position: relative;
+/*    width: 100px;
+*/  margin: 15% 10% 5% 10%;
+    vertical-align: bottom;
+}
+
 #preloader {
     position: fixed;
     top: 0;
@@ -158,7 +212,7 @@ small, .font-small {
 }
 a,
 a:active {
-    color: #04c3b1;
+    color: #ffffff;
 }
 a:hover,
 a:focus {
@@ -470,22 +524,22 @@ header p {
 }
 
 .cbp-item .cbp-caption-defaultWrap img{
-    filter: saturate(0.35) brightness(35%);
-    -webkit-filter: saturate(0.35) brightness(35%);
-    -moz-filter: saturate(0.35) brightness(35%);
-    transition: all 1s;
-    -webkit-transition: all 1s;
-    -moz-transition: all 1s;
+    filter: saturate(0.35) brightness(35%) sepia(30%) opacity(0.7);
+    -webkit-filter: saturate(0.35) brightness(35%) sepia(30%) opacity(0.7);
+    -moz-filter: saturate(0.35) brightness(35%) sepia(30%) opacity(0.7);
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
 }
 
 
 .cbp-item .cbp-caption:hover img{
-    filter: saturate(80%) brightness(80%);
-    -webkit-filter: saturate(0.8) brightness(80%);
-    -moz-filter: saturate(80%) brightness(80%);
-    transition: all 1s;
-    -webkit-transition: all 1s;
-    -moz-transition: all 1s;
+    filter: saturate(100%) brightness(100%) sepia(0) opacity(1);
+    -webkit-filter: saturate(1) brightness(100%) sepia(0) opacity(1);
+    -moz-filter: saturate(100%) brightness(100%) sepia(0) opacity(1);
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
 }
 
 #main {
@@ -579,7 +633,6 @@ header p {
     width: 0px;
 }
 #content1 {
-    margin-top: 5em;
     background-color: #C5CAE9;
     position: relative;
     overflow: hidden;

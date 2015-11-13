@@ -247,7 +247,7 @@
   display: table-cell;
   vertical-align: middle;
   text-align: center;
-  padding: 10px 0; }
+  padding: 25%; }
 
 .cbp-l-caption-alignCenter .cbp-l-caption-buttonLeft, .cbp-l-caption-alignCenter .cbp-l-caption-buttonRight {
   position: relative;
@@ -3562,8 +3562,8 @@ box-shadow: 0px -1px 15px 2px rgba(33,33,33,0.81);
 
 .cbp-l-grid-masonry-projects-desc {
   /* @editable properties */
-  font: 400 12px/18px "Roboto", sans-serif;
-  color: #b2b2b2;
+  font: 400 15px/18px "Roboto", sans-serif;
+  color: #FFFFFF;
   text-align: center; }
 
 .cbp-l-grid-team-name {
