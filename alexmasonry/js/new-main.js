@@ -4,7 +4,8 @@ $(document).ready(function() {
 
 $('.arrow').hide();
 
-$('header').addClass('animated fadeInRightBig');
+$('header').addClass('animated bounceInDown');
+$('.hi-icon-wrap').addClass('animated bounceInUp');
 
 setTimeout(function() {
     $('.arrow').show();
