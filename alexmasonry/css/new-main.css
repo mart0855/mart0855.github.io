@@ -150,9 +150,9 @@ small, .font-small {
     overflow:hidden;
     background: #FF5252;
     margin: 0 auto;
-    -webkit-box-shadow: 0px 6px 44px 3px rgba(0,0,0,0.43);
-    -moz-box-shadow: 0px 6px 44px 3px rgba(0,0,0,0.43);
-    box-shadow: 0px 6px 44px 3px rgba(0,0,0,0.43);
+    -webkit-box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
     -webkit-transition: all 0.5s ease 0s;
     -moz-transition: all 0.5s ease 0s;
     -ms-transition: all 0.5s ease 0s;
@@ -523,47 +523,23 @@ header p {
     margin: 0
 }
 
-/*.cbp-item .cbp-caption-defaultWrap img{
-    filter: saturate(0.35) brightness(35%);
-    -webkit-filter: saturate(0.35) brightness(35%);
-    -moz-filter: saturate(0.35) brightness(35%);
-    transition: all 0.5s;
+.cbp-item .cbp-caption-defaultWrap img{
+    filter: saturate(0.35) brightness(35%) sepia(30%) opacity(0.7);
+    -webkit-filter: saturate(0.35) brightness(35%) sepia(30%) opacity(0.7);
+    -moz-filter: saturate(0.35) brightness(35%) sepia(30%) opacity(0.7);
+/*    transition: all 0.5s;
     -webkit-transition: all 0.5s;
-    -moz-transition: all 0.5s;
+    -moz-transition: all 0.5s;*/
 }
 
 
 .cbp-item .cbp-caption:hover img{
-    filter: saturate(100%) brightness(100%);
-    -webkit-filter: saturate(1) brightness(100%);
-    -moz-filter: saturate(100%) brightness(100%);
-    transition: all 0.5s;
+    filter: saturate(100%) brightness(100%) sepia(0) opacity(1);
+    -webkit-filter: saturate(1) brightness(100%) sepia(0) opacity(1);
+    -moz-filter: saturate(100%) brightness(100%) sepia(0) opacity(1);
+/*    transition: all 0.5s;
     -webkit-transition: all 0.5s;
-    -moz-transition: all 0.5s;
-}*/
-
-.tint {
-    position: relative;
-    cursor: pointer;
-}
-
-.cbp-item .cbp-caption-defaultWrap .tint:before {
-    content: "";
-    display: block;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background: rgba(33,33,33, 0.65);
-    -moz-transition: background .3s linear;
-    -webkit-transition: background .3s linear;
-    -o-transition: background .3s linear;
-    transition: background .3s linear;
-}
-
-.cbp-item .cbp-caption .tint:hover:before {
-    background: none;
+    -moz-transition: all 0.5s;*/
 }
 
 #main {
@@ -1044,7 +1020,6 @@ textarea {
 
 
 /**** OVERRIDED CSS FOR CUBEPORTFOLIO ***/
-
 .project-title{
     top: -52px;
     bottom: 0;
@@ -1062,18 +1037,31 @@ textarea {
 }
 
 @media only screen and (min-device-width : 320px) and (max-device-width : 568px) {
-    h1{
+
+h1 {
     margin-top: 1em;
-    font-size: 3.157em;
+    font-size: 2em;
     line-height: 0.9em;
-    }
 }
 
-@media screen and (max-width: 400px) {
+.round-button-circle {
+    width: 76%;
+    padding-bottom: 77%;
+    margin: 0 auto;
+    -webkit-box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
+    -webkit-transition: all 0.5s ease 0s;
+    -moz-transition: all 0.5s ease 0s;
+    -ms-transition: all 0.5s ease 0s;
+    -o-transition: all 0.5s ease 0s;
+    transition: all 0.5s ease 0s;
+}
 
-    .view {
-    min-height: 64px;
-    margin: 13px 10% 0 10%;}
+.view {
+    min-height: 86px;
+    margin: 13px 10% 0 10%;
+    }
 }
 
 @media screen and (max-width: 534px) {
@@ -1094,26 +1082,20 @@ textarea {
 .view {
     min-height: 86px;
     margin: 13px 10% 0 10%;
-}
 
 }
 
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px)  { /* STYLES GO HERE */}
+}
+
+
+@media screen and (max-width: 400px) {
 
     .view {
-    min-height: 77px;
-    margin: 5px 10% 0 10%;
-    }
+    min-height: 64px;
+    margin: 13px 10% 0 10%;}
 }
 
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio: 2) {
-    .view {
-    min-height: 77px;
-    margin: 5px 10% 0 10%;
-    }
-}
 @media screen and (max-width: 750px) {
-
     h2 {
         font-size: 3.5em;
         line-height: 60px
@@ -1334,3 +1316,28 @@ textarea {
         width: 50px;
     }
 }
+
+@media screen and (min-width: 1360px) {
+
+.round-button-circle {
+    width: 76%;
+    padding-bottom: 69%;
+    margin: 0 auto;
+    -webkit-box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
+    -webkit-transition: all 0.5s ease 0s;
+    -moz-transition: all 0.5s ease 0s;
+    -ms-transition: all 0.5s ease 0s;
+    -o-transition: all 0.5s ease 0s;
+    transition: all 0.5s ease 0s;
+}
+
+.view {
+    min-height: 70px;
+    margin: 13px 10% 5px 10%;
+
+}
+
+}
+
