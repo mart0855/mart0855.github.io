@@ -1068,8 +1068,16 @@ textarea {
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px)  { /* STYLES GO HERE */}
 
     .view {
-    min-height: 87px;
-    margin: 7px 10% 0 10%;
+    min-height: 77px;
+    margin: 5px 10% 0 10%;
+    }
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio: 2) {
+    .view {
+    min-height: 77px;
+    margin: 5px 10% 0 10%;
+    }
 }
 @media screen and (max-width: 750px) {
 
