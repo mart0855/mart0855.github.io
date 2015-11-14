@@ -179,9 +179,10 @@ small, .font-small {
     content: "";
     display: block;
     color: #ffffff;
-    min-height: 95px;
+    min-height: 70px;
+    max-height: 90px;
     position: relative;
-    margin: 5px 10% 0 10%;
+    margin: 2px 10% 2px 10%;
     vertical-align: bottom;
 }
 
@@ -956,7 +957,7 @@ textarea {
     position: absolute;
     bottom: 30px;
     left: 48%;
-    margin: 0 42%;
+    margin: 0 auto;
     z-index: 299;
     cursor: pointer
 }
@@ -1042,6 +1043,14 @@ textarea {
     font-weight: 400;
     line-height: 1em;
     text-transform: uppercase;
+}
+
+@media screen and (max-width: 460px) {
+    h1{
+    margin-top: -5em;
+    font-size: 2em;
+    line-height: 0.9em;
+    }
 }
 
 @media screen and (max-width: 750px) {
