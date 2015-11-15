@@ -542,6 +542,13 @@ header p {
     -moz-transition: all 0.5s;*/
 }
 
+.cbp-item .cbp-caption:hover .project-title{
+    text-indent: 99999px;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+
 #main {
     background: none repeat scroll 0px 0px #f2f2f2;
     position: relative;
@@ -1046,7 +1053,7 @@ h1 {
 
 .round-button-circle {
     width: 76%;
-    padding-bottom: 77%;
+    padding-bottom: 75%;
     margin: 0 auto;
     -webkit-box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
@@ -1059,34 +1066,10 @@ h1 {
 }
 
 .view {
-    min-height: 86px;
+    max-height: 86px;
     margin: 13px 10% 0 10%;
     }
 }
-
-@media screen and (max-width: 534px) {
-.round-button-circle {
-    width: 76%;
-    padding-bottom: 61%;
-    margin: 0 auto;
-    -webkit-box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
-    -moz-box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
-    box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
-    -webkit-transition: all 0.5s ease 0s;
-    -moz-transition: all 0.5s ease 0s;
-    -ms-transition: all 0.5s ease 0s;
-    -o-transition: all 0.5s ease 0s;
-    transition: all 0.5s ease 0s;
-}
-
-.view {
-    min-height: 86px;
-    margin: 13px 10% 0 10%;
-
-}
-
-}
-
 
 @media screen and (max-width: 400px) {
 
@@ -1193,8 +1176,48 @@ h1 {
     #navLogo {
         width: 50px;
     }
+}
 
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) and (-webkit-min-device-pixel-ratio: 1)  {
+    .round-button-circle {
+    width: 76%;
+    padding-bottom: 80%;
+    margin: 0 auto;
+    -webkit-box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
+    -webkit-transition: all 0.5s ease 0s;
+    -moz-transition: all 0.5s ease 0s;
+    -ms-transition: all 0.5s ease 0s;
+    -o-transition: all 0.5s ease 0s;
+    transition: all 0.5s ease 0s;
+}
 
+.view {
+    min-height: 86px;
+    margin: 13px 10% 0 10%;
+}
+}
+
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape)and (-webkit-min-device-pixel-ratio: 1)  {
+.round-button-circle {
+    width: 76%;
+    padding-bottom: 87%;
+    margin: 0 auto;
+    -webkit-box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 37px 0px rgba(0,0,0,0.75);
+    -webkit-transition: all 0.5s ease 0s;
+    -moz-transition: all 0.5s ease 0s;
+    -ms-transition: all 0.5s ease 0s;
+    -o-transition: all 0.5s ease 0s;
+    transition: all 0.5s ease 0s;
+}
+
+.view {
+    min-height: 86px;
+    margin: 13px 10% 0 10%;
+}
 }
 
 @media screen and (max-device-width: 800px) {
