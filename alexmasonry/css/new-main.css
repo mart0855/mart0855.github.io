@@ -141,6 +141,17 @@ small, .font-small {
     font-size: 0.75em;
 }
 
+.cbp-l-project-details-list a{
+    text-decoration: none;
+    color: #666;
+    transition: all 150ms linear;
+}
+
+.cbp-l-project-details-list a:hover{
+    text-decoration: none;
+    color: #C5CAE9;
+}
+
 .hide-text {
   text-indent: 100%;
   white-space: nowrap;
@@ -493,6 +504,14 @@ box-shadow: 0px -1px 15px 2px rgba(33,33,33,0.81);
     width: 94%;
     margin:0 auto;
     max-width: 1024px;
+}
+
+@media screen and (max-width: 767px) and (min-width: 0){
+.header-work article .cont-work-detail .work-detail {
+    float: left;
+    width: 25%;
+    padding-right: 20px;
+    }
 }
 
   video {
