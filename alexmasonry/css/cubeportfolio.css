@@ -2750,7 +2750,7 @@ box-shadow: 0px -1px 15px 2px rgba(33,33,33,0.81);
 .cbp-l-project-desc {
   /* @editable properties */
   float: left;
-  width: 64%; }
+  width: 100%; }
 
 .cbp-l-project-social-wrapper, .cbp-l-inline-social-wrapper {
   display: inline-block;
@@ -2803,7 +2803,23 @@ box-shadow: 0px -1px 15px 2px rgba(33,33,33,0.81);
   /* @editable properties */
   font: 300 17px/1.5em "Roboto", sans-serif;
   color: #212121;
-  margin-bottom: 20px; }
+  margin-bottom: 20px;
+}
+
+@media screen and (min-width: 767px){
+
+.cbp-l-project-desc-text {
+  /* @editable properties */
+  font: 300 17px/1.5em "Roboto", sans-serif;
+  color: #212121;
+  margin-bottom: 20px;
+  -moz-column-count: 2;
+  -moz-column-gap: 1em;
+  -webkit-column-count: 2;
+  -webkit-column-gap: 1em;
+  column-count: 2;
+  column-gap: 1em; }
+}
 
 .cbp-l-project-details-title {
   /* @editable properties */
