@@ -1028,7 +1028,7 @@ textarea {
     animation-duration: 3s
 }
 @-webkit-keyframes bounce {
-    0, 20%, 50%, 80%, 100% {
+    0%, 20%, 50%, 80%, 100% {
         -webkit-transform: translateY(0)
     }
     40% {
@@ -1039,7 +1039,7 @@ textarea {
     }
 }
 @-moz-keyframes bounce {
-    0, 20%, 50%, 80%, 100% {
+    0%, 20%, 50%, 80%, 100% {
         -moz-transform: translateY(0)
     }
     40% {
@@ -1050,7 +1050,7 @@ textarea {
     }
 }
 @-o-keyframes bounce {
-    0, 20%, 50%, 80%, 100% {
+    0%, 20%, 50%, 80%, 100% {
         -o-transform: translateY(0)
     }
     40% {
@@ -1061,7 +1061,7 @@ textarea {
     }
 }
 @keyframes bounce {
-    0, 20%, 50%, 80%, 100% {
+    0%, 20%, 50%, 80%, 100% {
         transform: translateY(0)
     }
     40% {
