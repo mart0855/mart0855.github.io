@@ -112,7 +112,12 @@ strong{
 }
 
 p {
-    margin-bottom: 1.3em;
+/*    margin: 0 auto 10px;
+*/    overflow: hidden;
+}
+
+.cbp-l-project-desc-text p:first-child{
+    margin-top: 0;
 }
 
 h1, h3, h4 {
