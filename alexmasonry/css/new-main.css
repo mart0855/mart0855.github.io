@@ -102,6 +102,15 @@ body {
     color: #333;
 }
 
+em{
+    font-style: italic;
+}
+
+strong{
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
 p {
     margin-bottom: 1.3em;
 }
