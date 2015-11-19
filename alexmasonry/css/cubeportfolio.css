@@ -2584,7 +2584,7 @@ box-shadow: 0px -1px 15px 2px rgba(33,33,33,0.81)*/;
   margin: auto;
   top: 480px;
   bottom: 0;
-  left: 10px; }
+  left: 15px; }
 
       @media only screen and (min-width: 768px) {
 .cbp-popup-singlePage .cbp-popup-prev {
@@ -2618,7 +2618,7 @@ box-shadow: 0px -1px 15px 2px rgba(33,33,33,0.81)*/;
   height: 46px;
   margin: auto;
   top: 480px;
-  right: 10px;
+  right: 15px;
   bottom: 0;
 }
 
@@ -2738,20 +2738,20 @@ box-shadow: 0px -1px 15px 2px rgba(33,33,33,0.81)*/;
 .cbp-l-project-title {
   /* @editable properties */
   color: #212121;
-  font: 600 72px/66px "Roboto", sans-serif;
+  font: 600 2.45em/66px "Roboto Condensed", sans-serif;
   letter-spacing: 2px;
   margin-bottom: 40px;
-  margin-top: 60px;
   text-align: left;
-  text-transform: uppercase; }
+}
 
 .cbp-l-project-subtitle {
   /* @editable properties */
-  color: #212121;
-  font: 300 24px/21px "Roboto", sans-serif;
+  color: #8e9399;
+  font: 600 20px/1.231em "Roboto Condensed", sans-serif;
   margin-top:2em;
   max-width: 1020px;
-  text-align: left; }
+  text-align: left;
+  text-transform: uppercase; }
 
 .cbp-popup-singlePage .cbp-popup-content .cbp-l-project-img {
   display: block;
@@ -2788,9 +2788,10 @@ box-shadow: 0px -1px 15px 2px rgba(33,33,33,0.81)*/;
   .cbp-l-project-title {
     font-size: 40px;
     line-height: 43px;
-    margin: 60px 0 20px; }
+    margin: 10px 0 40px; }
+
   .cbp-l-project-subtitle {
-    font-size: 24px;
+    font-size: 17px;
   }
   .cbp-l-project-desc {
     /* @editable properties */
@@ -2826,7 +2827,7 @@ box-shadow: 0px -1px 15px 2px rgba(33,33,33,0.81)*/;
 
 .cbp-l-project-desc-text {
   /* @editable properties */
-  font: 300 17px/1.5em "Roboto", sans-serif;
+  font: 300 17px/30px "Roboto", sans-serif;
   color: #212121;
 /*  margin-bottom: 20px;*/
   -moz-column-count: 2;
