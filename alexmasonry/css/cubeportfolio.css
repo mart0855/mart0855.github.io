@@ -2408,8 +2408,8 @@
   position: relative;
   z-index: 1;
   /* @editable properties */
-/*  margin-top: 60px;
-*/  vertical-align: top;
+  margin-top: 60px;
+  vertical-align: top;
   width: 100%;
 }
 
@@ -2499,7 +2499,7 @@
 
 /* NAVIGATION BUTTONS */
 .cbp-popup-singlePage .cbp-popup-navigation-wrap {
-/*  background-color: #303F9F;*/
+  background-color: #303F9F;
   position: absolute;
   top: 0;
   left: 0;
@@ -2507,9 +2507,9 @@
   width: 100%;
   height: 60px;
   line-height: 60px;
-/*-webkit-box-shadow: 0px -1px 15px 2px rgba(33,33,33,0.81);
+-webkit-box-shadow: 0px -1px 15px 2px rgba(33,33,33,0.81);
 -moz-box-shadow: 0px -1px 15px 2px rgba(33,33,33,0.81);
-box-shadow: 0px -1px 15px 2px rgba(33,33,33,0.81)*/;
+box-shadow: 0px -1px 15px 2px rgba(33,33,33,0.81);
 }
 
 .cbp-popup-singlePage .cbp-popup-navigation {
@@ -2523,23 +2523,19 @@ box-shadow: 0px -1px 15px 2px rgba(33,33,33,0.81)*/;
 
 .cbp-popup-singlePage-counter {
   /* @editable properties */
-  color: #212121;
+  color: #ffffff;
   position: absolute;
   margin: auto;
   left: 25px;
-  top: 60px;
+  top: 0;
   bottom: 0;
-  font: 500 13px/30px "Roboto", sans-serif;
+  font: 400 13px/30px "Roboto", sans-serif;
   height: 30px; }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (max-width: 768px) {
   .cbp-popup-singlePage-counter {
-    top: 0;}
+    left: 3%;}
 }
-
-/*@media only screen and (max-width: 768px) {
-  .cbp-popup-singlePage-counter {
-    right: 3%; } }*/
 
 .cbp-popup-next, .cbp-popup-prev, .cbp-popup-close {
   padding: 0;
@@ -2582,32 +2578,15 @@ box-shadow: 0px -1px 15px 2px rgba(33,33,33,0.81)*/;
   width: 46px;
   height: 46px;
   margin: auto;
-  top: 480px;
+  top: 0;
+  right: 108px;
   bottom: 0;
-  left: 15px;
-  opacity:0.15;}
-
-      @media only screen and (min-width: 768px) {
-.cbp-popup-singlePage .cbp-popup-prev {
-    top: 740px;}
-}
-@media only screen and (min-device-width : 320px) and (max-device-width : 568px) {
-.cbp-popup-singlePage .cbp-popup-prev {
-    left: 5px;}
-}
-@media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : landscape) {
-.cbp-popup-singlePage .cbp-popup-prev {
-    top: 700px;}
+  left: 0;
 }
 
 .cbp-popup-singlePage .cbp-popup-prev:hover {
   /* @editable properties */
   background-position: 0 -138px;
-  border-radius: 23px 23px 23px 23px;
-  -webkit-box-shadow: 0px 3px 14px 0px rgba(114,114,114,0.5);
-  -moz-box-shadow: 0px 3px 14px 0px rgba(114,114,114,0.5);
-  box-shadow: 0px 3px 14px 0px rgba(114,114,114,0.5);
-    opacity:1;
  }
 
 /* NEXT BUTTON LIGHTBOX */
@@ -2632,34 +2611,16 @@ box-shadow: 0px -1px 15px 2px rgba(33,33,33,0.81)*/;
   width: 46px;
   height: 46px;
   margin: auto;
-  top: 480px;
-  right: 15px;
+  top: 0;
+  right: 0;
   bottom: 0;
-  opacity:0.15;
-}
-
-    @media only screen and (min-width: 768px) {
-.cbp-popup-singlePage .cbp-popup-next {
-    top: 740px;}
-}
-
-@media only screen and (min-device-width : 320px) and (max-device-width : 568px) {
-.cbp-popup-singlePage .cbp-popup-next {
-    right: 5px;}
-}
-@media only screen and (min-device-width : 320px) and (max-device-width : 568px) and (orientation : landscape) {
-.cbp-popup-singlePage .cbp-popup-next {
-    top: 700px;}
+  left: 108px;
 }
 
 .cbp-popup-singlePage .cbp-popup-next:hover {
   /* @editable properties */
   background-position: -46px -138px;
-  border-radius: 23px 23px 23px 23px;
--webkit-box-shadow: 0px 3px 14px 0px rgba(114,114,114,0.5);
--moz-box-shadow: 0px 3px 14px 0px rgba(114,114,114,0.5);
-box-shadow: 0px 3px 14px 0px rgba(114,114,114,0.5);
-opacity: 1; }
+}
 
 /* CLOSE BUTTON LIGTHBOX */
 .cbp-popup-lightbox .cbp-popup-close {
@@ -2680,28 +2641,28 @@ opacity: 1; }
   background: url("../img/cbp-sprite2.png") no-repeat scroll -92px -92px transparent;
   height: 46px;
   width: 46px;
-  top: 7px;
-  right: 15px;
+  margin: auto;
+  top: 0;
+  right: 0;
   bottom: 0;
-  opacity:0.15;
-}
+  left: 0; }
 
-@media only screen and (min-device-width : 320px) and (max-device-width : 568px) {
+/*@media only screen and (min-device-width : 320px) and (max-device-width : 568px) {
 .cbp-popup-singlePage .cbp-popup-close {
     right: 5px;}
 }
-
+*/
 .cbp-popup-singlePage .cbp-popup-ie8bg {
   background-color: #fff; }
 
 .cbp-popup-singlePage .cbp-popup-close:hover {
   /* @editable properties */
   background-position: -92px -138px;
-  border-radius: 23px 23px 23px 23px;
+/*  border-radius: 23px 23px 23px 23px;
 -webkit-box-shadow: 0px 3px 14px 0px rgba(114,114,114,0.5);
 -moz-box-shadow: 0px 3px 14px 0px rgba(114,114,114,0.5);
 box-shadow: 0px 3px 14px 0px rgba(114,114,114,0.5);
-opacity:1;}
+opacity:1;*/}
 
 @media only screen and (max-width: 360px), (max-height: 600px) {
   .cbp-popup-next, .cbp-popup-prev, .cbp-popup-close {
@@ -2716,7 +2677,7 @@ opacity:1;}
   .cbp-popup-lightbox .cbp-popup-prev {
     left: 10px; }
   .cbp-popup-singlePage .cbp-popup-navigation-wrap {
-    height: 0;
+    height: 60px;
 }
   .cbp-popup-singlePage .cbp-popup-content {
     /*margin-top: 140px;*/ } }
@@ -2779,7 +2740,6 @@ opacity:1;}
   /* @editable properties */
   color: #212121;
   font: 600 2.45em/66px "Roboto Condensed", sans-serif;
-  letter-spacing: 2px;
   margin-bottom: 20px;
   text-align: left;
 }
