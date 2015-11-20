@@ -2736,15 +2736,15 @@ opacity:1;*/}
 .cbp-popup-singlePage-open.cbp-popup-singlePage-right {
   left: 0; }
 
-.cbp-l-project-title {
+.cbp-l-project-title h2{
   /* @editable properties */
-  color: #212121;
-  font: 600 2.45em/66px "Roboto Condensed", sans-serif;
-  margin-bottom: 20px;
+  color: #333;
+  font: 600 48px/56px "Roboto Condensed", sans-serif;
   text-align: left;
+  margin: 0 auto;
 }
 
-.cbp-l-project-subtitle {
+.cbp-l-project-subtitle h3{
   /* @editable properties */
   color: #727272;
   font: 600 20px/1.231em "Roboto Condensed", sans-serif;
@@ -2761,12 +2761,22 @@ opacity:1;*/}
 .cbp-l-project-container {
   overflow: hidden;
   margin: 0 auto 30px;
-  clear: both; }
+  clear: both;
+  }
 
 .cbp-l-project-desc {
   /* @editable properties */
-  float: left;
-  width: 100%; }
+  width:100%;
+  margin: 0 auto;
+}
+
+@media only screen and (min-width: 1024px){
+.cbp-l-project-desc {
+  /* @editable properties */
+  width:672px;
+  margin: 0 auto;
+  float:right;}
+}
 
 .cbp-l-project-social-wrapper, .cbp-l-inline-social-wrapper {
   display: inline-block;
@@ -2779,28 +2789,17 @@ opacity:1;*/}
 
 .cbp-l-project-details {
   /* @editable properties */
-  float: right;
-  width: 36%;
-  padding-left: 40px;
-  margin-bottom: 15px; }
-
-@media only screen and (max-width: 768px) {
-  .cbp-l-project-title {
-    font-size: 40px;
-    line-height: 43px;
-    margin: 10px 0 40px; }
-
-  .cbp-l-project-subtitle {
-    font-size: 17px;
+    width: 198px;
+    float: left;
+    line-height: 21px;
+    display: block;
+    margin-right: 20px;
   }
-  .cbp-l-project-desc {
-    /* @editable properties */
-    width: 100%; }
+
+@media only screen and (max-width: 1024px){
   .cbp-l-project-details {
-    /* @editable properties */
-    width: 100%;
-    margin-top: 20px;
-    padding-left: 0; } }
+    display: none;}
+}
 
 .cbp-l-project-desc-title {
   /* @editable properties */
@@ -2810,26 +2809,55 @@ opacity:1;*/}
 
 .cbp-l-project-desc-title span, .cbp-l-project-details-title span {
   /* @editable properties */
-  border-bottom: 1px solid #747474;
-  display: inline-block;
+/*  border-bottom: 1px solid #747474;
+*/  display: inline-block;
   margin: 0 0 -1px 0;
   font: 400 16px/36px "Roboto", sans-serif;
   padding: 0 5px 0 0; }
 
 .cbp-l-project-desc-text {
   /* @editable properties */
-  font: 300 17px/1.5em "Roboto", sans-serif;
-  color: #212121;
-/*  margin-bottom: 20px;
-*/}
+    position: relative;
+    margin: 0;
+    padding: 16px 0;
+    line-height: 1.6;
+    color: #4c4c4c;
+    font: 400 20px/30px "Roboto", sans-serif;
+}
 
-@media screen and (min-width: 767px){
+@media only screen and (max-width: 599px){
+.cbp-l-project-title {
+    font-size: 28px;
+    line-height: 27px;
+    margin-bottom: 0;
+}
+
+.cbp-l-project-subtitle {
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 0;
+}
+
+.cbp-l-project-desc-intro {
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 0;
+  }
 
 .cbp-l-project-desc-text {
-  /* @editable properties */
+    font: 400 17px/27px "Roboto",sans-serif;
+    padding: 10px 0;
+}
+
+}
+
+/*@media screen and (min-width: 767px){
+
+.cbp-l-project-desc-text {
+   @editable properties
   font: 300 17px/30px "Roboto", sans-serif;
   color: #212121;
-/*  margin-bottom: 20px;*/
+  margin-bottom: 20px;
   -moz-column-count: 2;
   -moz-column-gap: 1em;
   -webkit-column-count: 2;
@@ -2837,11 +2865,11 @@ opacity:1;*/}
   column-count: 2;
   column-gap: 1em;
   }
-}
+}*/
 
 .cbp-l-project-details-title {
   /* @editable properties */
-  border-bottom: 1px solid #cdcdcd;
+  border-bottom: 2px dotted #cdcdcd;
   margin-bottom: 19px;
   color: #444; }
 
@@ -2853,8 +2881,8 @@ opacity:1;*/}
 
 .cbp-l-project-details-list > li, .cbp-l-project-details-list > div {
   /* @editable properties */
-  border-bottom: 1px dotted #DFDFDF;
-  padding: inherit;
+/*  border-bottom: 1px dotted #DFDFDF;*/
+  padding: 0 0 10px;
   color: #666;
   font: 400 12px/30px "Roboto", sans-serif; }
 
@@ -2882,7 +2910,8 @@ opacity:1;*/}
   color: #fff; }
 
 .cbp-l-project-related {
-  /* @editable properties */ }
+  /* @editable properties */
+margin-top: 60px;}
 
 .cbp-l-project-related-wrap {
   /* @editable properties */
