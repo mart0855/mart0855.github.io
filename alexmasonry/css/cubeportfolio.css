@@ -2771,11 +2771,18 @@ opacity:1;*/}
 }
 
 @media only screen and (min-width: 1024px){
+.cbp-l-project-title h2 {
+    color: #333;
+    font: 600 68px/88px "Roboto Condensed", sans-serif;
+    text-align: left;
+    margin: 0 auto;
+}
+
 .cbp-l-project-desc {
   /* @editable properties */
-  width:672px;
+  width: 760px;
   margin: 0 auto;
-  float:right;}
+  }
 }
 
 .cbp-l-project-social-wrapper, .cbp-l-inline-social-wrapper {
@@ -2792,7 +2799,7 @@ opacity:1;*/}
     width: 198px;
     float: left;
     line-height: 21px;
-    display: block;
+    display: none;
     margin-right: 20px;
   }
 
