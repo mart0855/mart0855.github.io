@@ -2926,6 +2926,10 @@ margin-top: 60px;}
   margin: 0;
   padding: 0; }
 
+  .cbp-l-project-related-wrap ul{
+  list-stlye: none;
+}
+
 .cbp-l-project-related-item {
   /* @editable properties */
   margin-left: 5%;
