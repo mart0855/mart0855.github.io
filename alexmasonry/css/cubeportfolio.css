@@ -2413,6 +2413,18 @@
   width: 100%;
 }
 
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+.cbp-popup-singlePage .cbp-popup-content {
+  position: relative;
+  z-index: 1;
+  /* @editable properties */
+  margin-top: 60px;
+  vertical-align: top;
+  width: 100%;
+  max-width: 1024px;
+}
+}
+
 .cbp-popup-singlePage .cbp-popup-content-basic {
   position: relative;
   z-index: 1;
