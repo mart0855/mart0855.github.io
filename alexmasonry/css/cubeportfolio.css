@@ -2414,13 +2414,13 @@
 }
 
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
-.cbp-popup-singlePage .cbp-popup-content {
+.cbp-popup-wrap .cbp-popup-singlePage .cbp-popup-content {
   max-width: 1024px;
 }
 }
 
 @media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) and (-webkit-min-device-pixel-ratio: 2) {
-.cbp-popup-singlePage .cbp-popup-content {
+.cbp-popup-wrap .cbp-popup-singlePage .cbp-popup-content {
   max-width: 1024px;
 }
 }

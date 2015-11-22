@@ -119,8 +119,14 @@ p {
 .cbp-l-project-header{
     position: relative;
     padding: 20px 0 0;
-    max-width: 940px;
+    max-width: 100%;
     margin: auto auto 35px;
+}
+
+@media only screen and (min-width: 1024px){
+    .cbp-l-project-header{
+    max-width: 760px;
+}
 }
 
 .cbp-l-project-desc-text p:first-child{
@@ -545,7 +551,7 @@ box-shadow: 0px -1px 15px 2px rgba(33,33,33,0.81);
     margin:0 auto;
 }
 
-@media only screen and (min-width: 1025px){
+@media only screen and (min-width: 1024px){
     .project-wrapper{
     width: 760px;
     margin:0 auto;}
