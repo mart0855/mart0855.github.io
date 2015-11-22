@@ -829,13 +829,15 @@
 
 .cbp-l-filters-buttonCenter .cbp-filter-item.cbp-filter-item-active {
   /* @editable properties */
-  color: #3B9CB3;
-  border-color: #8CD2E5;
-  cursor: default; }
+  color: #303F9F;
+  border-color: #C5CAE9;
+  cursor: pointer;
+  background-color: #C5CAE9;
+ }
 
 .cbp-l-filters-buttonCenter .cbp-filter-counter {
   /* @editable properties */
-  background-color: #68ABBC;
+  background-color: #3F51B5;
   border-radius: 3px;
   color: #fff;
   font: 400 11px/18px Roboto, sans-serif;
@@ -864,7 +866,7 @@
   height: 0;
   border-left: 4px solid transparent;
   border-right: 4px solid transparent;
-  border-top: 4px solid #68ABBC;
+  border-top: 4px solid #3F51B5;
   display: none; }
 
 .cbp-l-filters-buttonCenter .cbp-filter-item:hover .cbp-filter-counter:before {
