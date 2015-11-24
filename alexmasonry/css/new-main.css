@@ -112,12 +112,15 @@ strong{
 }
 
 p {
-/*    margin: 0 auto 10px;
-*/    overflow: hidden;
+    overflow: hidden;
 }
 
 ul{
     list-style-type: none;
+}
+
+mark {
+  background-color: #F89107;
 }
 
 .cbp-l-project-header{
@@ -1227,12 +1230,14 @@ h1 {
     min-height: 64px;
     margin: 13px 10% 0 10%;}
 }
-
-@media screen and (max-width: 750px) {
+@media screen and (min-width: 750px) {
     h2 {
         font-size: 3.5em;
         line-height: 60px
     }
+}
+@media screen and (max-width: 750px) {
+
     #nav {
         cursor: pointer;
     }
@@ -1570,6 +1575,14 @@ h1 {
     transition: all 0.5s ease 0s;
 }
 
+.footer-icons{
+    width: 312px;
+    margin: 0 auto;
+    text-align: center;
+    left: 36px;
+    position: relative;
+}
+
 .social{
   clear: both;
   margin: 20px auto;
@@ -1592,13 +1605,19 @@ h1 {
     color: #FF5252;
 }
 
-@media only screen and (min-width : 320px) and (max-width : 568px){
+@media only screen and (min-width : 568px) and (max-width : 568px){
 .social {
     clear: both;
     padding: 0.5rem 1rem;
-    margin: 20px 30px 0;
-    width: 100%;
+    margin: 20px 0;
     }
+.footer-icons {
+    width: 312px;
+    margin: 0 auto;
+    text-align: center;
+    left: 20px;
+    position: relative;
+}
 }
 
 @media screen and (min-width: 480px) {
