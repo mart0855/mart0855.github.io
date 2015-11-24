@@ -116,6 +116,10 @@ p {
 */    overflow: hidden;
 }
 
+ul{
+    list-style-type: none;
+}
+
 .cbp-l-project-header{
     position: relative;
     padding: 20px 0 0;
@@ -171,6 +175,15 @@ h4 {
 
 small, .font-small {
     font-size: 0.75em;
+}
+
+.bio{
+    position: relative;
+    margin: 0;
+    line-height: 1.6;
+    color: #fff;
+    font: 400 17px/1.88235 "Roboto", sans-serif;
+    max-width: 740px;
 }
 
 .cbp-l-project-details-list a{
@@ -666,7 +679,7 @@ header p {
 }
 
 #headlines-about {
-    color: #32323c;
+    color: #ffffff;
 }
 
 #headlines-resume p {
@@ -682,7 +695,7 @@ header p {
 }
 #headlines-contact {
     line-height: 0;
-    color: #32323c;
+    color: #ffffff;
     margin-top: 21px;
     padding-right: 25px;
     float: left;
@@ -728,7 +741,7 @@ header p {
     width: 0px;
 }
 #content1 {
-    background-color: #C5CAE9;
+    background-color: #222222;
     position: relative;
     overflow: hidden;
   -webkit-transition: all 0.8s ease 0s;
@@ -740,7 +753,7 @@ header p {
 #about,
 #work,
 #contact,
-#footer-info {
+/*#footer-info*/ {
     margin: -64px auto 0 auto;
     width: 100%;
 }
@@ -856,7 +869,7 @@ span.roll {
     margin-top: 12px;
 }
 #content3 {
-    background-color: #f2f2f2;
+    background-color: #303F9F;
     position: relative;
     overflow: hidden;
   -webkit-transition: all 0.8s ease 0s;
@@ -952,18 +965,18 @@ textarea {
     height: 200px
 }
 #content4 {
-    background-color: #3F51B5;
+    background-color: #303F9F;
     padding: 8px 0 0 0;
     color: #fff;
     position: relative;
     overflow: hidden;
 }
 #footer-info {
-    width: 850px;
     margin: 0 auto
 }
 #footer-info p {
-    float: left;
+    text-align: center;
+    font: 300 14px/1.5em "Roboto", sans-serif;
 }
 #download {
     float: left;
@@ -1265,7 +1278,7 @@ h1 {
     #about,
     #work,
     #contact,
-    #footer-info {
+    /*#footer-info*/ {
         margin: -64px auto 0 auto;
     }
     #headlines-about,
@@ -1495,9 +1508,7 @@ h1 {
 .view {
     min-height: 70px;
     margin: 13px 10% 5px 10%;
-
 }
-
 }
 
 @media screen and (min-width: 1680px) {
@@ -1518,6 +1529,90 @@ h1 {
 .view {
     min-height: 70px;
     margin: 13px 10% 5px 10%;
+    }
+}
 
+.email{
+    font: 300 20px/1.5em "Roboto", sans-serif;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+.email a:hover{
+    color: #FF5252;
+}
+
+.email a{
+    text-decoration: none;
+}
+
+@media screen and (min-width: 568px) {
+
+.email span{
+    font: 300 30px/1.5em "Roboto", sans-serif;
+    margin-top: 20px;
+}
+}
+/*Social Icons*/
+
+.hide-text{
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  display: block;
+}
+
+.ease-all{
+    -webkit-transition: all 0.5s ease 0s;
+    -moz-transition: all 0.5s ease 0s;
+    -ms-transition: all 0.5s ease 0s;
+    -o-transition: all 0.5s ease 0s;
+    transition: all 0.5s ease 0s;
+}
+
+.social{
+  clear: both;
+  padding: 0.5rem 1rem;
+  margin: 20px auto;
+  width:100%;
+}
+
+.social li a,
+.social li a:link,
+.social li a:visited{
+  font-size: 1.5rem;
+  float: left;
+  display: block;
+  height: 20px;
+  width: 20px;
+  margin-right: 2rem;
+}
+
+.social li a:hover,
+.social li a:focus,
+.social li a:active{
+    color: #FF5252;
+}
+
+@media only screen and (min-width : 320px) and (max-width : 568px){
+.social {
+    clear: both;
+    padding: 0.5rem 1rem;
+    margin: 20px 30px 0;
+    width: 100%;
+    }
+}
+
+@media screen and (min-width: 480px) {
+
+.social li a,
+.social li a:link,
+.social li a:visited{
+  font-size: 2rem;
+  float: left;
+  display: block;
+  height: 30px;
+  width: 30px;
+  margin-right: 2.5rem;
 }
 }
