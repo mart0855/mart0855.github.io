@@ -2941,7 +2941,7 @@ margin-top: 60px;}
   padding: 0; }
 
   .cbp-l-project-related-wrap ul{
-  list-stlye: none;
+  list-style: none;
 }
 
 .cbp-l-project-related-item {
@@ -2958,7 +2958,7 @@ margin-top: 60px;}
   /* @editable properties */
   font: 700 14px/18px "Roboto", sans-serif;
   color: #474747;
-  margin-top: 20px; }
+  margin-top: 10px; }
 
 .cbp-l-project-related-link {
   /* @editable properties */
