@@ -158,6 +158,7 @@ h1 {
 h2 {
     font-size: 2.369em;
     font-weight: 500;
+    text-align: center;
 }
 
 h3 {
@@ -179,11 +180,12 @@ small, .font-small {
 
 .bio{
     position: relative;
-    margin: 0;
+    margin: 0 auto;
     line-height: 1.6;
     color: #fff;
     font: 400 17px/1.88235 "Roboto", sans-serif;
     max-width: 740px;
+    text-align: center;
 }
 
 .cbp-l-project-details-list a{
@@ -696,10 +698,9 @@ header p {
 #headlines-contact {
     line-height: 0;
     color: #ffffff;
-    margin-top: 21px;
-    padding-right: 25px;
-    float: left;
+    margin-top: 20px;
 }
+
 #about-me-box {
     width: 48%;
     float: right;
@@ -1534,8 +1535,7 @@ h1 {
 
 .email{
     font: 300 20px/1.5em "Roboto", sans-serif;
-    margin-left: 15px;
-    margin-top: 20px;
+    text-align: center;
 }
 
 .email a:hover{
@@ -1572,9 +1572,7 @@ h1 {
 
 .social{
   clear: both;
-  padding: 0.5rem 1rem;
   margin: 20px auto;
-  width:100%;
 }
 
 .social li a,
