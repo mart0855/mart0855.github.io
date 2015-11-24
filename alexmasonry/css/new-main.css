@@ -1236,6 +1236,7 @@ h1 {
         line-height: 60px
     }
 }
+
 @media screen and (max-width: 750px) {
 
     #nav {
@@ -1416,11 +1417,8 @@ h1 {
     #contact,
     #footer-info {
         font-size: 1em;
-        padding-left: 20px;
     }
-    #about {
-        width: 122%;
-    }
+
     #about-me-box{
     margin-right: 223px;
     padding: 0 5px;
