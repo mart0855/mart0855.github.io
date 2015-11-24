@@ -2941,7 +2941,7 @@ margin-top: 60px;}
   padding: 0; }
 
   .cbp-l-project-related-wrap ul{
-  list-style: none;
+  list-style: none !important;
 }
 
 .cbp-l-project-related-item {
