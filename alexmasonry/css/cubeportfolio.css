@@ -2868,25 +2868,8 @@ opacity:1;*/}
 .cbp-l-project-desc-text {
     font: 400 17px/1.88235 "Roboto", sans-serif;
     padding: 10px 0;
-}
-
-}
-
-/*@media screen and (min-width: 767px){
-
-.cbp-l-project-desc-text {
-   @editable properties
-  font: 300 17px/30px "Roboto", sans-serif;
-  color: #212121;
-  margin-bottom: 20px;
-  -moz-column-count: 2;
-  -moz-column-gap: 1em;
-  -webkit-column-count: 2;
-  -webkit-column-gap: 1em;
-  column-count: 2;
-  column-gap: 1em;
   }
-}*/
+}
 
 .cbp-l-project-details-title {
   /* @editable properties */
