@@ -323,7 +323,7 @@ a:focus {
 #item_2:hover,
 #item_3:hover,
 #item_4:hover {
-    color: #32323c !important;
+    color: #FF5252 !important;
     -moz-transition: all .5s ease 0;
     -ms-transition: all .5s ease 0;
     -o-transition: all .5s ease 0;
