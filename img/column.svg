@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="980px" height="20px" viewBox="0 0 980 20" enable-background="new 0 0 980 20" xml:space="preserve">
+<g id="Column_Grid">
+	<g opacity="0.1">
+		<rect x="20" fill="#ED2224" width="60" height="20"/>
+		<rect x="100" fill="#ED2224" width="60" height="20"/>
+		<rect x="180" fill="#ED2224" width="60" height="20"/>
+		<rect x="260" fill="#ED2224" width="60" height="20"/>
+		<rect x="340" fill="#ED2224" width="60" height="20"/>
+		<rect x="420" fill="#ED2224" width="60" height="20"/>
+		<rect x="500" fill="#ED2224" width="60" height="20"/>
+		<rect x="580" fill="#ED2224" width="60" height="20"/>
+		<rect x="660" fill="#ED2224" width="60" height="20"/>
+		<rect x="740" fill="#ED2224" width="60" height="20"/>
+		<rect x="820" fill="#ED2224" width="60" height="20"/>
+		<rect x="900" fill="#ED2224" width="60" height="20"/>
+	</g>
+</g>
+<g id="Baseline_Grid" display="none">
+	<rect y="19" display="inline" fill="#9595C9" width="1300" height="1"/>
+</g>
+</svg>
