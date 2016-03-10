@@ -208,6 +208,10 @@ small, .font-small {
   overflow: hidden;
 }
 
+.visit-link {
+    text-align: center;
+}
+
 .round-button-circle {
     width: 76%;
     height:0;
