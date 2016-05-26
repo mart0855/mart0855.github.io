@@ -289,6 +289,10 @@ a:focus {
     text-decoration: none;
 }
 
+.link {
+    color: #C5CAE9;
+}
+
 #navigation {
   position: fixed;
   top: 0;
