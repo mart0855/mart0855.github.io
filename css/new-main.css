@@ -287,15 +287,14 @@ a:active {
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #FF5252;
 }
 
-.here{
+a .here:link{
     color: #303F9F;
     text-decoration: none;
 }
 
-.here:hover{
+a .here:hover{
     color: #FF5252;
 }
 
