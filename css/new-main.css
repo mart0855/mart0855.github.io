@@ -291,6 +291,11 @@ a:focus {
 
 .here {
     color: #303F9F;
+    text-decoration: none;
+}
+
+.here:hover{
+    color: #FF5252;
 }
 
 #navigation {
