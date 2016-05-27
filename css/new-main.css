@@ -289,12 +289,12 @@ a:focus {
     text-decoration: none;
 }
 
-a .here:link {
+.here:link {
     color: #303F9F;
     text-decoration: none;
 }
 
-a .here:hover {
+.here:hover {
     color: #FF5252;
 }
 
