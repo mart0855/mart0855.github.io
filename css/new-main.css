@@ -115,12 +115,12 @@ p {
     overflow: hidden;
 }
 
-p::selection{
+::selection{
     color: white;
     background: #ff5252;
 }
 
-p::-moz-selection{
+::-moz-selection{
     color: white;
     background: #ff5252;
 }
