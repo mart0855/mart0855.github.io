@@ -115,6 +115,16 @@ p {
     overflow: hidden;
 }
 
+p::selection{
+    color: white;
+    background: #ff5252;
+}
+
+p::-moz-selection{
+    color: white;
+    background: #ff5252;
+}
+
 ul{
     list-style-type: none;
 }
