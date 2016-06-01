@@ -299,6 +299,10 @@ a:focus {
     text-decoration: none;
 }
 
+a:visited{
+    color: #D32F2F;
+}
+
 .here:link {
     color: #303F9F;
     text-decoration: none;
