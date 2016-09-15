@@ -140,12 +140,12 @@ mark {
     margin: auto auto 35px;
 }
 
-.cbp-l-project-desc-text a{
+body-link{
     text-decoration: none;
     color: #3F51B5;
 }
 
-.cbp-l-project-desc-text a:hover{
+body-link a:hover{
     color: #FF5252;
 }
 
