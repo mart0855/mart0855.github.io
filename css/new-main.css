@@ -149,6 +149,9 @@ body-link a:hover{
     color: #FF5252;
 }
 
+visit-link{
+    text-align: center;
+}
 
 @media only screen and (min-width: 1024px){
     .cbp-l-project-header{
