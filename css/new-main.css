@@ -140,13 +140,18 @@ mark {
     margin: auto auto 35px;
 }
 
-body-link{
+.body-link a{
     text-decoration: none;
     color: #3F51B5;
 }
 
-body-link a:hover{
+.body-link a:hover,
+a:focus{
     color: #FF5252;
+}
+
+.body-link a:visited{
+    color: #D32F2F;
 }
 
 visit-link{
@@ -305,10 +310,12 @@ small, .font-small {
 a,
 a:active {
     color: #ffffff;
+    text-decoration: none;
 }
 a:hover,
 a:focus {
-    text-decoration: none;
+    text-decoration: none
+    color: #D32F2F;
 }
 
 a:visited{
