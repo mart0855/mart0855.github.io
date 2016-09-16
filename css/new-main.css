@@ -140,17 +140,16 @@ mark {
     margin: auto auto 35px;
 }
 
-.body-link a{
+.body-link:link{
     text-decoration: none;
     color: #3F51B5;
 }
 
-.body-link a:hover,
-a:focus{
+.body-link:hover{
     color: #FF5252;
 }
 
-.body-link a:visited{
+.body-link:visited{
     color: #D32F2F;
 }
 
@@ -325,6 +324,7 @@ a:visited{
 .here:link {
     color: #303F9F;
     text-decoration: none;
+    text-align:center;
 }
 
 .here:hover {
