@@ -324,7 +324,6 @@ a:visited{
 .here:link {
     color: #303F9F;
     text-decoration: none;
-    text-align:center;
 }
 
 .here:hover {
@@ -1603,9 +1602,28 @@ h1 {
     text-decoration: none;
 }
 
+.click{
+    font: 300 20px/1.5em "Roboto", sans-serif;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.click a:hover{
+    color: #FF5252;
+}
+
+.click a{
+    text-decoration: none;
+}
+
 @media screen and (min-width: 568px) {
 
 .email span{
+    font: 300 30px/1.5em "Roboto", sans-serif;
+    margin-top: 20px;
+}
+
+.click span{
     font: 300 30px/1.5em "Roboto", sans-serif;
     margin-top: 20px;
 }
