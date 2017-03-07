@@ -129,6 +129,10 @@ ul{
     list-style-type: none;
 }
 
+hr{
+    margin: 20px 0;
+}
+
 mark {
   background-color: #F89107;
 }
