@@ -1610,7 +1610,7 @@ h1 {
 .click{
     font: 300 20px/1.5em "Roboto", sans-serif;
     text-align: center;
-    padding-bottom: 80px;
+    padding-bottom: 20px;
 }
 
 .click a:hover{
