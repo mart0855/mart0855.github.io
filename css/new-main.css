@@ -1592,9 +1592,9 @@ h1 {
 }
 
 .view {
-    min-height: 80px;
-    margin: 35px 10% 5px 10%;
-    }
+    min-height: 70px;
+    margin: 25px 10% 5px 10%;
+}
 }
 
 .email{
