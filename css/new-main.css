@@ -242,6 +242,21 @@ small, .font-small {
     text-align: center;
 }
 
+.overlay {  
+    background:rgba(0,0,0,.75);
+    text-align:center;
+    padding:45px 0 66px 0;
+    opacity:0;
+    -webkit-transition: opacity .25s ease;
+    -moz-transition: opacity .25s ease;
+}
+
+.cbp-item:hover 
+.overlay {
+    opacity:1;
+}
+
+
 .round-button-circle {
     width: 76%;
     height:0;
@@ -258,6 +273,7 @@ small, .font-small {
     -ms-transition: all 0.5s ease 0s;
     -o-transition: all 0.5s ease 0s;
     transition: all 0.5s ease 0s;
+    background-blend-mode: multiply;
 }
 .round-button-circle:hover {
     background:#D32F2F;
