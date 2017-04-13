@@ -251,7 +251,7 @@ small, .font-small {
     -moz-transition: opacity .25s ease;
 }
 
-.cbp-item:hover 
+.cbp-caption:hover 
 .overlay {
     opacity:1;
 }
