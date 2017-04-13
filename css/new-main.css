@@ -1572,7 +1572,7 @@ h1 {
 
 .view {
     min-height: 70px;
-    margin: 13px 10% 5px 10%;
+    margin: 25px 10% 5px 10%;
 }
 }
 
@@ -1592,7 +1592,7 @@ h1 {
 }
 
 .view {
-    min-height: 90px;
+    min-height: 80px;
     margin: 35px 10% 5px 10%;
     }
 }
