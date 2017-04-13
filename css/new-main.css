@@ -256,6 +256,10 @@ small, .font-small {
     opacity:1;
 }
 
+.overlay a{
+    color:#e2eaf3;
+}
+
 
 .round-button-circle {
     width: 76%;
@@ -425,26 +429,9 @@ a:visited{
     margin-left: 13px;
     padding: 10px 0 15px 10px;
 }
-/*#nav {
-    background-color: #04c3b1;
-    height: 60px;
-    line-height: 60px;
-    width: 100%;
-    position: fixed;
-    z-index: 999;
-    top: -110px;
-    opacity: .97;
-    -webkit-transition: all 0.5s ease 0;
-    -moz-transition: all 0.5s ease 0;
-    -ms-transition: all 0.5s ease 0;
-    -o-transition: all 0.5s ease 0;
-    transition: all 0.5s ease 0;
-
-}*/
 
 #nav {
-        background-color: #303F9F;
-
+  background-color: #303F9F;
   position: fixed;
   top: 0;
   left: 0;
