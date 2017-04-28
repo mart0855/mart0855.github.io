@@ -98,14 +98,14 @@ body {
     color: #4f4f4f;
     background-color: white;
 }
-/*body {
+body {
     overflow: hidden;
     background-color: white;
     font-family: 'Roboto';
     font-weight: 900;
     line-height: 1.45;
     color: #333;
-}*/
+}
 
 em{
     font-family: 'RawsonPro-RegularIt', sans-serif;
