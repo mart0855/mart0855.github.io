@@ -73,7 +73,7 @@
       <img width="50" height="50" alt="" src="img/arrow.svg"/>
       </div>
 
-        <div id="video-bg">
+        <div id="header">
           <video autoplay poster="img/showreel.jpg" id="bgvid" loop>
             <source src="video/showreel.mp4" type="video/mp4">
             <source src="video/showreel.ogg" type="video/ogg">
@@ -537,7 +537,7 @@
 
           function autoResizeDiv()
           {
-              document.getElementById('video-bg').style.height = window.innerHeight +'px';
+              document.getElementById('header').style.height = window.innerHeight +'px';
           }
           window.onresize = autoResizeDiv;
           autoResizeDiv();
