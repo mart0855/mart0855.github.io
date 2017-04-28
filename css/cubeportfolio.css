@@ -814,7 +814,7 @@
   border: 1px solid #ECECEC;
   color: #3D3D3D
   cursor: pointer;
-  font-family: "RawsonPro-ExtraLight", sans-serif;
+  font-family: "RawsonPro-Light", sans-serif;
   font-weight: normal;
   font-style: normal;
   margin: 0 10px 10px 0;
@@ -3635,7 +3635,9 @@ margin-top: 60px;}
 
 .cbp-l-grid-masonry-projects-desc {
   /* @editable properties */
-  font: 400 15px/18px "Roboto", sans-serif;
+  font-family: 'RawsonPro-Regular', sans-serif;
+  font-weight: normal;
+  font-style: normal;
   color: #FFFFFF;
   text-align: center; }
 

@@ -106,11 +106,15 @@ body {
 }*/
 
 em{
-    font-style: italic;
+    font-family: 'RawsonPro-RegularIt', sans-serif;
+    font-weight: normal;
+    font-style: normal;
 }
 
 strong{
-    font-weight: bold;
+    font-family: 'RawsonPro-Bold', sans-serif;
+    font-weight: normal;
+    font-style: normal;
     letter-spacing: 1px;
 }
 
@@ -223,7 +227,9 @@ small, .font-small {
     margin: 0 auto;
     line-height: 1.6;
     color: #fff;
-    font: 400 17px/1.88235 "Roboto", sans-serif;
+    font-family: 'RawsonPro-Regular', sans-serif;
+    font-weight: normal;
+    font-style: normal;
     max-width: 750px;
     text-align: center;
 }
@@ -285,6 +291,9 @@ small, .font-small {
     -o-transition: all 0.5s ease 0s;
     transition: all 0.5s ease 0s;
     background-blend-mode: multiply;
+    font-family: 'RawsonPro-Regular', sans-serif;
+    font-weight: normal;
+    font-style: normal;
 }
 .round-button-circle:hover {
     background:#D32F2F;
@@ -1215,8 +1224,9 @@ textarea {
 .project-title h3 {
     text-align: center;
     color: #fff;
-    font-family: "Roboto Condensed", sans-serif;
-    font-weight: 400;
+    font-family: 'RawsonPro-SemiBold', sans-serif;
+    font-weight: normal;
+    font-style: normal;
     line-height: 1em;
     text-transform: uppercase;
 }
@@ -1605,7 +1615,10 @@ h1 {
 }
 
 .email{
-    font: 300 20px/1.5em "Roboto", sans-serif;
+    font-family: 'RawsonPro-Regular', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
     text-align: center;
 }
 
@@ -1618,7 +1631,10 @@ h1 {
 }
 
 .click{
-    font: 300 20px/1.5em "Roboto", sans-serif;
+    font-family: 'RawsonPro-Regular', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
     text-align: center;
     padding-bottom: 20px;
 }
