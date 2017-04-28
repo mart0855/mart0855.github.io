@@ -369,6 +369,11 @@ a:visited{
 }
 
 .here:link {
+    font-family: 'RawsonPro-Regular', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
     color: #303F9F;
     text-decoration: none;
 }
