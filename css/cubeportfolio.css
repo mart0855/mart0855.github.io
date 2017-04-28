@@ -2846,7 +2846,10 @@ opacity:1;*/}
 /*  border-bottom: 1px solid #747474;
 */  display: inline-block;
   margin: 0 0 -1px 0;
-  font: 400 16px/36px "Roboto", sans-serif;
+  font-family: 'RawsonPro-Regular', sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 16px;
   padding: 0 5px 0 0; }
 
 .cbp-l-project-desc-text {
@@ -2856,7 +2859,11 @@ opacity:1;*/}
     padding: 16px 0;
     line-height: 1.6;
     color: #4c4c4c;
-    font: 400 17px/1.88235 "Roboto", sans-serif;
+    font-family: 'RawsonPro-Regular', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 17px;
+    line-height: 1.88253;
 }
 
 @media only screen and (max-width: 599px){
@@ -2952,7 +2959,11 @@ margin-top: 60px;}
 
 .cbp-l-project-related-title {
   /* @editable properties */
-  font: 700 14px/18px "Roboto", sans-serif;
+  font-family: 'RawsonPro-SemiBold', sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 14px;
+  line-height: 18px;
   color: #474747;
   margin-top: 10px; }
 
