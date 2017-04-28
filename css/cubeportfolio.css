@@ -812,9 +812,11 @@
   /* @editable properties */
   background-color: #FFFFFF;
   border: 1px solid #ECECEC;
-  color: #888888;
+  color: #3D3D3D
   cursor: pointer;
-  font: 400 12px/32px Roboto, sans-serif;
+  font-family: "RawsonPro-ExtraLight", sans-serif;
+  font-weight: normal;
+  font-style: normal;
   margin: 0 10px 10px 0;
   overflow: visible;
   padding: 0 17px;
