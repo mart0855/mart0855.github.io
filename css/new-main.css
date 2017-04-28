@@ -90,31 +90,24 @@ body {
     overflow: hidden;
     overflow-y: scroll;
     margin: 0;
-    font-family: 'RawsonPro-Regular', sans-serif;
-    font-weight: normal;
-    font-style: normal;
+    font-family: 'Roboto', sans-serif;
     color: #4f4f4f;
-    background-color: white;
 }
-/*body {
+body {
     overflow: hidden;
     background-color: white;
     font-family: 'Roboto';
     font-weight: 900;
     line-height: 1.45;
     color: #333;
-}*/
+}
 
 em{
-    font-family: 'RawsonPro-RegularIt', sans-serif;
-    font-weight: normal;
-    font-style: normal;
+    font-style: italic;
 }
 
 strong{
-    font-family: 'RawsonPro-Bold', sans-serif;
-    font-weight: normal;
-    font-style: normal;
+    font-weight: bold;
     letter-spacing: 1px;
 }
 
@@ -179,12 +172,7 @@ visit-link{
 }
 
 .cbp-l-project-desc-intro {
-    font-family: 'RawsonPro-Light', sans-serif;
-    font-weight: normal;
-    font-style: normal;
-    font-size: 24px;
-    line-height: 1.5em;
-    color: #4c4c4c;
+  font: 200 24px/1.5em "Roboto", sans-serif;
 }
 
 h1, h3, h4 {
@@ -197,16 +185,12 @@ h1 {
     margin-top: 0em;
     font-size: 3.157em;
     line-height: 0.9em;
-    font-family: 'Roboto', sans-serif;
-    font-weight: normal;
-    font-style: normal;
+    font-style: italic;
 }
 
 h2 {
     font-size: 2.369em;
-    font-family: 'RawsonPro-SemiBold', sans-serif;
-    font-weight: normal;
-    font-style: normal;
+    font-weight: 500;
     text-align: center;
 }
 
@@ -232,9 +216,7 @@ small, .font-small {
     margin: 0 auto;
     line-height: 1.6;
     color: #fff;
-    font-family: 'RawsonPro-Regular', sans-serif;
-    font-weight: normal;
-    font-style: normal;
+    font: 400 17px/1.88235 "Roboto", sans-serif;
     max-width: 750px;
     text-align: center;
 }
@@ -296,9 +278,6 @@ small, .font-small {
     -o-transition: all 0.5s ease 0s;
     transition: all 0.5s ease 0s;
     background-blend-mode: multiply;
-    font-family: 'RawsonPro-Regular', sans-serif;
-    font-weight: normal;
-    font-style: normal;
 }
 .round-button-circle:hover {
     background:#D32F2F;
@@ -367,11 +346,6 @@ a:visited{
 }
 
 .here:link {
-    font-family: 'RawsonPro-Regular', sans-serif;
-    font-weight: normal;
-    font-style: normal;
-    font-size: 20px;
-    text-align: center;
     color: #303F9F;
     text-decoration: none;
 }
@@ -1067,10 +1041,7 @@ textarea {
 }
 #footer-info p {
     text-align: center;
-    font-family: 'RawsonPro-Regular', sans-serif;
-    font-weight: normal;
-    font-style: normal;
-    font-style: 14px;
+    font: 300 14px/1.5em "Roboto", sans-serif;
 }
 #download {
     float: left;
@@ -1237,9 +1208,8 @@ textarea {
 .project-title h3 {
     text-align: center;
     color: #fff;
-    font-family: 'RawsonPro-SemiBold', sans-serif;
-    font-weight: normal;
-    font-style: normal;
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 400;
     line-height: 1em;
     text-transform: uppercase;
 }
@@ -1628,10 +1598,7 @@ h1 {
 }
 
 .email{
-    font-family: 'RawsonPro-Regular', sans-serif;
-    font-weight: normal;
-    font-style: normal;
-    font-size: 20px;
+    font: 300 20px/1.5em "Roboto", sans-serif;
     text-align: center;
 }
 
@@ -1640,19 +1607,11 @@ h1 {
 }
 
 .email a{
-    font-family: 'RawsonPro-Regular', sans-serif;
-    font-weight: normal;
-    font-style: normal;
-    font-size: 30px;
-    text-align: center;
     text-decoration: none;
 }
 
 .click{
-    font-family: 'RawsonPro-Regular', sans-serif;
-    font-weight: normal;
-    font-style: normal;
-    font-size: 20px;
+    font: 300 20px/1.5em "Roboto", sans-serif;
     text-align: center;
     padding-bottom: 20px;
 }
