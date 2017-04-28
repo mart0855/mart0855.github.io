@@ -1059,7 +1059,10 @@ textarea {
 }
 #footer-info p {
     text-align: center;
-    font: 300 14px/1.5em "Roboto", sans-serif;
+    font-family: 'RawsonPro-Regular', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-style: 14px;
 }
 #download {
     float: left;
@@ -1629,6 +1632,11 @@ h1 {
 }
 
 .email a{
+    font-family: 'RawsonPro-Regular', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 30px;
+    text-align: center;
     text-decoration: none;
 }
 
